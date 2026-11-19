@@ -10,6 +10,14 @@ This repository contains an interactive single-page study web application along 
 
 ---
 
+## 2. Project Status & Scope
+
+**Current Status:** Completed Personal Study Utility.
+
+This repository serves as a self-contained, standalone study tool built for focused curriculum revision (JPD / Minna no Nihongo syllabus). It runs completely client-side in the browser without external backend servers or database dependencies.
+
+---
+
 ## 2. Key Modules
 
 - **Flashcard Engine:** Spaced repetition flashcards with bidirectional translation (JP-to-VN, VN-to-JP), Furigana toggle, and audio pronunciation.
