@@ -1,0 +1,3182 @@
+[
+  {
+    "id": "v_4_1",
+    "lesson": 4,
+    "sub": "Unit 4.1: Phương hướng & Vị trí",
+    "word": "北",
+    "kanji": "北",
+    "reading": "きた",
+    "meaning": "bắc",
+    "romaji": "Kì ta"
+  },
+  {
+    "id": "v_4_2",
+    "lesson": 4,
+    "sub": "Unit 4.1: Phương hướng & Vị trí",
+    "word": "南",
+    "kanji": "南",
+    "reading": "みなみ",
+    "meaning": "nam",
+    "romaji": "Mì na mi"
+  },
+  {
+    "id": "v_4_3",
+    "lesson": 4,
+    "sub": "Unit 4.1: Phương hướng & Vị trí",
+    "word": "東",
+    "kanji": "東",
+    "reading": "ひがし",
+    "meaning": "đông",
+    "romaji": "Hì ga shi"
+  },
+  {
+    "id": "v_4_4",
+    "lesson": 4,
+    "sub": "Unit 4.1: Phương hướng & Vị trí",
+    "word": "西",
+    "kanji": "西",
+    "reading": "にし",
+    "meaning": "tây",
+    "romaji": "Nì shi"
+  },
+  {
+    "id": "v_4_5",
+    "lesson": 4,
+    "sub": "Unit 4.1: Phương hướng & Vị trí",
+    "word": "真ん中",
+    "kanji": "真ん中",
+    "reading": "まんなか",
+    "meaning": "chính giữa (trung)",
+    "romaji": "Man ná kà"
+  },
+  {
+    "id": "v_4_6",
+    "lesson": 4,
+    "sub": "Unit 4.1: Phương hướng & Vị trí",
+    "word": "車",
+    "kanji": "車",
+    "reading": "くるま",
+    "meaning": "Xe hơi",
+    "romaji": "Kừ rư ma"
+  },
+  {
+    "id": "v_4_7",
+    "lesson": 4,
+    "sub": "Unit 4.1: Phương hướng & Vị trí",
+    "word": "しんかんせん",
+    "kanji": "",
+    "reading": "しんかんせん",
+    "meaning": "Tàu cao tốc Shinkansen",
+    "romaji": "Shín kan sen"
+  },
+  {
+    "id": "v_4_8",
+    "lesson": 4,
+    "sub": "Unit 4.1: Phương hướng & Vị trí",
+    "word": "電車",
+    "kanji": "電車",
+    "reading": "でんしゃ",
+    "meaning": "Tàu điện",
+    "romaji": "Đén Shà"
+  },
+  {
+    "id": "v_4_9",
+    "lesson": 4,
+    "sub": "Unit 4.1: Phương hướng & Vị trí",
+    "word": "飛行機",
+    "kanji": "飛行機",
+    "reading": "ひこうき",
+    "meaning": "Máy bay",
+    "romaji": "Hì kố ki"
+  },
+  {
+    "id": "v_4_10",
+    "lesson": 4,
+    "sub": "Unit 4.1: Phương hướng & Vị trí",
+    "word": "あるいて",
+    "kanji": "",
+    "reading": "あるいて",
+    "meaning": "Đi bộ",
+    "romaji": "À rưi tê"
+  },
+  {
+    "id": "v_4_11",
+    "lesson": 4,
+    "sub": "Unit 4.1: Phương hướng & Vị trí",
+    "word": "駅",
+    "kanji": "駅",
+    "reading": "えき",
+    "meaning": "Nhà ga",
+    "romaji": "Ế ki"
+  },
+  {
+    "id": "v_4_12",
+    "lesson": 4,
+    "sub": "Unit 4.1: Phương hướng & Vị trí",
+    "word": "まち",
+    "kanji": "",
+    "reading": "まち",
+    "meaning": "thị trấn (Thành phố)",
+    "romaji": "Mà chi"
+  },
+  {
+    "id": "v_4_13",
+    "lesson": 4,
+    "sub": "Unit 4.1: Phương hướng & Vị trí",
+    "word": "～くらい",
+    "kanji": "",
+    "reading": "～くらい",
+    "meaning": "Khoảng~",
+    "romaji": "Kừ rai"
+  },
+  {
+    "id": "v_4_14",
+    "lesson": 4,
+    "sub": "Unit 4.1: Phương hướng & Vị trí",
+    "word": "どのくらい",
+    "kanji": "",
+    "reading": "どのくらい",
+    "meaning": "Khoảng bao lâu?",
+    "romaji": "Đồ nố kừ rai"
+  },
+  {
+    "id": "v_4_15",
+    "lesson": 4,
+    "sub": "Unit 4.1: Phương hướng & Vị trí",
+    "word": "～じかん",
+    "kanji": "",
+    "reading": "～じかん",
+    "meaning": "～Tiếng",
+    "romaji": "Jí kàn"
+  },
+  {
+    "id": "v_4_16",
+    "lesson": 4,
+    "sub": "Unit 4.1: Phương hướng & Vị trí",
+    "word": "バンコク",
+    "kanji": "",
+    "reading": "バンコク",
+    "meaning": "Tên thành phố (Thái)",
+    "romaji": "Ban kố kừ"
+  },
+  {
+    "id": "v_4_17",
+    "lesson": 4,
+    "sub": "Unit 4.1: Phương hướng & Vị trí",
+    "word": "アユタヤ",
+    "kanji": "",
+    "reading": "アユタヤ",
+    "meaning": "Tên thành phố (Thái)",
+    "romaji": "À yu ta ya"
+  },
+  {
+    "id": "v_4_18",
+    "lesson": 4,
+    "sub": "Unit 4.1: Phương hướng & Vị trí",
+    "word": "シドニー",
+    "kanji": "",
+    "reading": "シドニー",
+    "meaning": "Tên thành phố (Úc)",
+    "romaji": "Shí đô ni"
+  },
+  {
+    "id": "v_4_19",
+    "lesson": 4,
+    "sub": "Unit 4.1: Phương hướng & Vị trí",
+    "word": "パース",
+    "kanji": "",
+    "reading": "パース",
+    "meaning": "Tên thành phố (Úc)",
+    "romaji": "Pá – sừ"
+  },
+  {
+    "id": "v_4_20",
+    "lesson": 4,
+    "sub": "Unit 4.1: Phương hướng & Vị trí",
+    "word": "ソウル",
+    "kanji": "",
+    "reading": "ソウル",
+    "meaning": "Tên thành phố (Hàn)",
+    "romaji": "Số ư rư"
+  },
+  {
+    "id": "v_4_21",
+    "lesson": 4,
+    "sub": "Unit 4.1: Phương hướng & Vị trí",
+    "word": "テグ",
+    "kanji": "",
+    "reading": "テグ",
+    "meaning": "Tên thành phố (Hàn)",
+    "romaji": "Tế gư"
+  },
+  {
+    "id": "v_4_22",
+    "lesson": 4,
+    "sub": "Unit 4.1: Phương hướng & Vị trí",
+    "word": "ローマ",
+    "kanji": "",
+    "reading": "ローマ",
+    "meaning": "Tên thành phố (Ý)",
+    "romaji": "Rố ma"
+  },
+  {
+    "id": "v_4_23",
+    "lesson": 4,
+    "sub": "Unit 4.1: Phương hướng & Vị trí",
+    "word": "ナポリ",
+    "kanji": "",
+    "reading": "ナポリ",
+    "meaning": "Tên thành phố (Ý)",
+    "romaji": "Ná Pô ri"
+  },
+  {
+    "id": "v_4_24",
+    "lesson": 4,
+    "sub": "Unit 4.1: Phương hướng & Vị trí",
+    "word": "フィレンツェ",
+    "kanji": "",
+    "reading": "フィレンツェ",
+    "meaning": "Tên thành phố (Ý)",
+    "romaji": "Fì Ren Tsê"
+  },
+  {
+    "id": "v_4_25",
+    "lesson": 4,
+    "sub": "Unit 4.1: Phương hướng & Vị trí",
+    "word": "ハノイ",
+    "kanji": "",
+    "reading": "ハノイ",
+    "meaning": "Tên thành phố (Việt Nam)",
+    "romaji": "Ha noi"
+  },
+  {
+    "id": "v_4_26",
+    "lesson": 4,
+    "sub": "Unit 4.1: Phương hướng & Vị trí",
+    "word": "ホーチミン市",
+    "kanji": "ホーチミン市",
+    "reading": "ホーチミンし",
+    "meaning": "Tên thành phố (Việt Nam)",
+    "romaji": "Ho Chi Min shi"
+  },
+  {
+    "id": "v_4_27",
+    "lesson": 4,
+    "sub": "Unit 4.1: Phương hướng & Vị trí",
+    "word": "モスクワ",
+    "kanji": "",
+    "reading": "モスクワ",
+    "meaning": "Tên thành phố (Nga)",
+    "romaji": "Mọs sư kứ wa"
+  },
+  {
+    "id": "v_4_28",
+    "lesson": 4,
+    "sub": "Đếm giờ (1〜10 tiếng)",
+    "word": "一時間",
+    "kanji": "一時間",
+    "reading": "いちじかん",
+    "meaning": "一時間 (一 tiếng đồng hồ)",
+    "romaji": "Ì chi ji kan"
+  },
+  {
+    "id": "v_4_29",
+    "lesson": 4,
+    "sub": "Đếm giờ (1〜10 tiếng)",
+    "word": "二時間",
+    "kanji": "二時間",
+    "reading": "にじかん",
+    "meaning": "二時間 (二 tiếng đồng hồ)",
+    "romaji": "Ni ji kan"
+  },
+  {
+    "id": "v_4_30",
+    "lesson": 4,
+    "sub": "Đếm giờ (1〜10 tiếng)",
+    "word": "三時間",
+    "kanji": "三時間",
+    "reading": "さんじかん",
+    "meaning": "三時間 (三 tiếng đồng hồ)",
+    "romaji": "San ji kan"
+  },
+  {
+    "id": "v_4_31",
+    "lesson": 4,
+    "sub": "Đếm giờ (1〜10 tiếng)",
+    "word": "四時間",
+    "kanji": "四時間",
+    "reading": "よじかん",
+    "meaning": "四時間 (四 tiếng đồng hồ)",
+    "romaji": "Yo ji kan"
+  },
+  {
+    "id": "v_4_32",
+    "lesson": 4,
+    "sub": "Đếm giờ (1〜10 tiếng)",
+    "word": "五時間",
+    "kanji": "五時間",
+    "reading": "ごじかん",
+    "meaning": "五時間 (五 tiếng đồng hồ)",
+    "romaji": "Gô ji kan"
+  },
+  {
+    "id": "v_4_33",
+    "lesson": 4,
+    "sub": "Đếm giờ (1〜10 tiếng)",
+    "word": "六時間",
+    "kanji": "六時間",
+    "reading": "ろくじかん",
+    "meaning": "六時間 (六 tiếng đồng hồ)",
+    "romaji": "Rồ kư ji kan"
+  },
+  {
+    "id": "v_4_34",
+    "lesson": 4,
+    "sub": "Đếm giờ (1〜10 tiếng)",
+    "word": "七時間",
+    "kanji": "七時間",
+    "reading": "しちじかん",
+    "meaning": "七時間 (七 tiếng đồng hồ)",
+    "romaji": "Shi chi ji kan"
+  },
+  {
+    "id": "v_4_35",
+    "lesson": 4,
+    "sub": "Đếm giờ (1〜10 tiếng)",
+    "word": "八時間",
+    "kanji": "八時間",
+    "reading": "はちじかん",
+    "meaning": "八時間 (八 tiếng đồng hồ)",
+    "romaji": "Hà chi ji kan"
+  },
+  {
+    "id": "v_4_36",
+    "lesson": 4,
+    "sub": "Đếm giờ (1〜10 tiếng)",
+    "word": "九時間",
+    "kanji": "九時間",
+    "reading": "くじかん",
+    "meaning": "九時間 (九 tiếng đồng hồ)",
+    "romaji": "Khiu ji kan"
+  },
+  {
+    "id": "v_4_37",
+    "lesson": 4,
+    "sub": "Đếm giờ (1〜10 tiếng)",
+    "word": "十時間",
+    "kanji": "十時間",
+    "reading": "じゅうじかん",
+    "meaning": "十時間 (十 tiếng đồng hồ)",
+    "romaji": "Jiu ji kan"
+  },
+  {
+    "id": "v_4_38",
+    "lesson": 4,
+    "sub": "Đếm giờ (1〜10 tiếng)",
+    "word": "何時間？",
+    "kanji": "何時間？",
+    "reading": "なんじかん",
+    "meaning": "何時間？ (何？ tiếng đồng hồ)",
+    "romaji": "Nán ji kan"
+  },
+  {
+    "id": "v_4_39",
+    "lesson": 4,
+    "sub": "Đếm phút (1〜10 phút)",
+    "word": "一分",
+    "kanji": "一分",
+    "reading": "いっぷん",
+    "meaning": "一分 (一 phút)",
+    "romaji": "íp pưn"
+  },
+  {
+    "id": "v_4_40",
+    "lesson": 4,
+    "sub": "Đếm phút (1〜10 phút)",
+    "word": "二分",
+    "kanji": "二分",
+    "reading": "にふん",
+    "meaning": "二分 (二 phút)",
+    "romaji": "Ni Fưn"
+  },
+  {
+    "id": "v_4_41",
+    "lesson": 4,
+    "sub": "Đếm phút (1〜10 phút)",
+    "word": "三分",
+    "kanji": "三分",
+    "reading": "さんぷん",
+    "meaning": "三分 (三 phút)",
+    "romaji": "Sam pưn"
+  },
+  {
+    "id": "v_4_42",
+    "lesson": 4,
+    "sub": "Đếm phút (1〜10 phút)",
+    "word": "四分",
+    "kanji": "四分",
+    "reading": "よんぷん",
+    "meaning": "四分 (四 phút)",
+    "romaji": "Yon pưn"
+  },
+  {
+    "id": "v_4_43",
+    "lesson": 4,
+    "sub": "Đếm phút (1〜10 phút)",
+    "word": "五分",
+    "kanji": "五分",
+    "reading": "ごふん",
+    "meaning": "五分 (五 phút)",
+    "romaji": "Gô Fưn"
+  },
+  {
+    "id": "v_4_44",
+    "lesson": 4,
+    "sub": "Đếm phút (1〜10 phút)",
+    "word": "六分",
+    "kanji": "六分",
+    "reading": "ろっぷん",
+    "meaning": "六分 (六 phút)",
+    "romaji": "Rop pưn"
+  },
+  {
+    "id": "v_4_45",
+    "lesson": 4,
+    "sub": "Đếm phút (1〜10 phút)",
+    "word": "七分",
+    "kanji": "七分",
+    "reading": "しちふん、ななふん",
+    "meaning": "七分 (七 phút)",
+    "romaji": "Nà na Fưn"
+  },
+  {
+    "id": "v_4_46",
+    "lesson": 4,
+    "sub": "Đếm phút (1〜10 phút)",
+    "word": "八分",
+    "kanji": "八分",
+    "reading": "はっぷん",
+    "meaning": "八分 (八 phút)",
+    "romaji": "Hạp pưn"
+  },
+  {
+    "id": "v_4_47",
+    "lesson": 4,
+    "sub": "Đếm phút (1〜10 phút)",
+    "word": "九分",
+    "kanji": "九分",
+    "reading": "きゅうふん",
+    "meaning": "九分 (九 phút)",
+    "romaji": "Khiu Fưn"
+  },
+  {
+    "id": "v_4_48",
+    "lesson": 4,
+    "sub": "Đếm phút (1〜10 phút)",
+    "word": "十分",
+    "kanji": "十分",
+    "reading": "じゅっぷん",
+    "meaning": "十分 (十 phút)",
+    "romaji": "Júp pưn"
+  },
+  {
+    "id": "v_4_49",
+    "lesson": 4,
+    "sub": "Đếm phút (1〜10 phút)",
+    "word": "三十分",
+    "kanji": "三十分",
+    "reading": "さんじゅっぷん",
+    "meaning": "三十分 (三十 phút)",
+    "romaji": "San Júp Pưn"
+  },
+  {
+    "id": "v_4_50",
+    "lesson": 4,
+    "sub": "Đếm phút (1〜10 phút)",
+    "word": "何分？",
+    "kanji": "何分？",
+    "reading": "なんぷん？",
+    "meaning": "何分？ (何？ phút)",
+    "romaji": "Nán pưn"
+  },
+  {
+    "id": "v_4_51",
+    "lesson": 4,
+    "sub": "Unit 4.2: Thiên nhiên, Điểm đến & Tính từ",
+    "word": "おんせん",
+    "kanji": "",
+    "reading": "おんせん",
+    "meaning": "Suối nước nóng",
+    "romaji": "On Sen"
+  },
+  {
+    "id": "v_4_52",
+    "lesson": 4,
+    "sub": "Unit 4.2: Thiên nhiên, Điểm đến & Tính từ",
+    "word": "川",
+    "kanji": "川",
+    "reading": "かわ",
+    "meaning": "Sông",
+    "romaji": "Kà wa"
+  },
+  {
+    "id": "v_4_53",
+    "lesson": 4,
+    "sub": "Unit 4.2: Thiên nhiên, Điểm đến & Tính từ",
+    "word": "山",
+    "kanji": "山",
+    "reading": "やま",
+    "meaning": "Núi",
+    "romaji": "Yà ma"
+  },
+  {
+    "id": "v_4_54",
+    "lesson": 4,
+    "sub": "Unit 4.2: Thiên nhiên, Điểm đến & Tính từ",
+    "word": "きょうかい",
+    "kanji": "",
+    "reading": "きょうかい",
+    "meaning": "Nhà thờ",
+    "romaji": "Kyố Kai"
+  },
+  {
+    "id": "v_4_55",
+    "lesson": 4,
+    "sub": "Unit 4.2: Thiên nhiên, Điểm đến & Tính từ",
+    "word": "（お）しろ",
+    "kanji": "",
+    "reading": "（お）しろ",
+    "meaning": "Lâu đài",
+    "romaji": "Ồ shi rô"
+  },
+  {
+    "id": "v_4_56",
+    "lesson": 4,
+    "sub": "Unit 4.2: Thiên nhiên, Điểm đến & Tính từ",
+    "word": "じんじゃ",
+    "kanji": "",
+    "reading": "じんじゃ",
+    "meaning": "Đền",
+    "romaji": "Jin jà"
+  },
+  {
+    "id": "v_4_57",
+    "lesson": 4,
+    "sub": "Unit 4.2: Thiên nhiên, Điểm đến & Tính từ",
+    "word": "（お）てら",
+    "kanji": "",
+    "reading": "（お）てら",
+    "meaning": "Chùa",
+    "romaji": "Ồ tê ra"
+  },
+  {
+    "id": "v_4_58",
+    "lesson": 4,
+    "sub": "Unit 4.2: Thiên nhiên, Điểm đến & Tính từ",
+    "word": "ビル",
+    "kanji": "",
+    "reading": "ビル",
+    "meaning": "Tòa nhà",
+    "romaji": "Bí ru"
+  },
+  {
+    "id": "v_4_59",
+    "lesson": 4,
+    "sub": "Unit 4.2: Thiên nhiên, Điểm đến & Tính từ",
+    "word": "ところ",
+    "kanji": "",
+    "reading": "ところ",
+    "meaning": "Nơi, chỗ",
+    "romaji": "Tồ kô rô"
+  },
+  {
+    "id": "v_4_60",
+    "lesson": 4,
+    "sub": "Unit 4.2: Thiên nhiên, Điểm đến & Tính từ",
+    "word": "人",
+    "kanji": "人",
+    "reading": "ひと",
+    "meaning": "Người",
+    "romaji": "Hì tô"
+  },
+  {
+    "id": "v_4_61",
+    "lesson": 4,
+    "sub": "Unit 4.2: Thiên nhiên, Điểm đến & Tính từ",
+    "word": "みどり",
+    "kanji": "",
+    "reading": "みどり",
+    "meaning": "Màu xanh, cây xanh",
+    "romaji": "Mí đô rì"
+  },
+  {
+    "id": "v_4_62",
+    "lesson": 4,
+    "sub": "Unit 4.2: Thiên nhiên, Điểm đến & Tính từ",
+    "word": "（が）あります",
+    "kanji": "",
+    "reading": "（が）あります",
+    "meaning": "Có (Tồn tại)",
+    "romaji": "Gá à ri mas"
+  },
+  {
+    "id": "v_4_63",
+    "lesson": 4,
+    "sub": "Unit 4.2: Thiên nhiên, Điểm đến & Tính từ",
+    "word": "良い",
+    "kanji": "良い",
+    "reading": "いい",
+    "meaning": "Tốt",
+    "romaji": "I (yoi)"
+  },
+  {
+    "id": "v_4_64",
+    "lesson": 4,
+    "sub": "Unit 4.2: Thiên nhiên, Điểm đến & Tính từ",
+    "word": "悪い",
+    "kanji": "悪い",
+    "reading": "わるい",
+    "meaning": "Tệ, xấu",
+    "romaji": "Wà Rưi"
+  },
+  {
+    "id": "v_4_65",
+    "lesson": 4,
+    "sub": "Unit 4.2: Thiên nhiên, Điểm đến & Tính từ",
+    "word": "新しい",
+    "kanji": "新しい",
+    "reading": "あたらしい",
+    "meaning": "Mới",
+    "romaji": "À ta ra shi"
+  },
+  {
+    "id": "v_4_66",
+    "lesson": 4,
+    "sub": "Unit 4.2: Thiên nhiên, Điểm đến & Tính từ",
+    "word": "古い",
+    "kanji": "古い",
+    "reading": "ふるい",
+    "meaning": "Cũ",
+    "romaji": "Fừ rư i"
+  },
+  {
+    "id": "v_4_67",
+    "lesson": 4,
+    "sub": "Unit 4.2: Thiên nhiên, Điểm đến & Tính từ",
+    "word": "（が）おおい",
+    "kanji": "",
+    "reading": "（が）おおい",
+    "meaning": "Nhiều～",
+    "romaji": "(Gá) ôi"
+  },
+  {
+    "id": "v_4_68",
+    "lesson": 4,
+    "sub": "Unit 4.2: Thiên nhiên, Điểm đến & Tính từ",
+    "word": "（が）すくない",
+    "kanji": "",
+    "reading": "（が）すくない",
+    "meaning": "Ít ~",
+    "romaji": "(Gá) sứ kừ nai"
+  },
+  {
+    "id": "v_4_69",
+    "lesson": 4,
+    "sub": "Unit 4.2: Thiên nhiên, Điểm đến & Tính từ",
+    "word": "大きい",
+    "kanji": "大きい",
+    "reading": "おおきい",
+    "meaning": "Lớn",
+    "romaji": "Ô ki"
+  },
+  {
+    "id": "v_4_70",
+    "lesson": 4,
+    "sub": "Unit 4.2: Thiên nhiên, Điểm đến & Tính từ",
+    "word": "小さい",
+    "kanji": "小さい",
+    "reading": "ちいさい",
+    "meaning": "Nhỏ",
+    "romaji": "Chi Sai"
+  },
+  {
+    "id": "v_4_71",
+    "lesson": 4,
+    "sub": "Unit 4.2: Thiên nhiên, Điểm đến & Tính từ",
+    "word": "高い",
+    "kanji": "高い",
+    "reading": "たかい",
+    "meaning": "Cao",
+    "romaji": "Tà kai"
+  },
+  {
+    "id": "v_4_72",
+    "lesson": 4,
+    "sub": "Unit 4.2: Thiên nhiên, Điểm đến & Tính từ",
+    "word": "ひくい",
+    "kanji": "",
+    "reading": "ひくい",
+    "meaning": "Thấp",
+    "romaji": "Hì Kưi"
+  },
+  {
+    "id": "v_4_73",
+    "lesson": 4,
+    "sub": "Unit 4.2: Thiên nhiên, Điểm đến & Tính từ",
+    "word": "しずか（な）",
+    "kanji": "",
+    "reading": "しずか（な）",
+    "meaning": "Yên tĩnh",
+    "romaji": "Shí zư kà"
+  },
+  {
+    "id": "v_4_74",
+    "lesson": 4,
+    "sub": "Unit 4.2: Thiên nhiên, Điểm đến & Tính từ",
+    "word": "にぎやか（な）",
+    "kanji": "",
+    "reading": "にぎやか（な）",
+    "meaning": "Náo nhiệt",
+    "romaji": "Nì gí ya kà na"
+  },
+  {
+    "id": "v_4_75",
+    "lesson": 4,
+    "sub": "Unit 4.2: Thiên nhiên, Điểm đến & Tính từ",
+    "word": "ゆうめい（な）",
+    "kanji": "",
+    "reading": "ゆうめい（な）",
+    "meaning": "Nổi tiếng",
+    "romaji": "Yứ mê na"
+  },
+  {
+    "id": "v_4_76",
+    "lesson": 4,
+    "sub": "Unit 4.2: Thiên nhiên, Điểm đến & Tính từ",
+    "word": "きれい（な）",
+    "kanji": "",
+    "reading": "きれい（な）",
+    "meaning": "Đẹp, sạch",
+    "romaji": "Kí rê na"
+  },
+  {
+    "id": "v_4_77",
+    "lesson": 4,
+    "sub": "Unit 4.2: Thiên nhiên, Điểm đến & Tính từ",
+    "word": "どうですか？",
+    "kanji": "",
+    "reading": "どうですか？",
+    "meaning": "Như thế nào",
+    "romaji": "Đô dẹs ká"
+  },
+  {
+    "id": "v_4_78",
+    "lesson": 4,
+    "sub": "Unit 4.2: Thiên nhiên, Điểm đến & Tính từ",
+    "word": "どんなNですか？",
+    "kanji": "",
+    "reading": "どんなNですか？",
+    "meaning": "Là N như thế nào",
+    "romaji": "Đón na N dẹs ká"
+  },
+  {
+    "id": "v_4_79",
+    "lesson": 4,
+    "sub": "Unit 4.2: Thiên nhiên, Điểm đến & Tính từ",
+    "word": "スワンがわ",
+    "kanji": "",
+    "reading": "スワンがわ",
+    "meaning": "Tên sông (Úc)",
+    "romaji": "Sừ wán gawa"
+  },
+  {
+    "id": "v_4_80",
+    "lesson": 4,
+    "sub": "Unit 4.2: Thiên nhiên, Điểm đến & Tính từ",
+    "word": "ほうりゅうじ",
+    "kanji": "",
+    "reading": "ほうりゅうじ",
+    "meaning": "Tên chùa (Nhật)",
+    "romaji": "Hô riu ji"
+  },
+  {
+    "id": "v_4_81",
+    "lesson": 4,
+    "sub": "Unit 4.2: Thiên nhiên, Điểm đến & Tính từ",
+    "word": "たかおさん",
+    "kanji": "",
+    "reading": "たかおさん",
+    "meaning": "Tên núi (Nhật)",
+    "romaji": "Tà ko o sàn"
+  },
+  {
+    "id": "v_4_82",
+    "lesson": 4,
+    "sub": "Unit 4.2: Thiên nhiên, Điểm đến & Tính từ",
+    "word": "ふじさん",
+    "kanji": "",
+    "reading": "ふじさん",
+    "meaning": "Tên núi (Nhật)",
+    "romaji": "Fừ ji sàn"
+  },
+  {
+    "id": "v_4_83",
+    "lesson": 4,
+    "sub": "Unit 4.2: Thiên nhiên, Điểm đến & Tính từ",
+    "word": "ひめじじょう",
+    "kanji": "",
+    "reading": "ひめじじょう",
+    "meaning": "Tên lâu đài (Nhật)",
+    "romaji": "Hì mê ji jồ"
+  },
+  {
+    "id": "v_4_84",
+    "lesson": 4,
+    "sub": "Unit 4.2: Thiên nhiên, Điểm đến & Tính từ",
+    "word": "そして",
+    "kanji": "",
+    "reading": "そして",
+    "meaning": "Và",
+    "romaji": "Shồ shi tê"
+  },
+  {
+    "id": "v_4_85",
+    "lesson": 4,
+    "sub": "Unit 4.2: Thiên nhiên, Điểm đến & Tính từ",
+    "word": "とても",
+    "kanji": "",
+    "reading": "とても",
+    "meaning": "Rất (Khẳng định)",
+    "romaji": "Tồ tế mô"
+  },
+  {
+    "id": "v_4_86",
+    "lesson": 4,
+    "sub": "Unit 4.2: Thiên nhiên, Điểm đến & Tính từ",
+    "word": "すこし",
+    "kanji": "",
+    "reading": "すこし",
+    "meaning": "Một chút (Khẳng định)",
+    "romaji": "Sừ kố shi"
+  },
+  {
+    "id": "v_4_87",
+    "lesson": 4,
+    "sub": "Unit 4.2: Thiên nhiên, Điểm đến & Tính từ",
+    "word": "あまり",
+    "kanji": "",
+    "reading": "あまり",
+    "meaning": "Không ~ lắm (Phủ định)",
+    "romaji": "À ma ri"
+  },
+  {
+    "id": "v_4_88",
+    "lesson": 4,
+    "sub": "Unit 4.3: Thời tiết, Khí hậu & Món ăn",
+    "word": "雨",
+    "kanji": "雨",
+    "reading": "あめ",
+    "meaning": "Mưa",
+    "romaji": "Á mê"
+  },
+  {
+    "id": "v_4_89",
+    "lesson": 4,
+    "sub": "Unit 4.3: Thời tiết, Khí hậu & Món ăn",
+    "word": "雪",
+    "kanji": "雪",
+    "reading": "ゆき",
+    "meaning": "Tuyết",
+    "romaji": "Yừ ki"
+  },
+  {
+    "id": "v_4_90",
+    "lesson": 4,
+    "sub": "Unit 4.3: Thời tiết, Khí hậu & Món ăn",
+    "word": "日",
+    "kanji": "日",
+    "reading": "ひ",
+    "meaning": "Ngày/Mặt trời",
+    "romaji": "Hi"
+  },
+  {
+    "id": "v_4_91",
+    "lesson": 4,
+    "sub": "Unit 4.3: Thời tiết, Khí hậu & Món ăn",
+    "word": "メロン",
+    "kanji": "",
+    "reading": "メロン",
+    "meaning": "Dưa gang",
+    "romaji": "Mế ron"
+  },
+  {
+    "id": "v_4_92",
+    "lesson": 4,
+    "sub": "Unit 4.3: Thời tiết, Khí hậu & Món ăn",
+    "word": "すずしい",
+    "kanji": "",
+    "reading": "すずしい",
+    "meaning": "Mát mẻ",
+    "romaji": "Sừ zư shi"
+  },
+  {
+    "id": "v_4_93",
+    "lesson": 4,
+    "sub": "Unit 4.3: Thời tiết, Khí hậu & Món ăn",
+    "word": "あつい（暑い）",
+    "kanji": "",
+    "reading": "あつい（暑い）",
+    "meaning": "Nóng bức (Thời tiết)",
+    "romaji": "Ạt tsư i"
+  },
+  {
+    "id": "v_4_94",
+    "lesson": 4,
+    "sub": "Unit 4.3: Thời tiết, Khí hậu & Món ăn",
+    "word": "寒い",
+    "kanji": "寒い",
+    "reading": "さむい",
+    "meaning": "Lạnh rét (Thời tiết)",
+    "romaji": "Sà mưi"
+  },
+  {
+    "id": "v_4_95",
+    "lesson": 4,
+    "sub": "Unit 4.3: Thời tiết, Khí hậu & Món ăn",
+    "word": "あつい（熱い）",
+    "kanji": "",
+    "reading": "あつい（熱い）",
+    "meaning": "Nóng (Cảm giác)",
+    "romaji": "Ạt tsư i"
+  },
+  {
+    "id": "v_4_96",
+    "lesson": 4,
+    "sub": "Unit 4.3: Thời tiết, Khí hậu & Món ăn",
+    "word": "冷たい",
+    "kanji": "冷たい",
+    "reading": "つめたい",
+    "meaning": "Lạnh (Cảm giác)",
+    "romaji": "Tsừ mê tai"
+  },
+  {
+    "id": "v_4_97",
+    "lesson": 4,
+    "sub": "Unit 4.3: Thời tiết, Khí hậu & Món ăn",
+    "word": "あたたかい（暖かい）",
+    "kanji": "",
+    "reading": "あたたかい（暖かい）",
+    "meaning": "Ấm (Thời tiết)",
+    "romaji": "À ta ta kai"
+  },
+  {
+    "id": "v_4_98",
+    "lesson": 4,
+    "sub": "Unit 4.3: Thời tiết, Khí hậu & Món ăn",
+    "word": "あたたかい（温かい）",
+    "kanji": "",
+    "reading": "あたたかい（温かい）",
+    "meaning": "Ấm (Cảm giác)",
+    "romaji": "À ta ta kai"
+  },
+  {
+    "id": "v_4_99",
+    "lesson": 4,
+    "sub": "Unit 4.3: Thời tiết, Khí hậu & Món ăn",
+    "word": "てんき（が）いい",
+    "kanji": "",
+    "reading": "てんき（が）いい",
+    "meaning": "Thời tiết đẹp",
+    "romaji": "Tén ki gá i"
+  },
+  {
+    "id": "v_4_100",
+    "lesson": 4,
+    "sub": "Unit 4.3: Thời tiết, Khí hậu & Món ăn",
+    "word": "てんき（が）わるい",
+    "kanji": "",
+    "reading": "てんき（が）わるい",
+    "meaning": "Thời tiết xấu",
+    "romaji": "Tén ki gá wà rưi"
+  },
+  {
+    "id": "v_4_101",
+    "lesson": 4,
+    "sub": "Unit 4.3: Thời tiết, Khí hậu & Món ăn",
+    "word": "美味しい",
+    "kanji": "美味しい",
+    "reading": "おいしい",
+    "meaning": "Ngon",
+    "romaji": "Ôi shi"
+  },
+  {
+    "id": "v_4_102",
+    "lesson": 4,
+    "sub": "Unit 4.3: Thời tiết, Khí hậu & Món ăn",
+    "word": "あまい",
+    "kanji": "",
+    "reading": "あまい",
+    "meaning": "Ngọt",
+    "romaji": "À Mai"
+  },
+  {
+    "id": "v_4_103",
+    "lesson": 4,
+    "sub": "Unit 4.3: Thời tiết, Khí hậu & Món ăn",
+    "word": "からい",
+    "kanji": "",
+    "reading": "からい",
+    "meaning": "Cay",
+    "romaji": "Kà rai"
+  },
+  {
+    "id": "v_4_104",
+    "lesson": 4,
+    "sub": "Unit 4.3: Thời tiết, Khí hậu & Món ăn",
+    "word": "にがい",
+    "kanji": "",
+    "reading": "にがい",
+    "meaning": "Đắng",
+    "romaji": "Nì gai"
+  },
+  {
+    "id": "v_4_105",
+    "lesson": 4,
+    "sub": "Unit 4.3: Thời tiết, Khí hậu & Món ăn",
+    "word": "すっぱい",
+    "kanji": "",
+    "reading": "すっぱい",
+    "meaning": "Chua",
+    "romaji": "Sụp pai"
+  },
+  {
+    "id": "v_4_106",
+    "lesson": 4,
+    "sub": "Unit 4.3: Thời tiết, Khí hậu & Món ăn",
+    "word": "いちねんじゅう",
+    "kanji": "",
+    "reading": "いちねんじゅう",
+    "meaning": "Suốt 1 năm",
+    "romaji": "Ì chi nen jiu"
+  },
+  {
+    "id": "v_4_107",
+    "lesson": 4,
+    "sub": "Unit 4.3: Thời tiết, Khí hậu & Món ăn",
+    "word": "きせつ",
+    "kanji": "",
+    "reading": "きせつ",
+    "meaning": "Mùa",
+    "romaji": "Kí sét tsừ"
+  },
+  {
+    "id": "v_4_108",
+    "lesson": 4,
+    "sub": "Unit 4.3: Thời tiết, Khí hậu & Món ăn",
+    "word": "そうですか。",
+    "kanji": "",
+    "reading": "そうですか。",
+    "meaning": "Vậy à.",
+    "romaji": "Sô dẹs nê"
+  },
+  {
+    "id": "v_4_109",
+    "lesson": 4,
+    "sub": "Unit 4.3: Thời tiết, Khí hậu & Món ăn",
+    "word": "そうですね。",
+    "kanji": "",
+    "reading": "そうですね。",
+    "meaning": "Đúng vậy nhỉ. (Đồng tình)",
+    "romaji": "Sô dẹs sừ"
+  },
+  {
+    "id": "v_4_110",
+    "lesson": 4,
+    "sub": "Unit 4.3: Thời tiết, Khí hậu & Món ăn",
+    "word": "とても",
+    "kanji": "",
+    "reading": "とても",
+    "meaning": "Rất (Khẳng định)",
+    "romaji": "Tồ tế mô"
+  },
+  {
+    "id": "v_4_111",
+    "lesson": 4,
+    "sub": "Unit 4.3: Thời tiết, Khí hậu & Món ăn",
+    "word": "すこし",
+    "kanji": "",
+    "reading": "すこし",
+    "meaning": "Một chút (Khẳng định)",
+    "romaji": "Sừ kố shi"
+  },
+  {
+    "id": "v_4_112",
+    "lesson": 4,
+    "sub": "Unit 4.3: Thời tiết, Khí hậu & Món ăn",
+    "word": "あまり",
+    "kanji": "",
+    "reading": "あまり",
+    "meaning": "Không ~ lắm (Phủ định)",
+    "romaji": "À ma ri"
+  },
+  {
+    "id": "v_5_113",
+    "lesson": 5,
+    "sub": "Unit 5.1: Thời gian, Quá khứ & Thói quen",
+    "word": "一週間",
+    "kanji": "一週間",
+    "reading": "いっしゅうかん",
+    "meaning": "Suốt 1 tuần",
+    "romaji": "ịs shíu kàn"
+  },
+  {
+    "id": "v_5_114",
+    "lesson": 5,
+    "sub": "Unit 5.1: Thời gian, Quá khứ & Thói quen",
+    "word": "一昨日",
+    "kanji": "一昨日",
+    "reading": "おととい",
+    "meaning": "Hôm kia",
+    "romaji": "Ồ tố tòi"
+  },
+  {
+    "id": "v_5_115",
+    "lesson": 5,
+    "sub": "Unit 5.1: Thời gian, Quá khứ & Thói quen",
+    "word": "昨日",
+    "kanji": "昨日",
+    "reading": "きのう",
+    "meaning": "Hôm qua",
+    "romaji": "Kì nô"
+  },
+  {
+    "id": "v_5_116",
+    "lesson": 5,
+    "sub": "Unit 5.1: Thời gian, Quá khứ & Thói quen",
+    "word": "今日",
+    "kanji": "今日",
+    "reading": "きょう",
+    "meaning": "Hôm nay",
+    "romaji": "Kyo"
+  },
+  {
+    "id": "v_5_117",
+    "lesson": 5,
+    "sub": "Unit 5.1: Thời gian, Quá khứ & Thói quen",
+    "word": "明日",
+    "kanji": "明日",
+    "reading": "あした",
+    "meaning": "Ngày mai",
+    "romaji": "À shi tà/ Ásstà"
+  },
+  {
+    "id": "v_5_118",
+    "lesson": 5,
+    "sub": "Unit 5.1: Thời gian, Quá khứ & Thói quen",
+    "word": "明後日",
+    "kanji": "明後日",
+    "reading": "あさって",
+    "meaning": "Ngày mốt",
+    "romaji": "À sát tê"
+  },
+  {
+    "id": "v_5_119",
+    "lesson": 5,
+    "sub": "Unit 5.1: Thời gian, Quá khứ & Thói quen",
+    "word": "しゅうまつ",
+    "kanji": "",
+    "reading": "しゅうまつ",
+    "meaning": "Cuối tuần (T7 và CN)",
+    "romaji": "Shiu mát tsừ"
+  },
+  {
+    "id": "v_5_120",
+    "lesson": 5,
+    "sub": "Unit 5.1: Thời gian, Quá khứ & Thói quen",
+    "word": "先週",
+    "kanji": "先週",
+    "reading": "せんしゅう",
+    "meaning": "Tuần trước",
+    "romaji": "Sén shiu"
+  },
+  {
+    "id": "v_5_121",
+    "lesson": 5,
+    "sub": "Unit 5.1: Thời gian, Quá khứ & Thói quen",
+    "word": "今週",
+    "kanji": "今週",
+    "reading": "こんしゅう",
+    "meaning": "Tuần này",
+    "romaji": "Kon shiu"
+  },
+  {
+    "id": "v_5_122",
+    "lesson": 5,
+    "sub": "Unit 5.1: Thời gian, Quá khứ & Thói quen",
+    "word": "来週",
+    "kanji": "来週",
+    "reading": "らいしゅう",
+    "meaning": "Tuần sau",
+    "romaji": "Rai shiu"
+  },
+  {
+    "id": "v_5_123",
+    "lesson": 5,
+    "sub": "Unit 5.1: Thời gian, Quá khứ & Thói quen",
+    "word": "いえ",
+    "kanji": "",
+    "reading": "いえ",
+    "meaning": "Căn nhà",
+    "romaji": "Ì ê"
+  },
+  {
+    "id": "v_5_124",
+    "lesson": 5,
+    "sub": "Unit 5.1: Thời gian, Quá khứ & Thói quen",
+    "word": "へや",
+    "kanji": "",
+    "reading": "へや",
+    "meaning": "Căn phòng",
+    "romaji": "Hề ya"
+  },
+  {
+    "id": "v_5_125",
+    "lesson": 5,
+    "sub": "Unit 5.1: Thời gian, Quá khứ & Thói quen",
+    "word": "アパート",
+    "kanji": "",
+    "reading": "アパート",
+    "meaning": "Nhà chung cư",
+    "romaji": "À pá tồ"
+  },
+  {
+    "id": "v_5_126",
+    "lesson": 5,
+    "sub": "Unit 5.1: Thời gian, Quá khứ & Thói quen",
+    "word": "びじゅつかん",
+    "kanji": "",
+    "reading": "びじゅつかん",
+    "meaning": "Bảo tàng mỹ thuật",
+    "romaji": "Bi jíu tsư kàn"
+  },
+  {
+    "id": "v_5_127",
+    "lesson": 5,
+    "sub": "Unit 5.1: Thời gian, Quá khứ & Thói quen",
+    "word": "ゲーム",
+    "kanji": "",
+    "reading": "ゲーム",
+    "meaning": "Game",
+    "romaji": "Gê-mừ"
+  },
+  {
+    "id": "v_5_128",
+    "lesson": 5,
+    "sub": "Unit 5.1: Thời gian, Quá khứ & Thói quen",
+    "word": "家族",
+    "kanji": "家族",
+    "reading": "かぞく",
+    "meaning": "Gia đình",
+    "romaji": "Ká zố kừ"
+  },
+  {
+    "id": "v_5_129",
+    "lesson": 5,
+    "sub": "Unit 5.1: Thời gian, Quá khứ & Thói quen",
+    "word": "ひとりで",
+    "kanji": "",
+    "reading": "ひとりで",
+    "meaning": "Một mình",
+    "romaji": "Hì tố ri đế"
+  },
+  {
+    "id": "v_5_130",
+    "lesson": 5,
+    "sub": "Unit 5.1: Thời gian, Quá khứ & Thói quen",
+    "word": "こいびと",
+    "kanji": "",
+    "reading": "こいびと",
+    "meaning": "Người yêu",
+    "romaji": "Kồ I bí tô"
+  },
+  {
+    "id": "v_5_131",
+    "lesson": 5,
+    "sub": "Unit 5.1: Thời gian, Quá khứ & Thói quen",
+    "word": "友達",
+    "kanji": "友達",
+    "reading": "ともだち",
+    "meaning": "Bạn bè",
+    "romaji": "Tồ mố đa chi"
+  },
+  {
+    "id": "v_5_132",
+    "lesson": 5,
+    "sub": "Unit 5.1: Thời gian, Quá khứ & Thói quen",
+    "word": "ルームメイト",
+    "kanji": "",
+    "reading": "ルームメイト",
+    "meaning": "Bạn cùng phòng",
+    "romaji": "Rư – mừ mê i tồ"
+  },
+  {
+    "id": "v_5_133",
+    "lesson": 5,
+    "sub": "Unit 5.1: Thời gian, Quá khứ & Thói quen",
+    "word": "どこか",
+    "kanji": "",
+    "reading": "どこか",
+    "meaning": "Nơi nào đó",
+    "romaji": "Đố kồ kà"
+  },
+  {
+    "id": "v_5_134",
+    "lesson": 5,
+    "sub": "Unit 5.1: Thời gian, Quá khứ & Thói quen",
+    "word": "（に）あいます",
+    "kanji": "",
+    "reading": "（に）あいます",
+    "meaning": "Gặp",
+    "romaji": "Ni ai mas"
+  },
+  {
+    "id": "v_5_135",
+    "lesson": 5,
+    "sub": "Unit 5.1: Thời gian, Quá khứ & Thói quen",
+    "word": "（を）つくります",
+    "kanji": "",
+    "reading": "（を）つくります",
+    "meaning": "Nấu, tạo, làm",
+    "romaji": "Ô tsừ kư ri mas"
+  },
+  {
+    "id": "v_5_136",
+    "lesson": 5,
+    "sub": "Unit 5.1: Thời gian, Quá khứ & Thói quen",
+    "word": "（x）かいものします",
+    "kanji": "",
+    "reading": "（x）かいものします",
+    "meaning": "Mua sắm",
+    "romaji": "Kai mô nô shi mas"
+  },
+  {
+    "id": "v_5_137",
+    "lesson": 5,
+    "sub": "Unit 5.1: Thời gian, Quá khứ & Thói quen",
+    "word": "（x）しょくじします",
+    "kanji": "",
+    "reading": "（x）しょくじします",
+    "meaning": "Dùng bữa",
+    "romaji": "Shồ kư ji shi mas"
+  },
+  {
+    "id": "v_5_138",
+    "lesson": 5,
+    "sub": "Unit 5.1: Thời gian, Quá khứ & Thói quen",
+    "word": "（を）せんたくします",
+    "kanji": "",
+    "reading": "（を）せんたくします",
+    "meaning": "Giặt giũ",
+    "romaji": "Sen ta kừ shi mas"
+  },
+  {
+    "id": "v_5_139",
+    "lesson": 5,
+    "sub": "Unit 5.1: Thời gian, Quá khứ & Thói quen",
+    "word": "（を）そうじします",
+    "kanji": "",
+    "reading": "（を）そうじします",
+    "meaning": "Dọn dẹp",
+    "romaji": "Sô ji shi mas"
+  },
+  {
+    "id": "v_5_140",
+    "lesson": 5,
+    "sub": "Unit 5.1: Thời gian, Quá khứ & Thói quen",
+    "word": "それから",
+    "kanji": "",
+    "reading": "それから",
+    "meaning": "Sau đó",
+    "romaji": "Sồ rế kà ra"
+  },
+  {
+    "id": "v_5_141",
+    "lesson": 5,
+    "sub": "Unit 5.1: Thời gian, Quá khứ & Thói quen",
+    "word": "しんじゅく",
+    "kanji": "",
+    "reading": "しんじゅく",
+    "meaning": "Tên riêng",
+    "romaji": "Shin jíu kừ"
+  },
+  {
+    "id": "v_5_142",
+    "lesson": 5,
+    "sub": "Unit 5.1: Thời gian, Quá khứ & Thói quen",
+    "word": "はこね",
+    "kanji": "",
+    "reading": "はこね",
+    "meaning": "Tên riêng",
+    "romaji": "Ha kô nê"
+  },
+  {
+    "id": "v_5_143",
+    "lesson": 5,
+    "sub": "Unit 5.1: Thời gian, Quá khứ & Thói quen",
+    "word": "しぶや",
+    "kanji": "",
+    "reading": "しぶや",
+    "meaning": "Tên riêng",
+    "romaji": "Shi bư ya"
+  },
+  {
+    "id": "v_5_144",
+    "lesson": 5,
+    "sub": "Unit 5.1: Thời gian, Quá khứ & Thói quen",
+    "word": "なごや",
+    "kanji": "",
+    "reading": "なごや",
+    "meaning": "Tên riêng",
+    "romaji": "Na gô ya"
+  },
+  {
+    "id": "v_5_145",
+    "lesson": 5,
+    "sub": "Unit 5.1: Thời gian, Quá khứ & Thói quen",
+    "word": "あきはばら",
+    "kanji": "",
+    "reading": "あきはばら",
+    "meaning": "Tên riêng",
+    "romaji": "À ki ha ba ra"
+  },
+  {
+    "id": "v_5_146",
+    "lesson": 5,
+    "sub": "Unit 5.1: Thời gian, Quá khứ & Thói quen",
+    "word": "よこはま",
+    "kanji": "",
+    "reading": "よこはま",
+    "meaning": "Tên riêng",
+    "romaji": "Yồ kô ha ma"
+  },
+  {
+    "id": "v_5_147",
+    "lesson": 5,
+    "sub": "Unit 5.2: Tuần, Tháng, Năm & Lịch trình",
+    "word": "先月",
+    "kanji": "先月",
+    "reading": "せんげつ",
+    "meaning": "Tháng trước",
+    "romaji": "Sen gế tsừ"
+  },
+  {
+    "id": "v_5_148",
+    "lesson": 5,
+    "sub": "Unit 5.2: Tuần, Tháng, Năm & Lịch trình",
+    "word": "今月",
+    "kanji": "今月",
+    "reading": "こんげつ",
+    "meaning": "Tháng này",
+    "romaji": "Kon gế tsừ"
+  },
+  {
+    "id": "v_5_149",
+    "lesson": 5,
+    "sub": "Unit 5.2: Tuần, Tháng, Năm & Lịch trình",
+    "word": "来月",
+    "kanji": "来月",
+    "reading": "らいげつ",
+    "meaning": "Tháng sau",
+    "romaji": "Rai gế tsừ"
+  },
+  {
+    "id": "v_5_150",
+    "lesson": 5,
+    "sub": "Unit 5.2: Tuần, Tháng, Năm & Lịch trình",
+    "word": "去年",
+    "kanji": "去年",
+    "reading": "きょねん",
+    "meaning": "Năm ngoái",
+    "romaji": "Kyố nen"
+  },
+  {
+    "id": "v_5_151",
+    "lesson": 5,
+    "sub": "Unit 5.2: Tuần, Tháng, Năm & Lịch trình",
+    "word": "今年",
+    "kanji": "今年",
+    "reading": "ことし",
+    "meaning": "Năm nay",
+    "romaji": "Kồ tố shi"
+  },
+  {
+    "id": "v_5_152",
+    "lesson": 5,
+    "sub": "Unit 5.2: Tuần, Tháng, Năm & Lịch trình",
+    "word": "来年",
+    "kanji": "来年",
+    "reading": "らいねん",
+    "meaning": "Năm sau",
+    "romaji": "Rai nen"
+  },
+  {
+    "id": "v_5_153",
+    "lesson": 5,
+    "sub": "Unit 5.2: Tuần, Tháng, Năm & Lịch trình",
+    "word": "けさ",
+    "kanji": "",
+    "reading": "けさ",
+    "meaning": "Sáng nay",
+    "romaji": "Kế sà"
+  },
+  {
+    "id": "v_5_154",
+    "lesson": 5,
+    "sub": "Unit 5.2: Tuần, Tháng, Năm & Lịch trình",
+    "word": "こんばん",
+    "kanji": "",
+    "reading": "こんばん",
+    "meaning": "Tối nay",
+    "romaji": "Kom ban"
+  },
+  {
+    "id": "v_5_155",
+    "lesson": 5,
+    "sub": "Unit 5.2: Tuần, Tháng, Năm & Lịch trình",
+    "word": "かぜ",
+    "kanji": "",
+    "reading": "かぜ",
+    "meaning": "Cảm cúm",
+    "romaji": "Kà zê"
+  },
+  {
+    "id": "v_5_156",
+    "lesson": 5,
+    "sub": "Unit 5.2: Tuần, Tháng, Năm & Lịch trình",
+    "word": "てんき",
+    "kanji": "",
+    "reading": "てんき",
+    "meaning": "Thời tiết",
+    "romaji": "Tén ki"
+  },
+  {
+    "id": "v_5_157",
+    "lesson": 5,
+    "sub": "Unit 5.2: Tuần, Tháng, Năm & Lịch trình",
+    "word": "あさごはん",
+    "kanji": "",
+    "reading": "あさごはん",
+    "meaning": "Cơm sáng",
+    "romaji": "À sa gố han"
+  },
+  {
+    "id": "v_5_158",
+    "lesson": 5,
+    "sub": "Unit 5.2: Tuần, Tháng, Năm & Lịch trình",
+    "word": "ひるごはん",
+    "kanji": "",
+    "reading": "ひるごはん",
+    "meaning": "Cơm trưa",
+    "romaji": "Hì rư gố han"
+  },
+  {
+    "id": "v_5_159",
+    "lesson": 5,
+    "sub": "Unit 5.2: Tuần, Tháng, Năm & Lịch trình",
+    "word": "ばんごはん",
+    "kanji": "",
+    "reading": "ばんごはん",
+    "meaning": "Cơm tối",
+    "romaji": "Ban gố han"
+  },
+  {
+    "id": "v_5_160",
+    "lesson": 5,
+    "sub": "Unit 5.2: Tuần, Tháng, Năm & Lịch trình",
+    "word": "ふく",
+    "kanji": "",
+    "reading": "ふく",
+    "meaning": "Quần áo",
+    "romaji": "Fừ kư"
+  },
+  {
+    "id": "v_5_161",
+    "lesson": 5,
+    "sub": "Unit 5.2: Tuần, Tháng, Năm & Lịch trình",
+    "word": "（に）のぼります",
+    "kanji": "",
+    "reading": "（に）のぼります",
+    "meaning": "Leo",
+    "romaji": "Ni nồ bô ri mas"
+  },
+  {
+    "id": "v_5_162",
+    "lesson": 5,
+    "sub": "Unit 5.2: Tuần, Tháng, Năm & Lịch trình",
+    "word": "（に）はいります",
+    "kanji": "",
+    "reading": "（に）はいります",
+    "meaning": "Bước vào",
+    "romaji": "Ni Hai ri mas"
+  },
+  {
+    "id": "v_5_163",
+    "lesson": 5,
+    "sub": "Unit 5.2: Tuần, Tháng, Năm & Lịch trình",
+    "word": "いそがしい",
+    "kanji": "",
+    "reading": "いそがしい",
+    "meaning": "Bận rộn",
+    "romaji": "Ì sô ga shi"
+  },
+  {
+    "id": "v_5_164",
+    "lesson": 5,
+    "sub": "Unit 5.2: Tuần, Tháng, Năm & Lịch trình",
+    "word": "ひま（な）",
+    "kanji": "",
+    "reading": "ひま（な）",
+    "meaning": "Rãnh rỗi",
+    "romaji": "Hí mà na"
+  },
+  {
+    "id": "v_5_165",
+    "lesson": 5,
+    "sub": "Unit 5.2: Tuần, Tháng, Năm & Lịch trình",
+    "word": "面白い",
+    "kanji": "面白い",
+    "reading": "おもしろい",
+    "meaning": "Thú vị, hay",
+    "romaji": "Ồ mô shi roi"
+  },
+  {
+    "id": "v_5_166",
+    "lesson": 5,
+    "sub": "Unit 5.2: Tuần, Tháng, Năm & Lịch trình",
+    "word": "たのしい",
+    "kanji": "",
+    "reading": "たのしい",
+    "meaning": "Vui vẻ",
+    "romaji": "Tà nô shi"
+  },
+  {
+    "id": "v_5_167",
+    "lesson": 5,
+    "sub": "Unit 5.2: Tuần, Tháng, Năm & Lịch trình",
+    "word": "きもちがいい",
+    "kanji": "",
+    "reading": "きもちがいい",
+    "meaning": "Cảm thấy sảng khoái",
+    "romaji": "Ki mố chi gá ii"
+  },
+  {
+    "id": "v_5_168",
+    "lesson": 5,
+    "sub": "Unit 5.2: Tuần, Tháng, Năm & Lịch trình",
+    "word": "きもちがわるい",
+    "kanji": "",
+    "reading": "きもちがわるい",
+    "meaning": "Cảm thấy khó chịu",
+    "romaji": "Ki mố chi gá wà rưi"
+  },
+  {
+    "id": "v_5_169",
+    "lesson": 5,
+    "sub": "Unit 5.2: Tuần, Tháng, Năm & Lịch trình",
+    "word": "高い",
+    "kanji": "高い",
+    "reading": "たかい",
+    "meaning": "Đắt, mắc",
+    "romaji": "Tà kai"
+  },
+  {
+    "id": "v_5_170",
+    "lesson": 5,
+    "sub": "Unit 5.2: Tuần, Tháng, Năm & Lịch trình",
+    "word": "安い",
+    "kanji": "安い",
+    "reading": "やすい",
+    "meaning": "Rẻ",
+    "romaji": "Yà sưi"
+  },
+  {
+    "id": "v_5_171",
+    "lesson": 5,
+    "sub": "Unit 5.2: Tuần, Tháng, Năm & Lịch trình",
+    "word": "かんたん（な）",
+    "kanji": "",
+    "reading": "かんたん（な）",
+    "meaning": "Dễ, đơn giản",
+    "romaji": "Kán tan na"
+  },
+  {
+    "id": "v_5_172",
+    "lesson": 5,
+    "sub": "Unit 5.2: Tuần, Tháng, Năm & Lịch trình",
+    "word": "難しい",
+    "kanji": "難しい",
+    "reading": "むずかしい",
+    "meaning": "Khó",
+    "romaji": "Mừ zứ ka shi"
+  },
+  {
+    "id": "v_5_173",
+    "lesson": 5,
+    "sub": "Unit 5.2: Tuần, Tháng, Năm & Lịch trình",
+    "word": "たいへん（な）",
+    "kanji": "",
+    "reading": "たいへん（な）",
+    "meaning": "Vất vả",
+    "romaji": "Tai hen na"
+  },
+  {
+    "id": "v_5_174",
+    "lesson": 5,
+    "sub": "Unit 5.2: Tuần, Tháng, Năm & Lịch trình",
+    "word": "どうして",
+    "kanji": "",
+    "reading": "どうして",
+    "meaning": "Tại sao",
+    "romaji": "Đố shi tê"
+  },
+  {
+    "id": "v_5_175",
+    "lesson": 5,
+    "sub": "Unit 5.3: Hoạt động, Giải trí & Cảm xúc",
+    "word": "こんど",
+    "kanji": "",
+    "reading": "こんど",
+    "meaning": "Lần tới",
+    "romaji": "Kon đồ"
+  },
+  {
+    "id": "v_5_176",
+    "lesson": 5,
+    "sub": "Unit 5.3: Hoạt động, Giải trí & Cảm xúc",
+    "word": "アニメ",
+    "kanji": "",
+    "reading": "アニメ",
+    "meaning": "Hoạt hình",
+    "romaji": "Á ni mê"
+  },
+  {
+    "id": "v_5_177",
+    "lesson": 5,
+    "sub": "Unit 5.3: Hoạt động, Giải trí & Cảm xúc",
+    "word": "え",
+    "kanji": "",
+    "reading": "え",
+    "meaning": "Bức tranh",
+    "romaji": "ê"
+  },
+  {
+    "id": "v_5_178",
+    "lesson": 5,
+    "sub": "Unit 5.3: Hoạt động, Giải trí & Cảm xúc",
+    "word": "けしき",
+    "kanji": "",
+    "reading": "けしき",
+    "meaning": "Phong cảnh",
+    "romaji": "Kế shi ki"
+  },
+  {
+    "id": "v_5_179",
+    "lesson": 5,
+    "sub": "Unit 5.3: Hoạt động, Giải trí & Cảm xúc",
+    "word": "自転車",
+    "kanji": "自転車",
+    "reading": "じてんしゃ",
+    "meaning": "Xe đạp",
+    "romaji": "Jì tén shà"
+  },
+  {
+    "id": "v_5_180",
+    "lesson": 5,
+    "sub": "Unit 5.3: Hoạt động, Giải trí & Cảm xúc",
+    "word": "写真",
+    "kanji": "写真",
+    "reading": "しゃしん",
+    "meaning": "Bức ảnh",
+    "romaji": "Shà Shin"
+  },
+  {
+    "id": "v_5_181",
+    "lesson": 5,
+    "sub": "Unit 5.3: Hoạt động, Giải trí & Cảm xúc",
+    "word": "（を）とります",
+    "kanji": "",
+    "reading": "（を）とります",
+    "meaning": "Chụp",
+    "romaji": "tồ ri mas"
+  },
+  {
+    "id": "v_5_182",
+    "lesson": 5,
+    "sub": "Unit 5.3: Hoạt động, Giải trí & Cảm xúc",
+    "word": "（を）かります",
+    "kanji": "",
+    "reading": "（を）かります",
+    "meaning": "Mượn",
+    "romaji": "kà ri mas"
+  },
+  {
+    "id": "v_5_183",
+    "lesson": 5,
+    "sub": "Unit 5.3: Hoạt động, Giải trí & Cảm xúc",
+    "word": "（が）ほしい",
+    "kanji": "",
+    "reading": "（が）ほしい",
+    "meaning": "Muốn có",
+    "romaji": "Hô shi"
+  },
+  {
+    "id": "v_5_184",
+    "lesson": 5,
+    "sub": "Unit 5.3: Hoạt động, Giải trí & Cảm xúc",
+    "word": "（が）すき（な）",
+    "kanji": "",
+    "reading": "（が）すき（な）",
+    "meaning": "Thích",
+    "romaji": "Sừ ki"
+  },
+  {
+    "id": "v_5_185",
+    "lesson": 5,
+    "sub": "Unit 5.3: Hoạt động, Giải trí & Cảm xúc",
+    "word": "（が）きらい（な）",
+    "kanji": "",
+    "reading": "（が）きらい（な）",
+    "meaning": "Ghét",
+    "romaji": "Kì rai"
+  },
+  {
+    "id": "v_5_186",
+    "lesson": 5,
+    "sub": "Unit 5.3: Hoạt động, Giải trí & Cảm xúc",
+    "word": "サカイでんき",
+    "kanji": "",
+    "reading": "サカイでんき",
+    "meaning": "Điện Sakai",
+    "romaji": "Sa kai đén ki"
+  },
+  {
+    "id": "v_5_187",
+    "lesson": 5,
+    "sub": "Unit 5.3: Hoạt động, Giải trí & Cảm xúc",
+    "word": "ニコニコショッピング",
+    "kanji": "",
+    "reading": "ニコニコショッピング",
+    "meaning": "Cửa hàng shopping Nikoniko",
+    "romaji": "Nikô Nikô shoppingư"
+  },
+  {
+    "id": "v_5_188",
+    "lesson": 5,
+    "sub": "Unit 5.3: Hoạt động, Giải trí & Cảm xúc",
+    "word": "うえの",
+    "kanji": "",
+    "reading": "うえの",
+    "meaning": "Tên riêng",
+    "romaji": "ừ ê nô"
+  },
+  {
+    "id": "v_6_189",
+    "lesson": 6,
+    "sub": "Unit 6.1: Sự kiện, Rủ rê & Hoạt động vui chơi",
+    "word": "カラオケ",
+    "kanji": "",
+    "reading": "カラオケ",
+    "meaning": "Hát karaoke",
+    "romaji": "Kà ra ô kê"
+  },
+  {
+    "id": "v_6_190",
+    "lesson": 6,
+    "sub": "Unit 6.1: Sự kiện, Rủ rê & Hoạt động vui chơi",
+    "word": "コンサート",
+    "kanji": "",
+    "reading": "コンサート",
+    "meaning": "Hoà nhạc",
+    "romaji": "Kon sa tồ"
+  },
+  {
+    "id": "v_6_191",
+    "lesson": 6,
+    "sub": "Unit 6.1: Sự kiện, Rủ rê & Hoạt động vui chơi",
+    "word": "しあい",
+    "kanji": "",
+    "reading": "しあい",
+    "meaning": "Trận đấu",
+    "romaji": "Shi ai"
+  },
+  {
+    "id": "v_6_192",
+    "lesson": 6,
+    "sub": "Unit 6.1: Sự kiện, Rủ rê & Hoạt động vui chơi",
+    "word": "セール",
+    "kanji": "",
+    "reading": "セール",
+    "meaning": "Giảm giá",
+    "romaji": "Sế rừ"
+  },
+  {
+    "id": "v_6_193",
+    "lesson": 6,
+    "sub": "Unit 6.1: Sự kiện, Rủ rê & Hoạt động vui chơi",
+    "word": "チケット",
+    "kanji": "",
+    "reading": "チケット",
+    "meaning": "Vé",
+    "romaji": "Chì két tồ"
+  },
+  {
+    "id": "v_6_194",
+    "lesson": 6,
+    "sub": "Unit 6.1: Sự kiện, Rủ rê & Hoạt động vui chơi",
+    "word": "ちず",
+    "kanji": "",
+    "reading": "ちず",
+    "meaning": "Bản đồ",
+    "romaji": "Chí zừ"
+  },
+  {
+    "id": "v_6_195",
+    "lesson": 6,
+    "sub": "Unit 6.1: Sự kiện, Rủ rê & Hoạt động vui chơi",
+    "word": "ドライブドライブをします",
+    "kanji": "",
+    "reading": "ドライブドライブをします",
+    "meaning": "Lái xe",
+    "romaji": "Đồ rai bừĐồ rai bừ ố shi mas"
+  },
+  {
+    "id": "v_6_196",
+    "lesson": 6,
+    "sub": "Unit 6.1: Sự kiện, Rủ rê & Hoạt động vui chơi",
+    "word": "みずぎ",
+    "kanji": "",
+    "reading": "みずぎ",
+    "meaning": "Đồ bơi",
+    "romaji": "Mì zư gi"
+  },
+  {
+    "id": "v_6_197",
+    "lesson": 6,
+    "sub": "Unit 6.1: Sự kiện, Rủ rê & Hoạt động vui chơi",
+    "word": "やきゅう",
+    "kanji": "",
+    "reading": "やきゅう",
+    "meaning": "Bóng chày",
+    "romaji": "Yà khiu"
+  },
+  {
+    "id": "v_6_198",
+    "lesson": 6,
+    "sub": "Unit 6.1: Sự kiện, Rủ rê & Hoạt động vui chơi",
+    "word": "やくそく",
+    "kanji": "",
+    "reading": "やくそく",
+    "meaning": "Hẹn",
+    "romaji": "Yà kư số kừ"
+  },
+  {
+    "id": "v_6_199",
+    "lesson": 6,
+    "sub": "Unit 6.1: Sự kiện, Rủ rê & Hoạt động vui chơi",
+    "word": "ようじ",
+    "kanji": "",
+    "reading": "ようじ",
+    "meaning": "Việc bận",
+    "romaji": "Yố ji"
+  },
+  {
+    "id": "v_6_200",
+    "lesson": 6,
+    "sub": "Unit 6.1: Sự kiện, Rủ rê & Hoạt động vui chơi",
+    "word": "～まい",
+    "kanji": "",
+    "reading": "～まい",
+    "meaning": "Tấm, tờ (Đếm vật mỏng)",
+    "romaji": "~Mai"
+  },
+  {
+    "id": "v_6_201",
+    "lesson": 6,
+    "sub": "Unit 6.1: Sự kiện, Rủ rê & Hoạt động vui chơi",
+    "word": "あります",
+    "kanji": "",
+    "reading": "あります",
+    "meaning": "Có, tổ chức, sở hữu",
+    "romaji": "À ri mas"
+  },
+  {
+    "id": "v_6_202",
+    "lesson": 6,
+    "sub": "Unit 6.1: Sự kiện, Rủ rê & Hoạt động vui chơi",
+    "word": "ざんねん（な）",
+    "kanji": "",
+    "reading": "ざんねん（な）",
+    "meaning": "Đáng tiếc",
+    "romaji": "Zan nen (na)"
+  },
+  {
+    "id": "v_6_203",
+    "lesson": 6,
+    "sub": "Unit 6.1: Sự kiện, Rủ rê & Hoạt động vui chơi",
+    "word": "いっしょに",
+    "kanji": "",
+    "reading": "いっしょに",
+    "meaning": "Cùng với",
+    "romaji": "Ịs shô ni"
+  },
+  {
+    "id": "v_6_204",
+    "lesson": 6,
+    "sub": "Unit 6.1: Sự kiện, Rủ rê & Hoạt động vui chơi",
+    "word": "いいですね",
+    "kanji": "",
+    "reading": "いいですね",
+    "meaning": "Hay đấy, được đấy",
+    "romaji": "I đẹt nê"
+  },
+  {
+    "id": "v_6_205",
+    "lesson": 6,
+    "sub": "Unit 6.1: Sự kiện, Rủ rê & Hoạt động vui chơi",
+    "word": "～はちょっと….",
+    "kanji": "",
+    "reading": "～はちょっと….",
+    "meaning": "N thì có một chút không được",
+    "romaji": "Wa chót tồ"
+  },
+  {
+    "id": "v_6_206",
+    "lesson": 6,
+    "sub": "Unit 6.1: Sự kiện, Rủ rê & Hoạt động vui chơi",
+    "word": "また  こんど",
+    "kanji": "",
+    "reading": "また  こんど",
+    "meaning": "Hẹn lần sau",
+    "romaji": "Mà ta kon đồ"
+  },
+  {
+    "id": "v_6_207",
+    "lesson": 6,
+    "sub": "Unit 6.1: Sự kiện, Rủ rê & Hoạt động vui chơi",
+    "word": "あそびます",
+    "kanji": "",
+    "reading": "あそびます",
+    "meaning": "Chơi",
+    "romaji": ""
+  },
+  {
+    "id": "v_6_208",
+    "lesson": 6,
+    "sub": "Unit 6.2: Đồ ăn, Thức uống & Sở thích",
+    "word": "食べ物",
+    "kanji": "食べ物",
+    "reading": "たべもの",
+    "meaning": "Đồ ăn",
+    "romaji": "Tà bê mô nồ"
+  },
+  {
+    "id": "v_6_209",
+    "lesson": 6,
+    "sub": "Unit 6.2: Đồ ăn, Thức uống & Sở thích",
+    "word": "飲み物",
+    "kanji": "飲み物",
+    "reading": "のみもの",
+    "meaning": "Đồ uống",
+    "romaji": "Nồ mí mô nồ"
+  },
+  {
+    "id": "v_6_210",
+    "lesson": 6,
+    "sub": "Unit 6.2: Đồ ăn, Thức uống & Sở thích",
+    "word": "やきにく",
+    "kanji": "",
+    "reading": "やきにく",
+    "meaning": "Thịt nướng",
+    "romaji": "Yà ki nì kư"
+  },
+  {
+    "id": "v_6_211",
+    "lesson": 6,
+    "sub": "Unit 6.2: Đồ ăn, Thức uống & Sở thích",
+    "word": "ラーメン",
+    "kanji": "",
+    "reading": "ラーメン",
+    "meaning": "Mỳ Nhật",
+    "romaji": "Rá men"
+  },
+  {
+    "id": "v_6_212",
+    "lesson": 6,
+    "sub": "Unit 6.2: Đồ ăn, Thức uống & Sở thích",
+    "word": "おこのみやき",
+    "kanji": "",
+    "reading": "おこのみやき",
+    "meaning": "Bánh xèo Nhật",
+    "romaji": "Ồ kồ nô mi ya ki"
+  },
+  {
+    "id": "v_6_213",
+    "lesson": 6,
+    "sub": "Unit 6.2: Đồ ăn, Thức uống & Sở thích",
+    "word": "すきやき",
+    "kanji": "",
+    "reading": "すきやき",
+    "meaning": "Món lẩu rau và thịt bò Nhật",
+    "romaji": "Sừ ki ya ki"
+  },
+  {
+    "id": "v_6_214",
+    "lesson": 6,
+    "sub": "Unit 6.2: Đồ ăn, Thức uống & Sở thích",
+    "word": "たべほうだい",
+    "kanji": "",
+    "reading": "たべほうだい",
+    "meaning": "Ăn buffe",
+    "romaji": "Tà bê hô đai"
+  },
+  {
+    "id": "v_6_215",
+    "lesson": 6,
+    "sub": "Unit 6.2: Đồ ăn, Thức uống & Sở thích",
+    "word": "コース",
+    "kanji": "",
+    "reading": "コース",
+    "meaning": "Suất ăn, khoá học",
+    "romaji": "Kố - sừ"
+  },
+  {
+    "id": "v_6_216",
+    "lesson": 6,
+    "sub": "Unit 6.2: Đồ ăn, Thức uống & Sở thích",
+    "word": "いざかや",
+    "kanji": "",
+    "reading": "いざかや",
+    "meaning": "Quán rượu",
+    "romaji": "Ì za ka ya"
+  },
+  {
+    "id": "v_6_217",
+    "lesson": 6,
+    "sub": "Unit 6.2: Đồ ăn, Thức uống & Sở thích",
+    "word": "えいがかん",
+    "kanji": "",
+    "reading": "えいがかん",
+    "meaning": "Rạp phim",
+    "romaji": "Ế gà kan"
+  },
+  {
+    "id": "v_6_218",
+    "lesson": 6,
+    "sub": "Unit 6.2: Đồ ăn, Thức uống & Sở thích",
+    "word": "ちかてつ",
+    "kanji": "",
+    "reading": "ちかてつ",
+    "meaning": "Tàu điện ngầm",
+    "romaji": "Chì ka tê tsừ"
+  },
+  {
+    "id": "v_6_219",
+    "lesson": 6,
+    "sub": "Unit 6.2: Đồ ăn, Thức uống & Sở thích",
+    "word": "かしゅ",
+    "kanji": "",
+    "reading": "かしゅ",
+    "meaning": "Ca sỹ",
+    "romaji": "Ká shiu"
+  },
+  {
+    "id": "v_6_220",
+    "lesson": 6,
+    "sub": "Unit 6.2: Đồ ăn, Thức uống & Sở thích",
+    "word": "きせつ",
+    "kanji": "",
+    "reading": "きせつ",
+    "meaning": "Mùa",
+    "romaji": "Ki sế tsừ"
+  },
+  {
+    "id": "v_6_221",
+    "lesson": 6,
+    "sub": "Unit 6.2: Đồ ăn, Thức uống & Sở thích",
+    "word": "コメディー",
+    "kanji": "",
+    "reading": "コメディー",
+    "meaning": "Hài kịch",
+    "romaji": "Kố mê đi"
+  },
+  {
+    "id": "v_6_222",
+    "lesson": 6,
+    "sub": "Unit 6.2: Đồ ăn, Thức uống & Sở thích",
+    "word": "ジャズ",
+    "kanji": "",
+    "reading": "ジャズ",
+    "meaning": "Nhạc jazz",
+    "romaji": "Ja zừ"
+  },
+  {
+    "id": "v_6_223",
+    "lesson": 6,
+    "sub": "Unit 6.2: Đồ ăn, Thức uống & Sở thích",
+    "word": "ツアー",
+    "kanji": "",
+    "reading": "ツアー",
+    "meaning": "Tour du lịch",
+    "romaji": "Tsư a"
+  },
+  {
+    "id": "v_6_224",
+    "lesson": 6,
+    "sub": "Unit 6.2: Đồ ăn, Thức uống & Sở thích",
+    "word": "どちら",
+    "kanji": "",
+    "reading": "どちら",
+    "meaning": "Bên nào, chỗ nào",
+    "romaji": "Đố chi ra"
+  },
+  {
+    "id": "v_6_225",
+    "lesson": 6,
+    "sub": "Unit 6.2: Đồ ăn, Thức uống & Sở thích",
+    "word": "どちらも",
+    "kanji": "",
+    "reading": "どちらも",
+    "meaning": "Bên nào cũng",
+    "romaji": "Đố chi ra mô"
+  },
+  {
+    "id": "v_6_226",
+    "lesson": 6,
+    "sub": "Unit 6.2: Đồ ăn, Thức uống & Sở thích",
+    "word": "ちかい",
+    "kanji": "",
+    "reading": "ちかい",
+    "meaning": "Gần",
+    "romaji": "Chì kai"
+  },
+  {
+    "id": "v_6_227",
+    "lesson": 6,
+    "sub": "Unit 6.2: Đồ ăn, Thức uống & Sở thích",
+    "word": "とおい",
+    "kanji": "",
+    "reading": "とおい",
+    "meaning": "Xa",
+    "romaji": "Tồ oi"
+  },
+  {
+    "id": "v_6_228",
+    "lesson": 6,
+    "sub": "Unit 6.2: Đồ ăn, Thức uống & Sở thích",
+    "word": "はやい",
+    "kanji": "",
+    "reading": "はやい",
+    "meaning": "Nhanh",
+    "romaji": "Hà yai"
+  },
+  {
+    "id": "v_6_229",
+    "lesson": 6,
+    "sub": "Unit 6.2: Đồ ăn, Thức uống & Sở thích",
+    "word": "ひろい",
+    "kanji": "",
+    "reading": "ひろい",
+    "meaning": "Rộng",
+    "romaji": "Hì roi"
+  },
+  {
+    "id": "v_6_230",
+    "lesson": 6,
+    "sub": "Unit 6.2: Đồ ăn, Thức uống & Sở thích",
+    "word": "いちばん",
+    "kanji": "",
+    "reading": "いちばん",
+    "meaning": "Số 1",
+    "romaji": "Ì chi ban"
+  },
+  {
+    "id": "v_6_231",
+    "lesson": 6,
+    "sub": "Unit 6.2: Đồ ăn, Thức uống & Sở thích",
+    "word": "ぜんぶ",
+    "kanji": "",
+    "reading": "ぜんぶ",
+    "meaning": "Toàn bộ",
+    "romaji": "Zén bừ"
+  },
+  {
+    "id": "v_6_232",
+    "lesson": 6,
+    "sub": "Unit 6.2: Đồ ăn, Thức uống & Sở thích",
+    "word": "そうですねえ",
+    "kanji": "",
+    "reading": "そうですねえ",
+    "meaning": "Để tôi nghĩ xem (câu nói ngập ngừng khi suy nghĩ trả lời)",
+    "romaji": "Sô đẹt nê"
+  },
+  {
+    "id": "v_6_233",
+    "lesson": 6,
+    "sub": "Unit 6.3: Lựa chọn, So sánh & Kế hoạch",
+    "word": "ぜひ + Vたい",
+    "kanji": "",
+    "reading": "ぜひ + Vたい",
+    "meaning": "Nhất định",
+    "romaji": "Zế hi"
+  },
+  {
+    "id": "v_6_234",
+    "lesson": 6,
+    "sub": "Unit 6.3: Lựa chọn, So sánh & Kế hoạch",
+    "word": "まだです",
+    "kanji": "",
+    "reading": "まだです",
+    "meaning": "Vẫn chưa",
+    "romaji": "Má đà des"
+  },
+  {
+    "id": "v_6_235",
+    "lesson": 6,
+    "sub": "Unit 6.3: Lựa chọn, So sánh & Kế hoạch",
+    "word": "もう　Vました",
+    "kanji": "",
+    "reading": "もう　Vました",
+    "meaning": "Đã ~ rồi",
+    "romaji": "Mô"
+  },
+  {
+    "id": "v_6_236",
+    "lesson": 6,
+    "sub": "Unit 6.3: Lựa chọn, So sánh & Kế hoạch",
+    "word": "そうしましょう＝Vましょう",
+    "kanji": "",
+    "reading": "そうしましょう＝Vましょう",
+    "meaning": "Làm như thế đi",
+    "romaji": "Shô shi ma shô"
+  },
+  {
+    "id": "v_6_237",
+    "lesson": 6,
+    "sub": "Unit 6.3: Lựa chọn, So sánh & Kế hoạch",
+    "word": "わかりました",
+    "kanji": "",
+    "reading": "わかりました",
+    "meaning": "Tôi đã hiểu",
+    "romaji": "Wà ka ri mát tà"
+  },
+  {
+    "id": "v_6_238",
+    "lesson": 6,
+    "sub": "Unit 6.3: Lựa chọn, So sánh & Kế hoạch",
+    "word": "～よVD：このりょうりはおいしいですよ",
+    "kanji": "",
+    "reading": "～よVD：このりょうりはおいしいですよ",
+    "meaning": "Từ đệm cuối câu よ để nhấn mạnh thông tin mới, thường dịch là Đó, đấy",
+    "romaji": ""
+  },
+  {
+    "id": "v_7_239",
+    "lesson": 7,
+    "sub": "Unit 7.1: Địa điểm công cộng, Vị trí & Đồ vật",
+    "word": "かいさつ",
+    "kanji": "",
+    "reading": "かいさつ",
+    "meaning": "Máy soát vé",
+    "romaji": "Kai sát tsừ"
+  },
+  {
+    "id": "v_7_240",
+    "lesson": 7,
+    "sub": "Unit 7.1: Địa điểm công cộng, Vị trí & Đồ vật",
+    "word": "き",
+    "kanji": "",
+    "reading": "き",
+    "meaning": "Cây",
+    "romaji": "Ki"
+  },
+  {
+    "id": "v_7_241",
+    "lesson": 7,
+    "sub": "Unit 7.1: Địa điểm công cộng, Vị trí & Đồ vật",
+    "word": "こうばん",
+    "kanji": "",
+    "reading": "こうばん",
+    "meaning": "Công an",
+    "romaji": "Kô ban"
+  },
+  {
+    "id": "v_7_242",
+    "lesson": 7,
+    "sub": "Unit 7.1: Địa điểm công cộng, Vị trí & Đồ vật",
+    "word": "じどうはんばいき",
+    "kanji": "",
+    "reading": "じどうはんばいき",
+    "meaning": "Máy bán hàng tự động",
+    "romaji": "Jì đố han bai ki"
+  },
+  {
+    "id": "v_7_243",
+    "lesson": 7,
+    "sub": "Unit 7.1: Địa điểm công cộng, Vị trí & Đồ vật",
+    "word": "バスてい",
+    "kanji": "",
+    "reading": "バスてい",
+    "meaning": "Trạm xe buýt",
+    "romaji": "Bá sừ tê"
+  },
+  {
+    "id": "v_7_244",
+    "lesson": 7,
+    "sub": "Unit 7.1: Địa điểm công cộng, Vị trí & Đồ vật",
+    "word": "ポスト",
+    "kanji": "",
+    "reading": "ポスト",
+    "meaning": "Hòm thư",
+    "romaji": "Pót sư tồ"
+  },
+  {
+    "id": "v_7_245",
+    "lesson": 7,
+    "sub": "Unit 7.1: Địa điểm công cộng, Vị trí & Đồ vật",
+    "word": "はな",
+    "kanji": "",
+    "reading": "はな",
+    "meaning": "Hoa",
+    "romaji": "Hà na"
+  },
+  {
+    "id": "v_7_246",
+    "lesson": 7,
+    "sub": "Unit 7.1: Địa điểm công cộng, Vị trí & Đồ vật",
+    "word": "いぬ",
+    "kanji": "",
+    "reading": "いぬ",
+    "meaning": "Chó",
+    "romaji": "Ì nư"
+  },
+  {
+    "id": "v_7_247",
+    "lesson": 7,
+    "sub": "Unit 7.1: Địa điểm công cộng, Vị trí & Đồ vật",
+    "word": "隣",
+    "kanji": "隣",
+    "reading": "となり",
+    "meaning": "Kế bên cạnh",
+    "romaji": "Tồ na ri"
+  },
+  {
+    "id": "v_7_248",
+    "lesson": 7,
+    "sub": "Unit 7.1: Địa điểm công cộng, Vị trí & Đồ vật",
+    "word": "近く",
+    "kanji": "近く",
+    "reading": "ちかく",
+    "meaning": "Ở gần",
+    "romaji": "Chì ka kừ"
+  },
+  {
+    "id": "v_7_249",
+    "lesson": 7,
+    "sub": "Unit 7.1: Địa điểm công cộng, Vị trí & Đồ vật",
+    "word": "あいだ",
+    "kanji": "",
+    "reading": "あいだ",
+    "meaning": "Ở giữa",
+    "romaji": "Ai đa"
+  },
+  {
+    "id": "v_7_250",
+    "lesson": 7,
+    "sub": "Unit 7.1: Địa điểm công cộng, Vị trí & Đồ vật",
+    "word": "上",
+    "kanji": "上",
+    "reading": "うえ",
+    "meaning": "Ở trên",
+    "romaji": "ừ ê"
+  },
+  {
+    "id": "v_7_251",
+    "lesson": 7,
+    "sub": "Unit 7.1: Địa điểm công cộng, Vị trí & Đồ vật",
+    "word": "下",
+    "kanji": "下",
+    "reading": "した",
+    "meaning": "Ở dưới",
+    "romaji": "Shì ta"
+  },
+  {
+    "id": "v_7_252",
+    "lesson": 7,
+    "sub": "Unit 7.1: Địa điểm công cộng, Vị trí & Đồ vật",
+    "word": "よこ",
+    "kanji": "",
+    "reading": "よこ",
+    "meaning": "Ngang bên cạnh",
+    "romaji": "Yồ kô"
+  },
+  {
+    "id": "v_7_253",
+    "lesson": 7,
+    "sub": "Unit 7.1: Địa điểm công cộng, Vị trí & Đồ vật",
+    "word": "中",
+    "kanji": "中",
+    "reading": "なか",
+    "meaning": "Ở trong",
+    "romaji": "Ná kà"
+  },
+  {
+    "id": "v_7_254",
+    "lesson": 7,
+    "sub": "Unit 7.1: Địa điểm công cộng, Vị trí & Đồ vật",
+    "word": "外",
+    "kanji": "外",
+    "reading": "そと",
+    "meaning": "Ở ngoài",
+    "romaji": "Số tồ"
+  },
+  {
+    "id": "v_7_255",
+    "lesson": 7,
+    "sub": "Unit 7.1: Địa điểm công cộng, Vị trí & Đồ vật",
+    "word": "前",
+    "kanji": "前",
+    "reading": "まえ",
+    "meaning": "Phía trước",
+    "romaji": "Má ề"
+  },
+  {
+    "id": "v_7_256",
+    "lesson": 7,
+    "sub": "Unit 7.1: Địa điểm công cộng, Vị trí & Đồ vật",
+    "word": "後ろ",
+    "kanji": "後ろ",
+    "reading": "うしろ",
+    "meaning": "Phía sau",
+    "romaji": "ừ shi rô"
+  },
+  {
+    "id": "v_7_257",
+    "lesson": 7,
+    "sub": "Unit 7.1: Địa điểm công cộng, Vị trí & Đồ vật",
+    "word": "右",
+    "kanji": "右",
+    "reading": "みぎ",
+    "meaning": "Bên phải",
+    "romaji": "Mì gi"
+  },
+  {
+    "id": "v_7_258",
+    "lesson": 7,
+    "sub": "Unit 7.1: Địa điểm công cộng, Vị trí & Đồ vật",
+    "word": "左",
+    "kanji": "左",
+    "reading": "ひだり",
+    "meaning": "Bên trái",
+    "romaji": "Hi đa ri"
+  },
+  {
+    "id": "v_7_259",
+    "lesson": 7,
+    "sub": "Unit 7.1: Địa điểm công cộng, Vị trí & Đồ vật",
+    "word": "（を）むかえます",
+    "kanji": "",
+    "reading": "（を）むかえます",
+    "meaning": "Đón",
+    "romaji": "ố mừ ka ê mas"
+  },
+  {
+    "id": "v_7_260",
+    "lesson": 7,
+    "sub": "Unit 7.1: Địa điểm công cộng, Vị trí & Đồ vật",
+    "word": "（が）います",
+    "kanji": "",
+    "reading": "（が）います",
+    "meaning": "Có (Người, động vật)",
+    "romaji": "Gá I mas"
+  },
+  {
+    "id": "v_7_261",
+    "lesson": 7,
+    "sub": "Unit 7.1: Địa điểm công cộng, Vị trí & Đồ vật",
+    "word": "（が）あります",
+    "kanji": "",
+    "reading": "（が）あります",
+    "meaning": "Có (đồ vật)",
+    "romaji": "Gá à ri mas"
+  },
+  {
+    "id": "v_7_262",
+    "lesson": 7,
+    "sub": "Unit 7.1: Địa điểm công cộng, Vị trí & Đồ vật",
+    "word": "もしもし",
+    "kanji": "",
+    "reading": "もしもし",
+    "meaning": "A lô",
+    "romaji": "Mố shi mố shi"
+  },
+  {
+    "id": "v_7_263",
+    "lesson": 7,
+    "sub": "Unit 7.2: Hành động, Dụng cụ & Chuẩn bị",
+    "word": "じゅんび",
+    "kanji": "",
+    "reading": "じゅんび",
+    "meaning": "Chuẩn bị",
+    "romaji": "Jún bi"
+  },
+  {
+    "id": "v_7_264",
+    "lesson": 7,
+    "sub": "Unit 7.2: Hành động, Dụng cụ & Chuẩn bị",
+    "word": "いす",
+    "kanji": "",
+    "reading": "いす",
+    "meaning": "Ghế",
+    "romaji": "Ì sư"
+  },
+  {
+    "id": "v_7_265",
+    "lesson": 7,
+    "sub": "Unit 7.2: Hành động, Dụng cụ & Chuẩn bị",
+    "word": "テーブル",
+    "kanji": "",
+    "reading": "テーブル",
+    "meaning": "Bàn (sinh hoạt)",
+    "romaji": "Tê bư rừ"
+  },
+  {
+    "id": "v_7_266",
+    "lesson": 7,
+    "sub": "Unit 7.2: Hành động, Dụng cụ & Chuẩn bị",
+    "word": "つくえ",
+    "kanji": "",
+    "reading": "つくえ",
+    "meaning": "Bàn (cá nhân)",
+    "romaji": "Tsừ kư ê"
+  },
+  {
+    "id": "v_7_267",
+    "lesson": 7,
+    "sub": "Unit 7.2: Hành động, Dụng cụ & Chuẩn bị",
+    "word": "ソファー",
+    "kanji": "",
+    "reading": "ソファー",
+    "meaning": "Ghế sofa",
+    "romaji": "Sô fa"
+  },
+  {
+    "id": "v_7_268",
+    "lesson": 7,
+    "sub": "Unit 7.2: Hành động, Dụng cụ & Chuẩn bị",
+    "word": "でんしレンジ",
+    "kanji": "",
+    "reading": "でんしレンジ",
+    "meaning": "Lò vi sóng",
+    "romaji": "Đén shi ren ji"
+  },
+  {
+    "id": "v_7_269",
+    "lesson": 7,
+    "sub": "Unit 7.2: Hành động, Dụng cụ & Chuẩn bị",
+    "word": "れいぞうこ",
+    "kanji": "",
+    "reading": "れいぞうこ",
+    "meaning": "Tủ lạnh",
+    "romaji": "Rề zố kồ"
+  },
+  {
+    "id": "v_7_270",
+    "lesson": 7,
+    "sub": "Unit 7.2: Hành động, Dụng cụ & Chuẩn bị",
+    "word": "さとう",
+    "kanji": "",
+    "reading": "さとう",
+    "meaning": "Đường",
+    "romaji": "Sà tô"
+  },
+  {
+    "id": "v_7_271",
+    "lesson": 7,
+    "sub": "Unit 7.2: Hành động, Dụng cụ & Chuẩn bị",
+    "word": "しお",
+    "kanji": "",
+    "reading": "しお",
+    "meaning": "Muối",
+    "romaji": "Shí ồ"
+  },
+  {
+    "id": "v_7_272",
+    "lesson": 7,
+    "sub": "Unit 7.2: Hành động, Dụng cụ & Chuẩn bị",
+    "word": "しょうゆ",
+    "kanji": "",
+    "reading": "しょうゆ",
+    "meaning": "Nước tương",
+    "romaji": "Shô yu"
+  },
+  {
+    "id": "v_7_273",
+    "lesson": 7,
+    "sub": "Unit 7.2: Hành động, Dụng cụ & Chuẩn bị",
+    "word": "コップ",
+    "kanji": "",
+    "reading": "コップ",
+    "meaning": "Ly",
+    "romaji": "Kóp pừ"
+  },
+  {
+    "id": "v_7_274",
+    "lesson": 7,
+    "sub": "Unit 7.2: Hành động, Dụng cụ & Chuẩn bị",
+    "word": "スプーン",
+    "kanji": "",
+    "reading": "スプーン",
+    "meaning": "Muỗng",
+    "romaji": "Sừ pư-n"
+  },
+  {
+    "id": "v_7_275",
+    "lesson": 7,
+    "sub": "Unit 7.2: Hành động, Dụng cụ & Chuẩn bị",
+    "word": "ナイフ",
+    "kanji": "",
+    "reading": "ナイフ",
+    "meaning": "Dao",
+    "romaji": "Nai fừ"
+  },
+  {
+    "id": "v_7_276",
+    "lesson": 7,
+    "sub": "Unit 7.2: Hành động, Dụng cụ & Chuẩn bị",
+    "word": "フォーク",
+    "kanji": "",
+    "reading": "フォーク",
+    "meaning": "Nĩa",
+    "romaji": "Fố kừ"
+  },
+  {
+    "id": "v_7_277",
+    "lesson": 7,
+    "sub": "Unit 7.2: Hành động, Dụng cụ & Chuẩn bị",
+    "word": "はし",
+    "kanji": "",
+    "reading": "はし",
+    "meaning": "Đũa",
+    "romaji": "Hà Shi"
+  },
+  {
+    "id": "v_7_278",
+    "lesson": 7,
+    "sub": "Unit 7.2: Hành động, Dụng cụ & Chuẩn bị",
+    "word": "て",
+    "kanji": "",
+    "reading": "て",
+    "meaning": "Tay",
+    "romaji": "Tê"
+  },
+  {
+    "id": "v_7_279",
+    "lesson": 7,
+    "sub": "Unit 7.2: Hành động, Dụng cụ & Chuẩn bị",
+    "word": "かんじ",
+    "kanji": "",
+    "reading": "かんじ",
+    "meaning": "Chữ Hán",
+    "romaji": "Kan ji"
+  },
+  {
+    "id": "v_7_280",
+    "lesson": 7,
+    "sub": "Unit 7.2: Hành động, Dụng cụ & Chuẩn bị",
+    "word": "どれ",
+    "kanji": "",
+    "reading": "どれ",
+    "meaning": "Cái nào",
+    "romaji": "Đố rề"
+  },
+  {
+    "id": "v_7_281",
+    "lesson": 7,
+    "sub": "Unit 7.2: Hành động, Dụng cụ & Chuẩn bị",
+    "word": "どのN",
+    "kanji": "",
+    "reading": "どのN",
+    "meaning": "Cái N nào",
+    "romaji": "Đồ nô N"
+  },
+  {
+    "id": "v_7_282",
+    "lesson": 7,
+    "sub": "Unit 7.2: Hành động, Dụng cụ & Chuẩn bị",
+    "word": "どちら",
+    "kanji": "",
+    "reading": "どちら",
+    "meaning": "Bên nào",
+    "romaji": "Đố chi ra"
+  },
+  {
+    "id": "v_7_283",
+    "lesson": 7,
+    "sub": "Unit 7.2: Hành động, Dụng cụ & Chuẩn bị",
+    "word": "（を）あらいます",
+    "kanji": "",
+    "reading": "（を）あらいます",
+    "meaning": "Rửa",
+    "romaji": "à rai mas"
+  },
+  {
+    "id": "v_7_284",
+    "lesson": 7,
+    "sub": "Unit 7.2: Hành động, Dụng cụ & Chuẩn bị",
+    "word": "Địa điểmに　Nを　おきます",
+    "kanji": "",
+    "reading": "Địa điểmに　Nを　おきます",
+    "meaning": "Đặt N ở địa điểm",
+    "romaji": "ồ ki mas"
+  },
+  {
+    "id": "v_7_285",
+    "lesson": 7,
+    "sub": "Unit 7.2: Hành động, Dụng cụ & Chuẩn bị",
+    "word": "Địa điểmに　Nを　かきます",
+    "kanji": "",
+    "reading": "Địa điểmに　Nを　かきます",
+    "meaning": "Viết N vào Địa điểm",
+    "romaji": "Kà ki mas"
+  },
+  {
+    "id": "v_7_286",
+    "lesson": 7,
+    "sub": "Unit 7.2: Hành động, Dụng cụ & Chuẩn bị",
+    "word": "（を）かします",
+    "kanji": "",
+    "reading": "（を）かします",
+    "meaning": "Cho mượn",
+    "romaji": "Kà shi mas"
+  },
+  {
+    "id": "v_7_287",
+    "lesson": 7,
+    "sub": "Unit 7.2: Hành động, Dụng cụ & Chuẩn bị",
+    "word": "Ngườiに　Nを ききます",
+    "kanji": "",
+    "reading": "Ngườiに　Nを ききます",
+    "meaning": "Hỏi người về N",
+    "romaji": "Kì ki mas"
+  },
+  {
+    "id": "v_7_288",
+    "lesson": 7,
+    "sub": "Unit 7.2: Hành động, Dụng cụ & Chuẩn bị",
+    "word": "（を）きります",
+    "kanji": "",
+    "reading": "（を）きります",
+    "meaning": "Cắt",
+    "romaji": "Kì ri mas"
+  },
+  {
+    "id": "v_7_289",
+    "lesson": 7,
+    "sub": "Unit 7.2: Hành động, Dụng cụ & Chuẩn bị",
+    "word": "（を）つかいます",
+    "kanji": "",
+    "reading": "（を）つかいます",
+    "meaning": "Sử dụng",
+    "romaji": "Tsừ kai mas"
+  },
+  {
+    "id": "v_7_290",
+    "lesson": 7,
+    "sub": "Unit 7.2: Hành động, Dụng cụ & Chuẩn bị",
+    "word": "（を）てつだいます",
+    "kanji": "",
+    "reading": "（を）てつだいます",
+    "meaning": "Giúp đỡ",
+    "romaji": "Tề tsư đai mas"
+  },
+  {
+    "id": "v_7_291",
+    "lesson": 7,
+    "sub": "Unit 7.2: Hành động, Dụng cụ & Chuẩn bị",
+    "word": "（を）とります",
+    "kanji": "",
+    "reading": "（を）とります",
+    "meaning": "Lấy",
+    "romaji": "Tồ ri mas"
+  },
+  {
+    "id": "v_7_292",
+    "lesson": 7,
+    "sub": "Unit 7.2: Hành động, Dụng cụ & Chuẩn bị",
+    "word": "（が）わかります",
+    "kanji": "",
+    "reading": "（が）わかります",
+    "meaning": "Hiểu",
+    "romaji": "wà ka ri mas"
+  },
+  {
+    "id": "v_7_293",
+    "lesson": 7,
+    "sub": "Unit 7.2: Hành động, Dụng cụ & Chuẩn bị",
+    "word": "Địa điểmに　Nを いれます",
+    "kanji": "",
+    "reading": "Địa điểmに　Nを いれます",
+    "meaning": "Bỏ N vào địa điểm",
+    "romaji": "Ì rê mas"
+  },
+  {
+    "id": "v_7_294",
+    "lesson": 7,
+    "sub": "Unit 7.2: Hành động, Dụng cụ & Chuẩn bị",
+    "word": "Địa điểmから　Nを だします",
+    "kanji": "",
+    "reading": "Địa điểmから　Nを だします",
+    "meaning": "Lấy N từ địa điểm",
+    "romaji": "Đà shi mas"
+  },
+  {
+    "id": "v_7_295",
+    "lesson": 7,
+    "sub": "Unit 7.2: Hành động, Dụng cụ & Chuẩn bị",
+    "word": "（を）おしえます",
+    "kanji": "",
+    "reading": "（を）おしえます",
+    "meaning": "Dạy",
+    "romaji": "ồ shi ê mas"
+  },
+  {
+    "id": "v_7_296",
+    "lesson": 7,
+    "sub": "Unit 7.2: Hành động, Dụng cụ & Chuẩn bị",
+    "word": "たくさん",
+    "kanji": "",
+    "reading": "たくさん",
+    "meaning": "Nhiều",
+    "romaji": "Ta kư san"
+  },
+  {
+    "id": "v_7_297",
+    "lesson": 7,
+    "sub": "Unit 7.2: Hành động, Dụng cụ & Chuẩn bị",
+    "word": "すみませんが",
+    "kanji": "",
+    "reading": "すみませんが",
+    "meaning": "Xin lỗi (mào đầu)",
+    "romaji": "Sừ mi ma sen gà"
+  },
+  {
+    "id": "v_7_298",
+    "lesson": 7,
+    "sub": "Unit 7.2: Hành động, Dụng cụ & Chuẩn bị",
+    "word": "いいですよ",
+    "kanji": "",
+    "reading": "いいですよ",
+    "meaning": "Được chứ",
+    "romaji": "I des yố"
+  },
+  {
+    "id": "v_7_299",
+    "lesson": 7,
+    "sub": "Unit 7.3: Kỹ năng, Nhạc cụ & Cách làm",
+    "word": "うた（をうたいます）",
+    "kanji": "",
+    "reading": "うた（をうたいます）",
+    "meaning": "Bài hát",
+    "romaji": "ừ ta (ố ừ tai mas)"
+  },
+  {
+    "id": "v_7_300",
+    "lesson": 7,
+    "sub": "Unit 7.3: Kỹ năng, Nhạc cụ & Cách làm",
+    "word": "ギター（をひきます）",
+    "kanji": "",
+    "reading": "ギター（をひきます）",
+    "meaning": "Gita",
+    "romaji": "Gita- (ố hì ki mas)"
+  },
+  {
+    "id": "v_7_301",
+    "lesson": 7,
+    "sub": "Unit 7.3: Kỹ năng, Nhạc cụ & Cách làm",
+    "word": "だいどころ",
+    "kanji": "",
+    "reading": "だいどころ",
+    "meaning": "Phòng bếp",
+    "romaji": "Đai đồ kô rô"
+  },
+  {
+    "id": "v_7_302",
+    "lesson": 7,
+    "sub": "Unit 7.3: Kỹ năng, Nhạc cụ & Cách làm",
+    "word": "たばこ（をすいます）",
+    "kanji": "",
+    "reading": "たばこ（をすいます）",
+    "meaning": "Thuốc lá",
+    "romaji": "Tà ba kồ (ố sưi mas)"
+  },
+  {
+    "id": "v_7_303",
+    "lesson": 7,
+    "sub": "Unit 7.3: Kỹ năng, Nhạc cụ & Cách làm",
+    "word": "でんわ（をかけます）",
+    "kanji": "",
+    "reading": "でんわ（をかけます）",
+    "meaning": "Điện thoại",
+    "romaji": "Đén wà (ố kà kê mas)"
+  },
+  {
+    "id": "v_7_304",
+    "lesson": 7,
+    "sub": "Unit 7.3: Kỹ năng, Nhạc cụ & Cách làm",
+    "word": "（お）さら",
+    "kanji": "",
+    "reading": "（お）さら",
+    "meaning": "Dĩa",
+    "romaji": "Ồ sa ra"
+  },
+  {
+    "id": "v_7_305",
+    "lesson": 7,
+    "sub": "Unit 7.3: Kỹ năng, Nhạc cụ & Cách làm",
+    "word": "バイク",
+    "kanji": "",
+    "reading": "バイク",
+    "meaning": "Xe máy",
+    "romaji": "Bai kừ"
+  },
+  {
+    "id": "v_7_306",
+    "lesson": 7,
+    "sub": "Unit 7.3: Kỹ năng, Nhạc cụ & Cách làm",
+    "word": "ピザ",
+    "kanji": "",
+    "reading": "ピザ",
+    "meaning": "Bánh piza",
+    "romaji": "Pí za"
+  },
+  {
+    "id": "v_7_307",
+    "lesson": 7,
+    "sub": "Unit 7.3: Kỹ năng, Nhạc cụ & Cách làm",
+    "word": "まど",
+    "kanji": "",
+    "reading": "まど",
+    "meaning": "Cửa sổ",
+    "romaji": "Má đồ"
+  },
+  {
+    "id": "v_7_308",
+    "lesson": 7,
+    "sub": "Unit 7.3: Kỹ năng, Nhạc cụ & Cách làm",
+    "word": "（を）うたいます",
+    "kanji": "",
+    "reading": "（を）うたいます",
+    "meaning": "Hát",
+    "romaji": "Ừ tai mas"
+  },
+  {
+    "id": "v_7_309",
+    "lesson": 7,
+    "sub": "Unit 7.3: Kỹ năng, Nhạc cụ & Cách làm",
+    "word": "（を）すいます",
+    "kanji": "",
+    "reading": "（を）すいます",
+    "meaning": "Hút (thuốc)",
+    "romaji": "sưi mas"
+  },
+  {
+    "id": "v_7_310",
+    "lesson": 7,
+    "sub": "Unit 7.3: Kỹ năng, Nhạc cụ & Cách làm",
+    "word": "（を）はなします",
+    "kanji": "",
+    "reading": "（を）はなします",
+    "meaning": "Nói chuyện",
+    "romaji": "Hà na shi mas"
+  },
+  {
+    "id": "v_7_311",
+    "lesson": 7,
+    "sub": "Unit 7.3: Kỹ năng, Nhạc cụ & Cách làm",
+    "word": "（を）ひきます",
+    "kanji": "",
+    "reading": "（を）ひきます",
+    "meaning": "Đàn (ghita)",
+    "romaji": "hì ki mas"
+  },
+  {
+    "id": "v_7_312",
+    "lesson": 7,
+    "sub": "Unit 7.3: Kỹ năng, Nhạc cụ & Cách làm",
+    "word": "（を）もちます",
+    "kanji": "",
+    "reading": "（を）もちます",
+    "meaning": "Cầm",
+    "romaji": "Mồ chi mas"
+  },
+  {
+    "id": "v_7_313",
+    "lesson": 7,
+    "sub": "Unit 7.3: Kỹ năng, Nhạc cụ & Cách làm",
+    "word": "（を）あけます",
+    "kanji": "",
+    "reading": "（を）あけます",
+    "meaning": "Mở",
+    "romaji": "À kê mas"
+  },
+  {
+    "id": "v_7_314",
+    "lesson": 7,
+    "sub": "Unit 7.3: Kỹ năng, Nhạc cụ & Cách làm",
+    "word": "（を）しめます",
+    "kanji": "",
+    "reading": "（を）しめます",
+    "meaning": "Đóng",
+    "romaji": "Shì mê mas"
+  },
+  {
+    "id": "v_7_315",
+    "lesson": 7,
+    "sub": "Unit 7.3: Kỹ năng, Nhạc cụ & Cách làm",
+    "word": "（を）かけます",
+    "kanji": "",
+    "reading": "（を）かけます",
+    "meaning": "Gọi",
+    "romaji": "kà kê mas"
+  },
+  {
+    "id": "v_7_316",
+    "lesson": 7,
+    "sub": "Unit 7.3: Kỹ năng, Nhạc cụ & Cách làm",
+    "word": "Địa điểm へ　N（を）もっていきます",
+    "kanji": "",
+    "reading": "Địa điểm へ　N（を）もっていきます",
+    "meaning": "Mang N đi Địa điểm",
+    "romaji": "Mót tê ì ki mas"
+  },
+  {
+    "id": "v_7_317",
+    "lesson": 7,
+    "sub": "Unit 7.3: Kỹ năng, Nhạc cụ & Cách làm",
+    "word": "Địa điểm へ　N（を）もってきます",
+    "kanji": "",
+    "reading": "Địa điểm へ　N（を）もってきます",
+    "meaning": "Mang N đến Địa điểm",
+    "romaji": "Mót tê ki mas"
+  },
+  {
+    "id": "v_7_318",
+    "lesson": 7,
+    "sub": "Unit 7.3: Kỹ năng, Nhạc cụ & Cách làm",
+    "word": "みんなで",
+    "kanji": "",
+    "reading": "みんなで",
+    "meaning": "Cùng nhau",
+    "romaji": "Min na đế"
+  }
+]

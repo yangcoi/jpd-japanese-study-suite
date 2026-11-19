@@ -1,0 +1,59 @@
+import re
+
+html_path = '/Users/yangcoi/Documents/jdp1.html'
+with open(html_path, 'r', encoding='utf-8') as f:
+    content = f.read()
+
+# Define the new kanjiN5 array as a raw string
+new_kanji_n5 = """kanjiN5: [
+                { kanji: '日', topic: 'Tự nhiên & Thứ', romaji: 'hi', meaning: 'Nhật (Ngày, Mặt trời)', on: 'ニチ (nichi), ジツ (jitsu)', kun: 'ひ (hi), か (ka)', examples: [{ w: '日本', r: 'にほん', m: 'Nhật Bản' }, { w: '日曜日', r: 'にちようび', m: 'Chủ nhật' }, { w: '１０日', r: 'とおか', m: 'Mùng 10' }, { w: '誕生日', r: 'たんじょうび', m: 'Ngày sinh nhật' }, { w: '休みの日', r: 'やすみのひ', m: 'Ngày nghỉ' }] },
+                { kanji: '月', topic: 'Tự nhiên & Thứ', romaji: 'tsuki', meaning: 'Nguyệt (Tháng, Mặt trăng)', on: 'ゲツ (getsu), ガツ (gatsu)', kun: 'つき (tsuki)', examples: [{ w: '月', r: 'つき', m: 'Mặt trăng' }, { w: '月曜日', r: 'げつようび', m: 'Thứ hai' }, { w: '一月', r: 'いちがつ', m: 'Tháng 1' }, { w: '四月', r: 'しがつ', m: 'Tháng 4' }] },
+                { kanji: '火', topic: 'Tự nhiên & Thứ', romaji: 'hi', meaning: 'Hỏa (Lửa)', on: 'カ (ka)', kun: 'ひ (hi), び (bi)', examples: [{ w: '火', r: 'ひ', m: 'Lửa' }, { w: '火曜日', r: 'かようび', m: 'Thứ ba' }, { w: '花火', r: 'はなび', m: 'Pháo hoa' }] },
+                { kanji: '水', topic: 'Tự nhiên & Thứ', romaji: 'mizu', meaning: 'Thủy (Nước)', on: 'スイ (sui)', kun: 'みず (mizu)', examples: [{ w: '水', r: 'みず', m: 'Nước' }, { w: '水曜日', r: 'すいようび', m: 'Thứ tư' }, { w: '水道', r: 'すいどう', m: 'Nước máy' }] },
+                { kanji: '木', topic: 'Tự nhiên & Thứ', romaji: 'ki', meaning: 'Mộc (Cây)', on: 'モク (moku), ボク (boku)', kun: 'き (ki), こ (ko)', examples: [{ w: '木', r: 'き', m: 'Cây' }, { w: '木曜日', r: 'もくようび', m: 'Thứ năm' }] },
+                { kanji: '金', topic: 'Tự nhiên & Thứ', romaji: 'kane', meaning: 'Kim (Tiền, Vàng)', on: 'キン (kin), コン (kon)', kun: 'かね (kane), かな (kana)', examples: [{ w: 'お金', r: 'おかね', m: 'Tiền' }, { w: '金曜日', r: 'きんようび', m: 'Thứ sáu' }] },
+                { kanji: '土', topic: 'Tự nhiên & Thứ', romaji: 'tsuchi', meaning: 'Thổ (Đất)', on: 'ド (do), ト (to)', kun: 'つち (tsuchi)', examples: [{ w: '土', r: 'つち', m: 'Đất' }, { w: '土曜日', r: 'どようび', m: 'Thứ bảy' }] },
+                
+                { kanji: '年', topic: 'Thời gian', romaji: 'nen', meaning: 'Niên (Năm)', on: 'ネン (nen)', kun: 'とし (toshi)', examples: [{ w: '今年', r: 'ことし', m: 'Năm nay' }, { w: '１９９８年', r: 'せんきゅうひゃくきゅうじゅうはちねん', m: 'Năm 1998' }, { w: '何年', r: 'なんねん', m: 'Năm bao nhiêu' }] },
+                { kanji: '時', topic: 'Thời gian', romaji: 'ji', meaning: 'Thời (Giờ, Khi)', on: 'ジ (ji)', kun: 'とき (toki)', examples: [{ w: '何時', r: 'なんじ', m: 'Mấy giờ' }, { w: '四時', r: 'よじ', m: '4 giờ' }, { w: '九時', r: 'くじ', m: '9 giờ' }] },
+                { kanji: '間', topic: 'Thời gian', romaji: 'kan', meaning: 'Gian (Khoảng)', on: 'カン (kan), ケン (ken)', kun: 'あいだ (aida), ま (ma)', examples: [{ w: '時間', r: 'じかん', m: 'Thời gian' }, { w: '三時間', r: 'さんじかん', m: '3 tiếng' }, { w: '何時間', r: 'なんじかん', m: 'Mấy tiếng' }] },
+                { kanji: '分', topic: 'Thời gian', romaji: 'fun', meaning: 'Phân (Phút, Hiểu)', on: 'ブン (bun), フン (fun)', kun: 'わ.かる (wa.karu), わ.ける (wa.keru)', examples: [{ w: '一分', r: 'いっぷん', m: '1 phút' }, { w: '五分', r: 'ごふん', m: '5 phút' }, { w: '半分', r: 'はんぶん', m: 'Một nửa' }, { w: '分かります', r: 'わかります', m: 'Hiểu' }] },
+                { kanji: '何', topic: 'Thời gian', romaji: 'nan', meaning: 'Hà (Cái gì)', on: 'カ (ka)', kun: 'なに (nani), なん (nan)', examples: [{ w: '何月', r: 'なんがつ', m: 'Tháng mấy' }, { w: '何日', r: 'なんにち', m: 'Ngày mấy' }, { w: '何才', r: 'なんさい', m: 'Mấy tuổi' }, { w: '何人', r: 'なんにん', m: 'Mấy người' }, { w: '何曜日', r: 'なんようび', m: 'Thứ mấy' }, { w: '何ですか', r: 'なんですか', m: 'Cái gì' }] },
+
+                { kanji: '一', topic: 'Số đếm', romaji: 'ichi', meaning: 'Nhất (1)', on: 'イチ (ichi), イツ (itsu)', kun: 'ひと (hito), ひとつ (hitotsu)', examples: [{ w: '一つ', r: 'ひとつ', m: '1 cái' }, { w: '一日', r: 'ついたち', m: 'Mùng 1' }, { w: '一番', r: 'いちばん', m: 'Số 1' }] },
+                { kanji: '二', topic: 'Số đếm', romaji: 'ni', meaning: 'Nhị (2)', on: 'ニ (ni)', kun: 'ふた (futa), ふたつ (futatsu)', examples: [{ w: '二つ', r: 'ふたつ', m: '2 cái' }, { w: '二月', r: 'にがつ', m: 'Tháng 2' }, { w: '二人', r: 'ふたり', m: '2 người' }] },
+                { kanji: '三', topic: 'Số đếm', romaji: 'san', meaning: 'Tam (3)', on: 'サン (san)', kun: 'み (mi), みっつ (mittsu)', examples: [{ w: '三つ', r: 'みっつ', m: '3 cái' }, { w: '三月', r: 'さんがつ', m: 'Tháng 3' }, { w: '三人', r: 'さんにん', m: '3 người' }] },
+                { kanji: '四', topic: 'Số đếm', romaji: 'yon', meaning: 'Tứ (4)', on: 'シ (shi)', kun: 'よ (yo), よっつ (yottsu), よん (yon)', examples: [{ w: '四つ', r: 'よっつ', m: '4 cái' }, { w: '四月', r: 'しがつ', m: 'Tháng 4' }, { w: '四人', r: 'よにん', m: '4 người' }] },
+                { kanji: '五', topic: 'Số đếm', romaji: 'go', meaning: 'Ngũ (5)', on: 'ゴ (go)', kun: 'いつ (itsu), いつつ (itsutsu)', examples: [{ w: '五つ', r: 'いつつ', m: '5 cái' }, { w: '五月', r: 'ごがつ', m: 'Tháng 5' }, { w: '五日', r: 'いつか', m: 'Ngày mùng 5' }] },
+                { kanji: '六', topic: 'Số đếm', romaji: 'roku', meaning: 'Lục (6)', on: 'ロク (roku)', kun: 'む (mu), むっつ (muttsu)', examples: [{ w: '六つ', r: 'むっつ', m: '6 cái' }, { w: '六月', r: 'ろくがつ', m: 'Tháng 6' }, { w: '六日', r: 'むいか', m: 'Ngày mùng 6' }] },
+                { kanji: '七', topic: 'Số đếm', romaji: 'nana', meaning: 'Thất (7)', on: 'シチ (shichi)', kun: 'なな (nana), ななつ (nanatsu)', examples: [{ w: '七つ', r: 'ななつ', m: '7 cái' }, { w: '七月', r: 'しちがつ', m: 'Tháng 7' }, { w: '七日', r: 'なのか', m: 'Ngày mùng 7' }] },
+                { kanji: '八', topic: 'Số đếm', romaji: 'hachi', meaning: 'Bát (8)', on: 'ハチ (hachi)', kun: 'や (ya), やっつ (yattsu)', examples: [{ w: '八つ', r: 'やっつ', m: '8 cái' }, { w: '八月', r: 'はちがつ', m: 'Tháng 8' }, { w: '八日', r: 'ようか', m: 'Ngày mùng 8' }] },
+                { kanji: '九', topic: 'Số đếm', romaji: 'kyuu', meaning: 'Cửu (9)', on: 'キュウ (kyuu), ク (ku)', kun: 'ここの (kokono), ここのつ (kokonotsu)', examples: [{ w: '九つ', r: 'ここのつ', m: '9 cái' }, { w: '九月', r: 'くがつ', m: 'Tháng 9' }, { w: '九州', r: 'きゅうしゅう', m: 'Vùng Kyushu' }] },
+                { kanji: '十', topic: 'Số đếm', romaji: 'juu', meaning: 'Thập (10)', on: 'ジュウ (juu), ジッ (ji)', kun: 'とお (too), と (to)', examples: [{ w: '十', r: 'とお', m: '10 cái' }, { w: '十月', r: 'じゅうがつ', m: 'Tháng 10' }, { w: '十分', r: 'じゅっぷん', m: '10 phút' }] },
+                { kanji: '百', topic: 'Số đếm', romaji: 'hyaku', meaning: 'Bách (100)', on: 'ヒャク (hyaku)', kun: '-', examples: [{ w: '百', r: 'ひゃく', m: '100' }, { w: '三百', r: 'さんびゃく', m: '300' }, { w: '八百', r: 'はっぴゃく', m: '800' }] },
+                { kanji: '千', topic: 'Số đếm', romaji: 'sen', meaning: 'Thiên (1000)', on: 'セン (sen)', kun: 'ち (chi)', examples: [{ w: '千', r: 'せん', m: '1000' }, { w: '三千', r: 'さんぜん', m: '3000' }, { w: '千葉', r: 'ちば', m: 'Chiba' }] },
+                { kanji: '万', topic: 'Số đếm', romaji: 'man', meaning: 'Vạn (10.000)', on: 'マン (man), バン (ban)', kun: '-', examples: [{ w: '一万', r: 'いちまん', m: '1 vạn (10.000)' }, { w: '万国', r: 'ばんこく', m: 'Vạn quốc' }] },
+                
+                { kanji: '人', topic: 'Con người', romaji: 'hito', meaning: 'Nhân (Người)', on: 'ジン (jin), ニン (nin)', kun: 'ひと (hito)', examples: [{ w: '人', r: 'ひと', m: 'Người' }, { w: '日本人', r: 'にほんじん', m: 'Người Nhật' }, { w: '三人', r: 'さんにん', m: '3 người' }] },
+                { kanji: '男', topic: 'Con người', romaji: 'otoko', meaning: 'Nam (Đàn ông)', on: 'ダン (dan), ナン (nan)', kun: 'おとこ (otoko)', examples: [{ w: '男', r: 'おとこ', m: 'Đàn ông' }, { w: '男の子', r: 'おとこのこ', m: 'Bé trai' }] },
+                { kanji: '女', topic: 'Con người', romaji: 'onna', meaning: 'Nữ (Phụ nữ)', on: 'ジョ (jo), ニョ (nyo)', kun: 'おんな (onna), め (me)', examples: [{ w: '女', r: 'おんな', m: 'Phụ nữ' }, { w: '女の子', r: 'おんなのこ', m: 'Bé gái' }, { w: '彼女', r: 'かのじょ', m: 'Cô ấy' }] },
+                { kanji: '子', topic: 'Con người', romaji: 'ko', meaning: 'Tử (Trẻ con)', on: 'シ (shi), ス (su)', kun: 'こ (ko)', examples: [{ w: '子ども', r: 'こども', m: 'Trẻ em' }, { w: '女子', r: 'じょし', m: 'Nữ giới' }] },
+                { kanji: '私', topic: 'Con người', romaji: 'watashi', meaning: 'Tư (Tôi)', on: 'シ (shi)', kun: 'わたし (watashi), わたくし (watakushi)', examples: [{ w: '私', r: 'わたし', m: 'Tôi' }, { w: '私立', r: 'しりつ', m: 'Tư lập (Trường tư)' }] },
+                
+                { kanji: '本', topic: 'Trường học', romaji: 'hon', meaning: 'Bản (Sách)', on: 'ホン (hon)', kun: 'もと (moto)', examples: [{ w: '本', r: 'ほん', m: 'Sách' }, { w: '日本', r: 'にほん', m: 'Nhật Bản' }, { w: '山本', r: 'やまもと', m: 'Yamamoto (Tên)' }] },
+                { kanji: '学', topic: 'Trường học', romaji: 'gaku', meaning: 'Học', on: 'ガク (gaku)', kun: 'まな.ぶ (mana.bu)', examples: [{ w: '学生', r: 'がくせい', m: 'Học sinh' }, { w: '大学', r: 'だいがく', m: 'Đại học' }, { w: '学ぶ', r: 'まなぶ', m: 'Học tập' }] },
+                { kanji: '校', topic: 'Trường học', romaji: 'kou', meaning: 'Hiệu (Trường)', on: 'コウ (kou)', kun: '-', examples: [{ w: '学校', r: 'がっこう', m: 'Trường học' }, { w: '高校', r: 'こうこう', m: 'Trường cấp 3' }] },
+                { kanji: '生', topic: 'Trường học', romaji: 'sei', meaning: 'Sinh', on: 'セイ (sei), ショウ (shou)', kun: 'い.きる (i.kiru), う.まれる (u.mareru), なま (nama)', examples: [{ w: '先生', r: 'せんせい', m: 'Giáo viên' }, { w: '生まれる', r: 'うまれる', m: 'Được sinh ra' }, { w: '学生', r: 'がくせい', m: 'Học sinh' }] },
+                { kanji: '先', topic: 'Trường học', romaji: 'sen', meaning: 'Tiên (Trước)', on: 'セン (sen)', kun: 'さき (saki)', examples: [{ w: '先生', r: 'せんせい', m: 'Giáo viên' }, { w: '先月', r: 'せんげつ', m: 'Tháng trước' }, { w: '先', r: 'さき', m: 'Phía trước' }] }
+            ]"""
+
+# Need to replace the current `kanjiN5: [ ... ]` block.
+pattern = re.compile(r"kanjiN5:\s*\[.*?\}\s*\]", re.DOTALL)
+if pattern.search(content):
+    content = pattern.sub(new_kanji_n5, content)
+    with open(html_path, 'w', encoding='utf-8') as f:
+        f.write(content)
+    print("Updated kanjiN5 successfully.")
+else:
+    print("Could not find kanjiN5.")
+

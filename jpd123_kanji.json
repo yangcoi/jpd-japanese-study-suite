@@ -1,0 +1,898 @@
+[
+  {
+    "unit": "Unit 4",
+    "hanViet": "ĐÔNG",
+    "kanji": "東",
+    "hiragana": "ひがし",
+    "meaning": "Phía đông",
+    "romaji": "higashi"
+  },
+  {
+    "unit": "Unit 4",
+    "hanViet": "ĐÔNG KINH",
+    "kanji": "東京",
+    "hiragana": "とうきょう",
+    "meaning": "Tokyo",
+    "romaji": "toukyou"
+  },
+  {
+    "unit": "Unit 4",
+    "hanViet": "DANH TIỀN",
+    "kanji": "名前",
+    "hiragana": "なまえ",
+    "meaning": "Tên",
+    "romaji": "namae"
+  },
+  {
+    "unit": "Unit 4",
+    "hanViet": "TIỀN",
+    "kanji": "前",
+    "hiragana": "まえ",
+    "meaning": "Phía trước",
+    "romaji": "mae"
+  },
+  {
+    "unit": "Unit 4",
+    "hanViet": "NGỌ TIỀN",
+    "kanji": "午前",
+    "hiragana": "ごぜん",
+    "meaning": "AM (Sáng)",
+    "romaji": "gozen"
+  },
+  {
+    "unit": "Unit 4",
+    "hanViet": "TIỀN NHẬT",
+    "kanji": "前日",
+    "hiragana": "ぜんじつ",
+    "meaning": "Trước ngày",
+    "romaji": "zenjitsu"
+  },
+  {
+    "unit": "Unit 4",
+    "hanViet": "QUỐC",
+    "kanji": "国",
+    "hiragana": "くに",
+    "meaning": "Đất nước",
+    "romaji": "kuni"
+  },
+  {
+    "unit": "Unit 4",
+    "hanViet": "TRUNG QUỐC",
+    "kanji": "中国",
+    "hiragana": "ちゅうごく",
+    "meaning": "Trung Quốc",
+    "romaji": "chuugoku"
+  },
+  {
+    "unit": "Unit 4",
+    "hanViet": "NGOẠI QUỐC",
+    "kanji": "外国",
+    "hiragana": "がいこく",
+    "meaning": "Ngoại Quốc",
+    "romaji": "gaikoku"
+  },
+  {
+    "unit": "Unit 4",
+    "hanViet": "NAM NHÂN",
+    "kanji": "男の人",
+    "hiragana": "おとこのひと",
+    "meaning": "Người đàn ông",
+    "romaji": "otokonohito"
+  },
+  {
+    "unit": "Unit 4",
+    "hanViet": "NỮ NHÂN",
+    "kanji": "女の人",
+    "hiragana": "おんなのひと",
+    "meaning": "Người phụ nữ",
+    "romaji": "onnanohito"
+  },
+  {
+    "unit": "Unit 4",
+    "hanViet": "NAM NỮ",
+    "kanji": "男女",
+    "hiragana": "だんじょ",
+    "meaning": "Nam nữ",
+    "romaji": "danjo"
+  },
+  {
+    "unit": "Unit 4",
+    "hanViet": "KHU",
+    "kanji": "９区",
+    "hiragana": "９く（きゅうく）",
+    "meaning": "Quận 9",
+    "romaji": "9ku (kyuuku)"
+  },
+  {
+    "unit": "Unit 4",
+    "hanViet": "THỊ",
+    "kanji": "ホーチミン市",
+    "hiragana": "ホーチミンし",
+    "meaning": "Tp. HCM",
+    "romaji": "hochiminshi"
+  },
+  {
+    "unit": "Unit 5",
+    "hanViet": "TIÊN SINH",
+    "kanji": "先生",
+    "hiragana": "せんせい",
+    "meaning": "Giáo viên",
+    "romaji": "sensei"
+  },
+  {
+    "unit": "Unit 5",
+    "hanViet": "TIÊN NHẬT",
+    "kanji": "先日",
+    "hiragana": "せんじつ",
+    "meaning": "Ngày trước",
+    "romaji": "senjitsu"
+  },
+  {
+    "unit": "Unit 5",
+    "hanViet": "TIÊN NGUYỆT",
+    "kanji": "先月",
+    "hiragana": "せんげつ",
+    "meaning": "Tháng trước",
+    "romaji": "sengetsu"
+  },
+  {
+    "unit": "Unit 5",
+    "hanViet": "TIÊN CHU",
+    "kanji": "先週",
+    "hiragana": "せんしゅう",
+    "meaning": "Tuần trước",
+    "romaji": "senshuu"
+  },
+  {
+    "unit": "Unit 5",
+    "hanViet": "NHẤT CHU GIAN",
+    "kanji": "一週間",
+    "hiragana": "いっしゅうかん",
+    "meaning": "1 tuần",
+    "romaji": "isshuukan"
+  },
+  {
+    "unit": "Unit 5",
+    "hanViet": "MỖI NHẬT",
+    "kanji": "毎日",
+    "hiragana": "まいにち",
+    "meaning": "Mỗi ngày",
+    "romaji": "mainichi"
+  },
+  {
+    "unit": "Unit 5",
+    "hanViet": "MỖI NGUYỆT",
+    "kanji": "毎月",
+    "hiragana": "まいつき",
+    "meaning": "Mỗi tháng",
+    "romaji": "maitsuki"
+  },
+  {
+    "unit": "Unit 5",
+    "hanViet": "MỖI CHU",
+    "kanji": "毎週",
+    "hiragana": "まいしゅう",
+    "meaning": "Mỗi tuần",
+    "romaji": "maishuu"
+  },
+  {
+    "unit": "Unit 5",
+    "hanViet": "MỖI NIÊN",
+    "kanji": "毎年",
+    "hiragana": "まいとし",
+    "meaning": "Mỗi năm",
+    "romaji": "maitoshi"
+  },
+  {
+    "unit": "Unit 5",
+    "hanViet": "NGỌ TIỀN",
+    "kanji": "午前",
+    "hiragana": "ごぜん",
+    "meaning": "AM (Buổi sáng)",
+    "romaji": "gozen"
+  },
+  {
+    "unit": "Unit 5",
+    "hanViet": "NGỌ HẬU",
+    "kanji": "午後",
+    "hiragana": "ごご",
+    "meaning": "PM (Buổi chiều)",
+    "romaji": "gogo"
+  },
+  {
+    "unit": "Unit 5",
+    "hanViet": "HẬU",
+    "kanji": "後ろ",
+    "hiragana": "うしろ",
+    "meaning": "Phía sau",
+    "romaji": "ushiro"
+  },
+  {
+    "unit": "Unit 5",
+    "hanViet": "TIỀN HẬU",
+    "kanji": "前後",
+    "hiragana": "ぜんご",
+    "meaning": "Trước sau",
+    "romaji": "zengo"
+  },
+  {
+    "unit": "Unit 5",
+    "hanViet": "KIẾN",
+    "kanji": "見ます",
+    "hiragana": "みます",
+    "meaning": "Xem",
+    "romaji": "mimasu"
+  },
+  {
+    "unit": "Unit 5",
+    "hanViet": "KIẾN HỌC",
+    "kanji": "見学",
+    "hiragana": "けんがく",
+    "meaning": "Tham quan và học tập",
+    "romaji": "kengaku"
+  },
+  {
+    "unit": "Unit 5",
+    "hanViet": "THỰC",
+    "kanji": "食べます",
+    "hiragana": "たべます",
+    "meaning": "Ăn",
+    "romaji": "tabemasu"
+  },
+  {
+    "unit": "Unit 5",
+    "hanViet": "THỰC SỰ",
+    "kanji": "食事",
+    "hiragana": "しょくじ",
+    "meaning": "Việc dùng bữa",
+    "romaji": "shokuji"
+  },
+  {
+    "unit": "Unit 5",
+    "hanViet": "ẨM",
+    "kanji": "飲みます",
+    "hiragana": "のみます",
+    "meaning": "Uống",
+    "romaji": "nomimasu"
+  },
+  {
+    "unit": "Unit 5",
+    "hanViet": "ẨM THUỶ",
+    "kanji": "飲み水",
+    "hiragana": "のみみず",
+    "meaning": "Nước uống",
+    "romaji": "nomimizu"
+  },
+  {
+    "unit": "Unit 5",
+    "hanViet": "ẨM THỰC",
+    "kanji": "飲食",
+    "hiragana": "いんしょく",
+    "meaning": "Ẩm thực",
+    "romaji": "inshoku"
+  },
+  {
+    "unit": "Unit 5",
+    "hanViet": "MÃI",
+    "kanji": "買います",
+    "hiragana": "かいます",
+    "meaning": "Mua",
+    "romaji": "kaimasu"
+  },
+  {
+    "unit": "Unit 5",
+    "hanViet": "THỰC VẬT",
+    "kanji": "食べ物",
+    "hiragana": "たべもの",
+    "meaning": "Đồ ăn",
+    "romaji": "tabemono"
+  },
+  {
+    "unit": "Unit 5",
+    "hanViet": "ẨM VẬT",
+    "kanji": "飲み物",
+    "hiragana": "のみもの",
+    "meaning": "Đồ uống",
+    "romaji": "nomimono"
+  },
+  {
+    "unit": "Unit 5",
+    "hanViet": "MÃI VẬT",
+    "kanji": "買い物",
+    "hiragana": "かいもの",
+    "meaning": "Đồ mua",
+    "romaji": "kaimono"
+  },
+  {
+    "unit": "Unit 5",
+    "hanViet": "KIẾN VẬT",
+    "kanji": "見物",
+    "hiragana": "けんぶつ",
+    "meaning": "Thăm quan",
+    "romaji": "kenbutsu"
+  },
+  {
+    "unit": "Unit 5",
+    "hanViet": "NHÂN VẬT",
+    "kanji": "人物",
+    "hiragana": "じんぶつ",
+    "meaning": "Nhân vật",
+    "romaji": "jinbutsu"
+  },
+  {
+    "unit": "Unit 5",
+    "hanViet": "HÀNH",
+    "kanji": "行きます",
+    "hiragana": "いきます",
+    "meaning": "Đi",
+    "romaji": "ikimasu"
+  },
+  {
+    "unit": "Unit 5",
+    "hanViet": "HƯU",
+    "kanji": "休み（N）",
+    "hiragana": "やすみ",
+    "meaning": "Nghỉ",
+    "romaji": "yasumi"
+  },
+  {
+    "unit": "Unit 5",
+    "hanViet": "HƯU",
+    "kanji": "休みます（V）",
+    "hiragana": "やすみます",
+    "meaning": "Nghỉ",
+    "romaji": "yasumimasu"
+  },
+  {
+    "unit": "Unit 5",
+    "hanViet": "HƯU NHẬT",
+    "kanji": "休みの日",
+    "hiragana": "やすみのひ",
+    "meaning": "Ngày nghỉ",
+    "romaji": "yasuminohi"
+  },
+  {
+    "unit": "Unit 5",
+    "hanViet": "HƯU NHẬT",
+    "kanji": "休日",
+    "hiragana": "きゅうじつ",
+    "meaning": "Ngày nghỉ",
+    "romaji": "kyuujitsu"
+  },
+  {
+    "unit": "Unit 6",
+    "hanViet": "KIM",
+    "kanji": "今",
+    "hiragana": "いま",
+    "meaning": "Bây giờ",
+    "romaji": "ima"
+  },
+  {
+    "unit": "Unit 6",
+    "hanViet": "KIM NHẬT",
+    "kanji": "今日",
+    "hiragana": "きょう",
+    "meaning": "Hôm nay",
+    "romaji": "kyou"
+  },
+  {
+    "unit": "Unit 6",
+    "hanViet": "KIM CHU",
+    "kanji": "今週",
+    "hiragana": "こんしゅう",
+    "meaning": "Tuần này",
+    "romaji": "konshuu"
+  },
+  {
+    "unit": "Unit 6",
+    "hanViet": "KIM NGUYỆT",
+    "kanji": "今月",
+    "hiragana": "こんげつ",
+    "meaning": "Tháng này",
+    "romaji": "kongetsu"
+  },
+  {
+    "unit": "Unit 6",
+    "hanViet": "KIM NIÊN",
+    "kanji": "今年",
+    "hiragana": "ことし",
+    "meaning": "Năm nay",
+    "romaji": "kotoshi"
+  },
+  {
+    "unit": "Unit 6",
+    "hanViet": "LAI",
+    "kanji": "来ます",
+    "hiragana": "きます",
+    "meaning": "Đến",
+    "romaji": "kimasu"
+  },
+  {
+    "unit": "Unit 6",
+    "hanViet": "LAI NHẬT",
+    "kanji": "来日",
+    "hiragana": "らいにち",
+    "meaning": "Đến Nhật",
+    "romaji": "rainichi"
+  },
+  {
+    "unit": "Unit 6",
+    "hanViet": "LAI CHU",
+    "kanji": "来週",
+    "hiragana": "らいしゅう",
+    "meaning": "Tuần sau",
+    "romaji": "raishuu"
+  },
+  {
+    "unit": "Unit 6",
+    "hanViet": "LAI NGUYỆT",
+    "kanji": "来月",
+    "hiragana": "らいげつ",
+    "meaning": "Tháng sau",
+    "romaji": "raigetsu"
+  },
+  {
+    "unit": "Unit 6",
+    "hanViet": "LAI NIÊN",
+    "kanji": "来年",
+    "hiragana": "らいねん",
+    "meaning": "Năm sau",
+    "romaji": "rainen"
+  },
+  {
+    "unit": "Unit 6",
+    "hanViet": "QUY",
+    "kanji": "帰ります",
+    "hiragana": "かえります",
+    "meaning": "Về",
+    "romaji": "kaerimasu"
+  },
+  {
+    "unit": "Unit 6",
+    "hanViet": "QUY QUỐC",
+    "kanji": "帰国",
+    "hiragana": "きこく",
+    "meaning": "Về nước",
+    "romaji": "kikoku"
+  },
+  {
+    "unit": "Unit 6",
+    "hanViet": "NHẬT QUY",
+    "kanji": "日帰り",
+    "hiragana": "ひがえり",
+    "meaning": "Về trong ngày",
+    "romaji": "higaeri"
+  },
+  {
+    "unit": "Unit 6",
+    "hanViet": "HỘI",
+    "kanji": "会います",
+    "hiragana": "あいます",
+    "meaning": "Gặp",
+    "romaji": "aimasu"
+  },
+  {
+    "unit": "Unit 6",
+    "hanViet": "ẨM HỘI",
+    "kanji": "飲み会",
+    "hiragana": "のみかい",
+    "meaning": "Tiệc nhậu",
+    "romaji": "nomikai"
+  },
+  {
+    "unit": "Unit 6",
+    "hanViet": "QUỐC HỘI",
+    "kanji": "国会",
+    "hiragana": "こっかい",
+    "meaning": "Quốc hội",
+    "romaji": "kokkai"
+  },
+  {
+    "unit": "Unit 6",
+    "hanViet": "KIẾN HỘI",
+    "kanji": "会見",
+    "hiragana": "かいけん",
+    "meaning": "Phỏng vấn",
+    "romaji": "kaiken"
+  },
+  {
+    "unit": "Unit 6",
+    "hanViet": "HỘI XÃ",
+    "kanji": "会社",
+    "hiragana": "かいしゃ",
+    "meaning": "Công ty",
+    "romaji": "kaisha"
+  },
+  {
+    "unit": "Unit 6",
+    "hanViet": "XÃ HỘI",
+    "kanji": "社会",
+    "hiragana": "しゃかい",
+    "meaning": "Xã hội",
+    "romaji": "shakai"
+  },
+  {
+    "unit": "Unit 6",
+    "hanViet": "VĂN",
+    "kanji": "聞きます",
+    "hiragana": "ききます",
+    "meaning": "Nghe",
+    "romaji": "kikimasu"
+  },
+  {
+    "unit": "Unit 6",
+    "hanViet": "TÂN VĂN",
+    "kanji": "新聞",
+    "hiragana": "しんぶん",
+    "meaning": "Tờ báo",
+    "romaji": "shinbun"
+  },
+  {
+    "unit": "Unit 6",
+    "hanViet": "ĐỘC",
+    "kanji": "読みます",
+    "hiragana": "よみます",
+    "meaning": "Đọc",
+    "romaji": "yomimasu"
+  },
+  {
+    "unit": "Unit 6",
+    "hanViet": "ĐỘC VẬT",
+    "kanji": "読み物",
+    "hiragana": "よみもの",
+    "meaning": "Tài liệu đọc",
+    "romaji": "yomimono"
+  },
+  {
+    "unit": "Unit 6",
+    "hanViet": "THƯ",
+    "kanji": "書きます",
+    "hiragana": "かきます",
+    "meaning": "Viết",
+    "romaji": "kakimasu"
+  },
+  {
+    "unit": "Unit 6",
+    "hanViet": "THƯ VẬT",
+    "kanji": "書き物",
+    "hiragana": "かきもの",
+    "meaning": "Tài liệu viết",
+    "romaji": "kakimono"
+  },
+  {
+    "unit": "Unit 6",
+    "hanViet": "TỪ THƯ",
+    "kanji": "辞書",
+    "hiragana": "じしょ",
+    "meaning": "Từ điển",
+    "romaji": "jisho"
+  },
+  {
+    "unit": "Unit 6",
+    "hanViet": "ĐỘC THƯ",
+    "kanji": "読書",
+    "hiragana": "どくしょ",
+    "meaning": "Việc đọc sách",
+    "romaji": "dokusho"
+  },
+  {
+    "unit": "Unit 6",
+    "hanViet": "THOẠI",
+    "kanji": "話",
+    "hiragana": "はなし",
+    "meaning": "Câu chuyện",
+    "romaji": "hanashi"
+  },
+  {
+    "unit": "Unit 6",
+    "hanViet": "THOẠI",
+    "kanji": "話します",
+    "hiragana": "はなします",
+    "meaning": "Nói chuyện",
+    "romaji": "hanashimasu"
+  },
+  {
+    "unit": "Unit 6",
+    "hanViet": "ĐIỆN THOẠI",
+    "kanji": "電話",
+    "hiragana": "でんわ",
+    "meaning": "Gọi điện thoại",
+    "romaji": "denwa"
+  },
+  {
+    "unit": "Unit 6",
+    "hanViet": "HỘI THOẠI",
+    "kanji": "会話",
+    "hiragana": "かいわ",
+    "meaning": "Hội thoại",
+    "romaji": "kaiwa"
+  },
+  {
+    "unit": "Unit 6",
+    "hanViet": "TỰ",
+    "kanji": "お寺",
+    "hiragana": "おてら",
+    "meaning": "Chùa",
+    "romaji": "otera"
+  },
+  {
+    "unit": "Unit 6",
+    "hanViet": "NGÔN",
+    "kanji": "言います",
+    "hiragana": "いいます",
+    "meaning": "Nói",
+    "romaji": "iimasu"
+  },
+  {
+    "unit": "Unit 6",
+    "hanViet": "NGÔN THOẠI",
+    "kanji": "言語",
+    "hiragana": "げんご",
+    "meaning": "Ngôn ngữ",
+    "romaji": "gengo"
+  },
+  {
+    "unit": "Unit 6",
+    "hanViet": "NGÔN DỊÊP",
+    "kanji": "言葉",
+    "hiragana": "ことば",
+    "meaning": "Từ vựng",
+    "romaji": "kotoba"
+  },
+  {
+    "unit": "Unit 6",
+    "hanViet": "BỐI",
+    "kanji": "貝",
+    "hiragana": "かい",
+    "meaning": "Con sò",
+    "romaji": "kai"
+  },
+  {
+    "unit": "Unit 6",
+    "hanViet": "ĐIỀN TRUNG",
+    "kanji": "田中さん",
+    "hiragana": "たなかさん",
+    "meaning": "Họ của người Nhật",
+    "romaji": "tanakasan"
+  },
+  {
+    "unit": "Unit 6",
+    "hanViet": "THUỶ ĐIỀN",
+    "kanji": "水田",
+    "hiragana": "すいでん",
+    "meaning": "Ruộng lúa nước",
+    "romaji": "suiden"
+  },
+  {
+    "unit": "Unit 6",
+    "hanViet": "ĐIỀN",
+    "kanji": "田んぼ",
+    "hiragana": "たんぼ",
+    "meaning": "Cánh đồng ruộng",
+    "romaji": "tanbo"
+  },
+  {
+    "unit": "Unit 6",
+    "hanViet": "LỰC",
+    "kanji": "力",
+    "hiragana": "ちから",
+    "meaning": "Sức mạnh",
+    "romaji": "chikara"
+  },
+  {
+    "unit": "Unit 6",
+    "hanViet": "HOẢ LỰC",
+    "kanji": "火力",
+    "hiragana": "かりょく",
+    "meaning": "Hoả lực",
+    "romaji": "karyoku"
+  },
+  {
+    "unit": "Unit 6",
+    "hanViet": "THUỶ LỰC",
+    "kanji": "水力",
+    "hiragana": "すいりょく",
+    "meaning": "Thuỷ lực",
+    "romaji": "suiryoku"
+  },
+  {
+    "unit": "Unit 6",
+    "hanViet": "ĐẠI HỌC MÔN",
+    "kanji": "大学の門",
+    "hiragana": "だいがくのもん",
+    "meaning": "Cổng trường đại học",
+    "romaji": "daigakunomon"
+  },
+  {
+    "unit": "Unit 6",
+    "hanViet": "HỌC HIỆU MÔN",
+    "kanji": "学校の門",
+    "hiragana": "がっこうのもん",
+    "meaning": "Cổng trường",
+    "romaji": "gakkounomon"
+  },
+  {
+    "unit": "Unit 7",
+    "hanViet": "NHỤC",
+    "kanji": "肉",
+    "hiragana": "にく",
+    "meaning": "Thịt",
+    "romaji": "niku"
+  },
+  {
+    "unit": "Unit 7",
+    "hanViet": "NGƯU NHỤC",
+    "kanji": "牛肉",
+    "hiragana": "ぎゅうにく",
+    "meaning": "Thịt bò",
+    "romaji": "gyuuniku"
+  },
+  {
+    "unit": "Unit 7",
+    "hanViet": "ĐIỂU NHỤC",
+    "kanji": "鶏肉",
+    "hiragana": "とりにく",
+    "meaning": "Thịt gà",
+    "romaji": "toriniku"
+  },
+  {
+    "unit": "Unit 7",
+    "hanViet": "THỈ NHỤC",
+    "kanji": "豚肉",
+    "hiragana": "ぶたにく",
+    "meaning": "Thịt heo",
+    "romaji": "butaniku"
+  },
+  {
+    "unit": "Unit 7",
+    "hanViet": "LIỆU KIM",
+    "kanji": "料金",
+    "hiragana": "りょうきん",
+    "meaning": "Chi phí",
+    "romaji": "ryoukin"
+  },
+  {
+    "unit": "Unit 7",
+    "hanViet": "LIỆU LÝ",
+    "kanji": "料理",
+    "hiragana": "りょうり",
+    "meaning": "Nấu ăn",
+    "romaji": "ryouri"
+  },
+  {
+    "unit": "Unit 7",
+    "hanViet": "DÃ THÁI",
+    "kanji": "野菜",
+    "hiragana": "やさい",
+    "meaning": "Rau củ",
+    "romaji": "yasai"
+  },
+  {
+    "unit": "Unit 7",
+    "hanViet": "NHẤT THỜI BÀN",
+    "kanji": "一時半",
+    "hiragana": "いちじはん",
+    "meaning": "Một giờ rưỡi",
+    "romaji": "ichijihan"
+  },
+  {
+    "unit": "Unit 7",
+    "hanViet": "BÁN PHÂN",
+    "kanji": "半分",
+    "hiragana": "はんぶん",
+    "meaning": "Phân nửa",
+    "romaji": "hanbun"
+  },
+  {
+    "unit": "Unit 7",
+    "hanViet": "BÁN NHẬT",
+    "kanji": "半日",
+    "hiragana": "はんじつ・はんにち",
+    "meaning": "Nửa ngày",
+    "romaji": "hanjitsu / hannichi"
+  },
+  {
+    "unit": "Unit 7",
+    "hanViet": "BÁN NGUYỆT",
+    "kanji": "半月",
+    "hiragana": "はんつき",
+    "meaning": "Nửa tháng",
+    "romaji": "hantsuki"
+  },
+  {
+    "unit": "Unit 7",
+    "hanViet": "BÁN NIÊN",
+    "kanji": "半年",
+    "hiragana": "はんとし",
+    "meaning": "Nửa năm",
+    "romaji": "hantoshi"
+  },
+  {
+    "unit": "Unit 7",
+    "hanViet": "BÁN",
+    "kanji": "半ば",
+    "hiragana": "なかば",
+    "meaning": "Một nửa",
+    "romaji": "nakaba"
+  },
+  {
+    "unit": "Unit 7",
+    "hanViet": "ĐẠI",
+    "kanji": "大きい",
+    "hiragana": "おおきい",
+    "meaning": "To, lớn",
+    "romaji": "ookii"
+  },
+  {
+    "unit": "Unit 7",
+    "hanViet": "ĐẠI NHÂN",
+    "kanji": "大人",
+    "hiragana": "おとな",
+    "meaning": "Người lớn",
+    "romaji": "otona"
+  },
+  {
+    "unit": "Unit 7",
+    "hanViet": "ĐẠI HỌC",
+    "kanji": "大学",
+    "hiragana": "だいがく",
+    "meaning": "Đại học",
+    "romaji": "daigaku"
+  },
+  {
+    "unit": "Unit 7",
+    "hanViet": "ĐẠI HỌC SINH",
+    "kanji": "大学生",
+    "hiragana": "だいがくせい",
+    "meaning": "Sinh viên đại học",
+    "romaji": "daigakusei"
+  },
+  {
+    "unit": "Unit 7",
+    "hanViet": "ĐẠI HỘI",
+    "kanji": "大会",
+    "hiragana": "たいかい",
+    "meaning": "Đại hội",
+    "romaji": "taikai"
+  },
+  {
+    "unit": "Unit 7",
+    "hanViet": "ĐẠI BÁN",
+    "kanji": "大半",
+    "hiragana": "たいはん",
+    "meaning": "Quá một nửa",
+    "romaji": "taihan"
+  },
+  {
+    "unit": "Unit 7",
+    "hanViet": "TIỂU",
+    "kanji": "小さい",
+    "hiragana": "ちいさい",
+    "meaning": "Nhỏ",
+    "romaji": "chiisai"
+  },
+  {
+    "unit": "Unit 7",
+    "hanViet": "TIỂU NHÂN",
+    "kanji": "小人",
+    "hiragana": "こびと",
+    "meaning": "Người lùn",
+    "romaji": "kobito"
+  },
+  {
+    "unit": "Unit 7",
+    "hanViet": "TIỂU HỌC HIỆU",
+    "kanji": "小学校",
+    "hiragana": "しょうがっこう",
+    "meaning": "Trường tiểu học",
+    "romaji": "shougakkou"
+  },
+  {
+    "unit": "Unit 7",
+    "hanViet": "TIỂU HỌC SINH",
+    "kanji": "小学生",
+    "hiragana": "しょうがくせい",
+    "meaning": "Học sinh tiểu học",
+    "romaji": "shougakusei"
+  }
+]

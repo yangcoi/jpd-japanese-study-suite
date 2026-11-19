@@ -1,0 +1,3244 @@
+[
+  {
+    "id": "spk_l4_sec1_1",
+    "lesson": 4,
+    "section": "I. Vị trí địa lý / Phương hướng",
+    "grammar_pattern": "Thành phố は Đất nước の [Phương hướng] です。",
+    "question": "ニューヨークは アメリカの どこですか。",
+    "question_vn": "New York ở đâu của nước Mỹ?",
+    "sample_answer": "ニューヨークは アメリカの ひがしです。",
+    "sample_answer_vn": "New York ở phía đông nước Mỹ.",
+    "image": "speaking_images/spk_l4_sec1_newyork.png",
+    "has_picture": true,
+    "keywords": [
+      "ニューヨーク (New York)",
+      "アメリカ (Mỹ)",
+      "ひがし (Phía Đông)"
+    ],
+    "exam_tips": "Nhìn bản đồ thấy chấm ở bên phải nước Mỹ -> ひがし (Đông)."
+  },
+  {
+    "id": "spk_l4_sec1_2",
+    "lesson": 4,
+    "section": "I. Vị trí địa lý / Phương hướng",
+    "grammar_pattern": "Thành phố は Đất nước の [Phương hướng] です。",
+    "question": "ソウルは かんこくの どこですか。",
+    "question_vn": "Seoul ở đâu của Hàn Quốc?",
+    "sample_answer": "ソウルは かんこくの きたです。",
+    "sample_answer_vn": "Seoul ở phía bắc Hàn Quốc.",
+    "image": "speaking_images/spk_l4_sec1_seoul.png",
+    "has_picture": true,
+    "keywords": [
+      "ソウル (Seoul)",
+      "かんこく (Hàn Quốc)",
+      "きた (Phía Bắc)"
+    ],
+    "exam_tips": "Nhìn bản đồ thấy chấm ở phía trên -> きた (Bắc)."
+  },
+  {
+    "id": "spk_l4_sec1_3",
+    "lesson": 4,
+    "section": "I. Vị trí địa lý / Phương hướng",
+    "grammar_pattern": "Thành phố は Đất nước の [Phương hướng] です。",
+    "question": "アユタヤは タイの どこですか。",
+    "question_vn": "Ayutthaya ở đâu của Thái Lan?",
+    "sample_answer": "アユタヤは タイの まんなかです。",
+    "sample_answer_vn": "Ayutthaya ở chính giữa Thái Lan.",
+    "image": "speaking_images/spk_l4_sec1_ayutthaya.png",
+    "has_picture": true,
+    "keywords": [
+      "アユタヤ (Ayutthaya)",
+      "タイ (Thái Lan)",
+      "まんなか (Chính giữa)"
+    ],
+    "exam_tips": "Chấm tròn ở giữa bản đồ -> まんなか (ở giữa/trung tâm)."
+  },
+  {
+    "id": "spk_l4_sec1_4",
+    "lesson": 4,
+    "section": "I. Vị trí địa lý / Phương hướng",
+    "grammar_pattern": "Thành phố は Đất nước の [Phương hướng] です。",
+    "question": "モスクワは ロシアの どこですか。",
+    "question_vn": "Moscow ở đâu của nước Nga?",
+    "sample_answer": "モスクワは ロシアの にしです。",
+    "sample_answer_vn": "Moscow ở phía tây nước Nga.",
+    "image": "speaking_images/spk_l4_sec1_moscow.png",
+    "has_picture": true,
+    "keywords": [
+      "モスクワ (Moscow)",
+      "ロシア (Nga)",
+      "にし (Phía Tây)"
+    ],
+    "exam_tips": "Chấm tròn ở góc trái bản đồ nước Nga -> にし (Tây)."
+  },
+  {
+    "id": "spk_l4_sec2_1",
+    "lesson": 4,
+    "section": "II. Khoảng cách & Thời gian di chuyển",
+    "grammar_pattern": "～から ～まで [Phương tiện] で [Thời gian] くらいです。",
+    "question": "とうきょうから おきなわまで どのくらいですか。",
+    "question_vn": "Từ Tokyo đến Okinawa mất khoảng bao lâu?",
+    "sample_answer": "とうきょうから おきなわまで ひこうきで さんじかんくらいです。",
+    "sample_answer_vn": "Từ Tokyo đến Okinawa mất khoảng 3 tiếng bằng máy bay.",
+    "image": "speaking_images/spk_l4_sec2_transit1.png",
+    "has_picture": true,
+    "keywords": [
+      "ひこうき (Máy bay)",
+      "さんじかん (3 tiếng)"
+    ],
+    "exam_tips": "Nhớ kèm trợ từ で chỉ phương tiện và くらい (khoảng)."
+  },
+  {
+    "id": "spk_l4_sec2_2",
+    "lesson": 4,
+    "section": "II. Khoảng cách & Thời gian di chuyển",
+    "grammar_pattern": "～から ～まで [Phương tiện] で [Thời gian] くらいです。",
+    "question": "とうきょうから おおさかまで どのくらいですか。",
+    "question_vn": "Từ Tokyo đến Osaka mất khoảng bao lâu?",
+    "sample_answer": "とうきょうから おおさかまで バスで じゅうじかんくらいです。",
+    "sample_answer_vn": "Từ Tokyo đến Osaka mất khoảng 10 tiếng bằng xe bus.",
+    "image": "speaking_images/spk_l4_sec2_transit1.png",
+    "has_picture": true,
+    "keywords": [
+      "バス (Xe bus)",
+      "じゅうじかん (10 tiếng)"
+    ],
+    "exam_tips": "Nhìn icon xe bus và số 10h trên sơ đồ."
+  },
+  {
+    "id": "spk_l4_sec2_3",
+    "lesson": 4,
+    "section": "II. Khoảng cách & Thời gian di chuyển",
+    "grammar_pattern": "～から ～まで [Phương tiện] で [Thời gian] くらいです。",
+    "question": "わたしのまちから とうきょうまで どのくらいですか。",
+    "question_vn": "Từ thành phố của tôi đến Tokyo mất khoảng bao lâu?",
+    "sample_answer": "わたしのまちから とうきょうまで しんかんせんで いちじかんはんくらいです。",
+    "sample_answer_vn": "Từ thành phố của tôi đến Tokyo mất khoảng 1 tiếng rưỡi bằng shinkansen.",
+    "image": "speaking_images/spk_l4_sec2_transit1.png",
+    "has_picture": true,
+    "keywords": [
+      "しんかんせん (Tàu siêu tốc)",
+      "いちじかんはん (1 tiếng rưỡi)"
+    ],
+    "exam_tips": "Chú ý chữ はん (nửa tiếng) trong いちじかんはん."
+  },
+  {
+    "id": "spk_l4_sec2_4",
+    "lesson": 4,
+    "section": "II. Khoảng cách & Thời gian di chuyển",
+    "grammar_pattern": "～から ～まで [Phương tiện] で [Thời gian] くらいです。",
+    "question": "とうきょうから にっこうまで どのくらいですか。",
+    "question_vn": "Từ Tokyo đến Nikko mất khoảng bao lâu?",
+    "sample_answer": "とうきょうから にっこうまで くるまで にじかんはんくらいです。",
+    "sample_answer_vn": "Từ Tokyo đến Nikko mất khoảng 2 tiếng rưỡi bằng ô tô.",
+    "image": "speaking_images/spk_l4_sec2_transit2.png",
+    "has_picture": true,
+    "keywords": [
+      "くるま (Ô tô)",
+      "にじかんはん (2 tiếng rưỡi)"
+    ],
+    "exam_tips": "Icon ô tô màu đỏ -> くるまで."
+  },
+  {
+    "id": "spk_l4_sec2_5",
+    "lesson": 4,
+    "section": "II. Khoảng cách & Thời gian di chuyển",
+    "grammar_pattern": "～から ～まで [Phương tiện] で [Thời gian] くらいです。",
+    "question": "おおさかから きょうとまで どのくらいですか。",
+    "question_vn": "Từ Osaka đến Kyoto mất khoảng bao lâu?",
+    "sample_answer": "おおさかから きょうとまで でんしゃで さんじゅっぷんくらいです。",
+    "sample_answer_vn": "Từ Osaka đến Kyoto mất khoảng 30 phút bằng tàu điện.",
+    "image": "speaking_images/spk_l4_sec2_transit2.png",
+    "has_picture": true,
+    "keywords": [
+      "でんしゃ (Tàu điện)",
+      "さんじゅっぷん (30 phút)"
+    ],
+    "exam_tips": "Phút đọc là さんじゅっぷん (hoặc さんじっぷん)."
+  },
+  {
+    "id": "spk_l4_sec2_6",
+    "lesson": 4,
+    "section": "II. Khoảng cách & Thời gian di chuyển",
+    "grammar_pattern": "～から ～まで [Phương tiện] で [Thời gian] くらいです。",
+    "question": "うちから えきまで どのくらいですか。",
+    "question_vn": "Từ nhà đến ga mất khoảng bao lâu?",
+    "sample_answer": "うちから えきまで あるいて じゅっぷんくらいです。",
+    "sample_answer_vn": "Từ nhà đến ga đi bộ mất khoảng 10 phút.",
+    "image": "speaking_images/spk_l4_sec2_transit2.png",
+    "has_picture": true,
+    "keywords": [
+      "あるいて (Đi bộ - KHÔNG dùng で)",
+      "じゅっぷん (10 phút)"
+    ],
+    "exam_tips": "BẪY: Đi bộ dùng あるいて (KHÔNG có trợ từ で)!"
+  },
+  {
+    "id": "spk_l4_sec3_1",
+    "lesson": 4,
+    "section": "III. Miêu tả thời tiết theo tháng / mùa",
+    "grammar_pattern": "～は [Thời gian]、[Tính từ: Aい / Aな] です。",
+    "question": "ベトナムは ８がつ、どうですか。",
+    "question_vn": "Tháng 8 ở Việt Nam thế nào?",
+    "sample_answer": "ベトナムは ８がつ あついです。",
+    "sample_answer_vn": "Việt Nam vào tháng 8 trời nóng.",
+    "image": "speaking_images/spk_l4_sec3_vn.png",
+    "has_picture": true,
+    "keywords": [
+      "あつい (Nóng)",
+      "８がつ (Tháng 8)"
+    ],
+    "exam_tips": "Nhìn icon mặt trời đỏ -> あつい; icon bông tuyết -> さむい; icon đám mây mưa -> あめがおおい."
+  },
+  {
+    "id": "spk_l4_sec3_2",
+    "lesson": 4,
+    "section": "III. Miêu tả thời tiết theo tháng / mùa",
+    "grammar_pattern": "～は [Thời gian]、[Tính từ: Aい / Aな] です。",
+    "question": "ロシアは 1 がつ、どうですか。",
+    "question_vn": "Tháng 1 ở Nga thế nào?",
+    "sample_answer": "ロシアは １がつ、さむいです。",
+    "sample_answer_vn": "Nước Nga vào tháng 1 trời lạnh.",
+    "image": "speaking_images/spk_l4_sec3_russia.png",
+    "has_picture": true,
+    "keywords": [
+      "さむい (Lạnh)",
+      "１がつ (Tháng 1)"
+    ],
+    "exam_tips": "Nhìn icon mặt trời đỏ -> あつい; icon bông tuyết -> さむい; icon đám mây mưa -> あめがおおい."
+  },
+  {
+    "id": "spk_l4_sec3_3",
+    "lesson": 4,
+    "section": "III. Miêu tả thời tiết theo tháng / mùa",
+    "grammar_pattern": "～は [Thời gian]、[Tính từ: Aい / Aな] です。",
+    "question": "日本は 6 がつ、どうですか。",
+    "question_vn": "Tháng 6 ở Nhật Bản thế nào?",
+    "sample_answer": "日本は ６がつ、あめがおおいです。",
+    "sample_answer_vn": "Nhật Bản vào tháng 6 mưa nhiều.",
+    "image": "speaking_images/spk_l4_sec3_japan.png",
+    "has_picture": true,
+    "keywords": [
+      "あめがおおい (Mưa nhiều)",
+      "６がつ (Tháng 6)"
+    ],
+    "exam_tips": "Nhìn icon mặt trời đỏ -> あつい; icon bông tuyết -> さむい; icon đám mây mưa -> あめがおおい."
+  },
+  {
+    "id": "spk_l4_sec3_4",
+    "lesson": 4,
+    "section": "III. Miêu tả thời tiết theo tháng / mùa",
+    "grammar_pattern": "～は [Thời gian]、[Tính từ: Aい / Aな] です。",
+    "question": "～さんの国は あき、どうですか。",
+    "question_vn": "Mùa thu ở nước bạn thế nào?",
+    "sample_answer": "わたしの国は あき、てんきがいいです。",
+    "sample_answer_vn": "Nước tôi vào mùa thu thời tiết đẹp.",
+    "image": "speaking_images/spk_l4_sec3_autumn.png",
+    "has_picture": true,
+    "keywords": [
+      "てんきがいい (Thời tiết tốt/đẹp)",
+      "あき (Mùa thu)"
+    ],
+    "exam_tips": "Nhìn icon mặt trời đỏ -> あつい; icon bông tuyết -> さむい; icon đám mây mưa -> あめがおおい."
+  },
+  {
+    "id": "spk_l4_sec3_5",
+    "lesson": 4,
+    "section": "III. Miêu tả thời tiết theo tháng / mùa",
+    "grammar_pattern": "～は [Thời gian]、[Tính từ: Aい / Aな] です。",
+    "question": "ロンドンは いちねんじゅう、どうですか。",
+    "question_vn": "London quanh năm thế nào?",
+    "sample_answer": "ロンドンは いちねんじゅう、てんきが よくないです。",
+    "sample_answer_vn": "London quanh năm thời tiết không tốt.",
+    "image": "speaking_images/spk_l4_sec3_london.png",
+    "has_picture": true,
+    "keywords": [
+      "いちねんじゅう (Suốt cả năm)",
+      "てんきがよくない (Thời tiết không tốt)"
+    ],
+    "exam_tips": "Nhìn icon mặt trời đỏ -> あつい; icon bông tuyết -> さむい; icon đám mây mưa -> あめがおおい."
+  },
+  {
+    "id": "spk_l4_sec4_1",
+    "lesson": 4,
+    "section": "IV. Hỏi tính chất địa điểm / con người (どんな)",
+    "grammar_pattern": "～は [Tính từ Aい / Aな] [Danh từ] です。",
+    "question": "じんじゃは どんなところですか。",
+    "question_vn": "Đền Thần đạo là nơi như thế nào?",
+    "sample_answer": "じんじゃは ふるいところです。",
+    "sample_answer_vn": "Đền Thần đạo là nơi cổ kính.",
+    "image": "speaking_images/spk_l4_sec4_jinja.png",
+    "has_picture": true,
+    "keywords": [
+      "ふるい (Cũ, cổ kính)",
+      "ところ (Nơi, chốn)"
+    ],
+    "exam_tips": "LƯU Ý: Tính từ đuôi な bổ nghĩa danh từ phải giữ nguyên な: ゆうめいなひと, にぎやかなまち!"
+  },
+  {
+    "id": "spk_l4_sec4_2",
+    "lesson": 4,
+    "section": "IV. Hỏi tính chất địa điểm / con người (どんな)",
+    "grammar_pattern": "～は [Tính từ Aい / Aな] [Danh từ] です。",
+    "question": "ホーチミンは どんなひとですか。",
+    "question_vn": "Bác Hồ là người như thế nào?",
+    "sample_answer": "ホーチミンは ゆうめいなひとです。",
+    "sample_answer_vn": "Bác Hồ là người nổi tiếng.",
+    "image": "speaking_images/spk_l4_sec4_hochiminh.png",
+    "has_picture": true,
+    "keywords": [
+      "ゆうめいな (Nổi tiếng - đuôi な)",
+      "ひと (Người)"
+    ],
+    "exam_tips": "LƯU Ý: Tính từ đuôi な bổ nghĩa danh từ phải giữ nguyên な: ゆうめいなひと, にぎやかなまち!"
+  },
+  {
+    "id": "spk_l4_sec4_3",
+    "lesson": 4,
+    "section": "IV. Hỏi tính chất địa điểm / con người (どんな)",
+    "grammar_pattern": "～は [Tính từ Aい / Aな] [Danh từ] です。",
+    "question": "FPT 大学は どんな大学ですか。",
+    "question_vn": "Đại học FPT là trường đại học thế nào?",
+    "sample_answer": "FPT 大学は おおきい大学です。",
+    "sample_answer_vn": "Đại học FPT là trường đại học lớn.",
+    "image": "speaking_images/spk_l4_sec4_fpt.png",
+    "has_picture": true,
+    "keywords": [
+      "おおきい (Lớn, to)",
+      "だいがく (Đại học)"
+    ],
+    "exam_tips": "LƯU Ý: Tính từ đuôi な bổ nghĩa danh từ phải giữ nguyên な: ゆうめいなひと, にぎやかなまち!"
+  },
+  {
+    "id": "spk_l4_sec4_4",
+    "lesson": 4,
+    "section": "IV. Hỏi tính chất địa điểm / con người (どんな)",
+    "grammar_pattern": "～は [Tính từ Aい / Aな] [Danh từ] です。",
+    "question": "とうきょうは どんなまちですか。",
+    "question_vn": "Tokyo là thành phố như thế nào?",
+    "sample_answer": "とうきょうは にぎやかなまちです。",
+    "sample_answer_vn": "Tokyo là thành phố nhộn nhịp.",
+    "image": "speaking_images/spk_l4_sec4_tokyo.png",
+    "has_picture": true,
+    "keywords": [
+      "にぎやかな (Náo nhiệt - đuôi な)",
+      "まち (Thành phố)"
+    ],
+    "exam_tips": "LƯU Ý: Tính từ đuôi な bổ nghĩa danh từ phải giữ nguyên な: ゆうめいなひと, にぎやかなまち!"
+  },
+  {
+    "id": "spk_l4_sec4_5",
+    "lesson": 4,
+    "section": "IV. Hỏi tính chất địa điểm / con người (どんな)",
+    "grammar_pattern": "～は [Tính từ Aい / Aな] [Danh từ] です。",
+    "question": "アメリカは どんなくにですか。",
+    "question_vn": "Nước Mỹ là quốc gia như thế nào?",
+    "sample_answer": "アメリカは おおきい国です。",
+    "sample_answer_vn": "Nước Mỹ là quốc gia rộng lớn.",
+    "image": "speaking_images/spk_l4_sec4_america.png",
+    "has_picture": true,
+    "keywords": [
+      "おおきい (To lớn)",
+      "くに (Quốc gia)"
+    ],
+    "exam_tips": "LƯU Ý: Tính từ đuôi な bổ nghĩa danh từ phải giữ nguyên な: ゆうめいなひと, にぎやかなまち!"
+  },
+  {
+    "id": "spk_l4_sec5_1",
+    "lesson": 4,
+    "section": "V. Xác nhận tính chất (Yes/No với Tính từ)",
+    "grammar_pattern": "はい、[Aい] です。 / いいえ、[Aくない] です。",
+    "question": "ふじさんは たかいですか。",
+    "question_vn": "Núi Phú Sĩ có cao không?",
+    "sample_answer": "はい、たかいです。",
+    "sample_answer_vn": "Vâng, núi cao.",
+    "image": "speaking_images/spk_l4_sec5_fuji.png",
+    "has_picture": true,
+    "keywords": [
+      "たかい (Cao)",
+      "ふじさん (Núi Phú Sĩ)"
+    ],
+    "exam_tips": "Phủ định tính từ đuôi い đổi sang ～くないです (さむくない, あつくない)."
+  },
+  {
+    "id": "spk_l4_sec5_2",
+    "lesson": 4,
+    "section": "V. Xác nhận tính chất (Yes/No với Tính từ)",
+    "grammar_pattern": "はい、[Aい] です。 / いいえ、[Aくない] です。",
+    "question": "ベトナムは ８がつ、さむいですか。",
+    "question_vn": "Việt Nam tháng 8 có lạnh không?",
+    "sample_answer": "いいえ、さむくないです。あついです。",
+    "sample_answer_vn": "Không, không lạnh. Trời nóng.",
+    "image": "speaking_images/spk_l4_sec5_vn_cold.png",
+    "has_picture": true,
+    "keywords": [
+      "さむくない (Không lạnh)",
+      "あつい (Nóng)"
+    ],
+    "exam_tips": "Phủ định tính từ đuôi い đổi sang ～くないです (さむくない, あつくない)."
+  },
+  {
+    "id": "spk_l4_sec5_3",
+    "lesson": 4,
+    "section": "V. Xác nhận tính chất (Yes/No với Tính từ)",
+    "grammar_pattern": "はい、[Aい] です。 / いいえ、[Aくない] です。",
+    "question": "ロシアは 1 がつ、あついですか。",
+    "question_vn": "Nước Nga tháng 1 có nóng không?",
+    "sample_answer": "いいえ、あつくないです。さむいです。",
+    "sample_answer_vn": "Không, không nóng. Trời lạnh.",
+    "image": "speaking_images/spk_l4_sec5_russia_hot.png",
+    "has_picture": true,
+    "keywords": [
+      "あつくない (Không nóng)",
+      "さむい (Lạnh)"
+    ],
+    "exam_tips": "Phủ định tính từ đuôi い đổi sang ～くないです (さむくない, あつくない)."
+  },
+  {
+    "id": "spk_l4_sec5_4",
+    "lesson": 4,
+    "section": "V. Xác nhận tính chất (Yes/No với Tính từ)",
+    "grammar_pattern": "はい、[Aい] です。 / いいえ、[Aくない] です。",
+    "question": "日本は 6 がつ、あめがおおいですか。",
+    "question_vn": "Nhật Bản tháng 6 mưa có nhiều không?",
+    "sample_answer": "はい、あめがおおいです。",
+    "sample_answer_vn": "Vâng, mưa nhiều.",
+    "image": "speaking_images/spk_l4_sec5_japan_rain.png",
+    "has_picture": true,
+    "keywords": [
+      "あめがおおい (Mưa nhiều)"
+    ],
+    "exam_tips": "Phủ định tính từ đuôi い đổi sang ～くないです (さむくない, あつくない)."
+  },
+  {
+    "id": "spk_l4_sec5_5",
+    "lesson": 4,
+    "section": "V. Xác nhận tính chất (Yes/No với Tính từ)",
+    "grammar_pattern": "はい、[Aい] です。 / いいえ、[Aくない] です。",
+    "question": "～さんの国は あき、てんきが わるいですか。",
+    "question_vn": "Mùa thu ở nước bạn thời tiết có xấu không?",
+    "sample_answer": "いいえ、てんきが わるくないです。てんきが いいです。",
+    "sample_answer_vn": "Không, thời tiết không xấu. Thời tiết đẹp.",
+    "image": "speaking_images/spk_l4_sec5_autumn_bad.png",
+    "has_picture": true,
+    "keywords": [
+      "わるくない (Không xấu)",
+      "いい (Tốt)"
+    ],
+    "exam_tips": "Phủ định tính từ đuôi い đổi sang ～くないです (さむくない, あつくない)."
+  },
+  {
+    "id": "spk_l4_sec6_1",
+    "lesson": 4,
+    "section": "VI. Tồn tại đồ vật tại địa điểm (あります)",
+    "grammar_pattern": "[Địa điểm] に [Danh từ] が あります。",
+    "question": "日本に なにが ありますか。",
+    "question_vn": "Ở Nhật Bản có những gì?",
+    "sample_answer": "日本に ふじさんや じんじゃが あります。",
+    "sample_answer_vn": "Ở Nhật Bản có núi Phú Sĩ và đền Thần đạo...",
+    "image": "speaking_images/spk_l4_sec6_japan.png",
+    "has_picture": true,
+    "keywords": [
+      "ふじさん (Núi Phú Sĩ)",
+      "じんじゃ (Đền Thần đạo)"
+    ],
+    "exam_tips": "Liệt kê không đầy đủ dùng trợ từ や (N1 や N2 が あります)."
+  },
+  {
+    "id": "spk_l4_sec6_2",
+    "lesson": 4,
+    "section": "VI. Tồn tại đồ vật tại địa điểm (あります)",
+    "grammar_pattern": "[Địa điểm] に [Danh từ] が あります。",
+    "question": "ほっかいどうに なにが ありますか。",
+    "question_vn": "Ở Hokkaido có cái gì?",
+    "sample_answer": "ほっかいどうに おんせんが あります。",
+    "sample_answer_vn": "Ở Hokkaido có suối nước nóng.",
+    "image": "speaking_images/spk_l4_sec6_hokkaido.png",
+    "has_picture": true,
+    "keywords": [
+      "おんせん (Suối nước nóng)"
+    ],
+    "exam_tips": "Liệt kê không đầy đủ dùng trợ từ や (N1 や N2 が あります)."
+  },
+  {
+    "id": "spk_l4_sec6_3",
+    "lesson": 4,
+    "section": "VI. Tồn tại đồ vật tại địa điểm (あります)",
+    "grammar_pattern": "[Địa điểm] に [Danh từ] が あります。",
+    "question": "ホーチミン市に なにが ありますか。",
+    "question_vn": "Ở TP.HCM có cái gì?",
+    "sample_answer": "ホーチミン市に きょうかいが あります。",
+    "sample_answer_vn": "Ở TP.HCM có nhà thờ.",
+    "image": "speaking_images/spk_l4_sec6_hcm.png",
+    "has_picture": true,
+    "keywords": [
+      "きょうかい (Nhà thờ)"
+    ],
+    "exam_tips": "Liệt kê không đầy đủ dùng trợ từ や (N1 や N2 が あります)."
+  },
+  {
+    "id": "spk_l4_sec6_4",
+    "lesson": 4,
+    "section": "VI. Tồn tại đồ vật tại địa điểm (あります)",
+    "grammar_pattern": "[Địa điểm] に [Danh từ] が あります。",
+    "question": "大学に なにが ありますか。",
+    "question_vn": "Ở trường đại học có những gì?",
+    "sample_answer": "大学に としょかんや コンビニが あります。",
+    "sample_answer_vn": "Ở trường đại học có thư viện, cửa hàng tiện lợi...",
+    "image": "speaking_images/spk_l4_sec6_univ.png",
+    "has_picture": true,
+    "keywords": [
+      "としょかん (Thư viện)",
+      "コンビニ (Combini)"
+    ],
+    "exam_tips": "Liệt kê không đầy đủ dùng trợ từ や (N1 や N2 が あります)."
+  },
+  {
+    "id": "spk_l4_sec6_5",
+    "lesson": 4,
+    "section": "VI. Tồn tại đồ vật tại địa điểm (あります)",
+    "grammar_pattern": "[Địa điểm] に [Danh từ] が あります。",
+    "question": "いえに なにが ありますか。",
+    "question_vn": "Ở trong nhà có những gì?",
+    "sample_answer": "いえに とけいや テレビなどが あります。",
+    "sample_answer_vn": "Trong nhà có đồng hồ, tivi...",
+    "image": "speaking_images/spk_l4_sec6_home.png",
+    "has_picture": true,
+    "keywords": [
+      "とけい (Đồng hồ)",
+      "テレビ (Tivi)"
+    ],
+    "exam_tips": "Liệt kê không đầy đủ dùng trợ từ や (N1 や N2 が あります)."
+  },
+  {
+    "id": "spk_l4_yn_1",
+    "lesson": 4,
+    "section": "VII. Câu hỏi vấn đáp Yes/No",
+    "grammar_pattern": "はい、あります/です。 / いいえ、ありません/じゃありません。",
+    "question": "~さんのまちに きょうかいが ありますか。",
+    "question_vn": "Thành phố của bạn có nhà thờ không?",
+    "sample_answer": "はい、あります。 / いいえ、ありません。",
+    "sample_answer_vn": "Vâng, có. / Không, không có.",
+    "image": "",
+    "has_picture": false,
+    "keywords": [
+      "はい",
+      "いいえ"
+    ],
+    "exam_tips": "Lắng nghe kỹ từ cuối: ありますか (hỏi có/không) hay ですか (hỏi tính chất)."
+  },
+  {
+    "id": "spk_l4_yn_2",
+    "lesson": 4,
+    "section": "VII. Câu hỏi vấn đáp Yes/No",
+    "grammar_pattern": "はい、あります/です。 / いいえ、ありません/じゃありません。",
+    "question": "~さんのまちに ふるい おてらが ありますか。",
+    "question_vn": "Thành phố của bạn có chùa cổ không?",
+    "sample_answer": "はい、あります。 / いいえ、ありません。",
+    "sample_answer_vn": "Vâng, có. / Không, không có.",
+    "image": "",
+    "has_picture": false,
+    "keywords": [
+      "はい",
+      "いいえ"
+    ],
+    "exam_tips": "Lắng nghe kỹ từ cuối: ありますか (hỏi có/không) hay ですか (hỏi tính chất)."
+  },
+  {
+    "id": "spk_l4_yn_3",
+    "lesson": 4,
+    "section": "VII. Câu hỏi vấn đáp Yes/No",
+    "grammar_pattern": "はい、あります/です。 / いいえ、ありません/じゃありません。",
+    "question": "日本に ふじさんが ありますか。",
+    "question_vn": "Ở Nhật Bản có núi Phú Sĩ không?",
+    "sample_answer": "はい、あります。",
+    "sample_answer_vn": "Vâng, có.",
+    "image": "",
+    "has_picture": false,
+    "keywords": [
+      "はい",
+      "いいえ"
+    ],
+    "exam_tips": "Lắng nghe kỹ từ cuối: ありますか (hỏi có/không) hay ですか (hỏi tính chất)."
+  },
+  {
+    "id": "spk_l4_yn_4",
+    "lesson": 4,
+    "section": "VII. Câu hỏi vấn đáp Yes/No",
+    "grammar_pattern": "はい、あります/です。 / いいえ、ありません/じゃありません。",
+    "question": "うちから 大学まで でんしゃで 20 分 くらいですか。",
+    "question_vn": "Từ nhà đến trường đi tàu điện mất khoảng 20 phút phải không?",
+    "sample_answer": "はい、20分くらいです。 / いいえ、ちがいます。",
+    "sample_answer_vn": "Vâng, khoảng 20 phút.",
+    "image": "",
+    "has_picture": false,
+    "keywords": [
+      "はい",
+      "いいえ"
+    ],
+    "exam_tips": "Lắng nghe kỹ từ cuối: ありますか (hỏi có/không) hay ですか (hỏi tính chất)."
+  },
+  {
+    "id": "spk_l4_yn_5",
+    "lesson": 4,
+    "section": "VII. Câu hỏi vấn đáp Yes/No",
+    "grammar_pattern": "はい、あります/です。 / いいえ、ありません/じゃありません。",
+    "question": "ハノイは ベトナムの みなみですか。",
+    "question_vn": "Hà Nội ở phía nam Việt Nam phải không?",
+    "sample_answer": "いいえ、ベトナムの きたです。",
+    "sample_answer_vn": "Không, ở phía bắc Việt Nam.",
+    "image": "",
+    "has_picture": false,
+    "keywords": [
+      "はい",
+      "いいえ"
+    ],
+    "exam_tips": "Lắng nghe kỹ từ cuối: ありますか (hỏi có/không) hay ですか (hỏi tính chất)."
+  },
+  {
+    "id": "spk_l4_yn_6",
+    "lesson": 4,
+    "section": "VII. Câu hỏi vấn đáp Yes/No",
+    "grammar_pattern": "はい、あります/です。 / いいえ、ありません/じゃありません。",
+    "question": "きょうの てんきは あついですか。",
+    "question_vn": "Thời tiết hôm nay có nóng không?",
+    "sample_answer": "はい、あついです。 / いいえ、すずしいです。",
+    "sample_answer_vn": "Vâng, nóng. / Không, mát mẻ.",
+    "image": "",
+    "has_picture": false,
+    "keywords": [
+      "はい",
+      "いいえ"
+    ],
+    "exam_tips": "Lắng nghe kỹ từ cuối: ありますか (hỏi có/không) hay ですか (hỏi tính chất)."
+  },
+  {
+    "id": "spk_l4_yn_7",
+    "lesson": 4,
+    "section": "VII. Câu hỏi vấn đáp Yes/No",
+    "grammar_pattern": "はい、あります/です。 / いいえ、ありません/じゃありません。",
+    "question": "にほんは １がつ、さむいですか。",
+    "question_vn": "Nước Nhật tháng 1 có lạnh không?",
+    "sample_answer": "はい、さむいです。",
+    "sample_answer_vn": "Vâng, lạnh.",
+    "image": "",
+    "has_picture": false,
+    "keywords": [
+      "はい",
+      "いいえ"
+    ],
+    "exam_tips": "Lắng nghe kỹ từ cuối: ありますか (hỏi có/không) hay ですか (hỏi tính chất)."
+  },
+  {
+    "id": "spk_l4_yn_8",
+    "lesson": 4,
+    "section": "VII. Câu hỏi vấn đáp Yes/No",
+    "grammar_pattern": "はい、あります/です。 / いいえ、ありません/じゃありません。",
+    "question": "ホーチミン市に たかいビルが ありますか。",
+    "question_vn": "Ở TP.HCM có tòa nhà cao tầng không?",
+    "sample_answer": "はい、あります。",
+    "sample_answer_vn": "Vâng, có.",
+    "image": "",
+    "has_picture": false,
+    "keywords": [
+      "はい",
+      "いいえ"
+    ],
+    "exam_tips": "Lắng nghe kỹ từ cuối: ありますか (hỏi có/không) hay ですか (hỏi tính chất)."
+  },
+  {
+    "id": "spk_l4_yn_9",
+    "lesson": 4,
+    "section": "VII. Câu hỏi vấn đáp Yes/No",
+    "grammar_pattern": "はい、あります/です。 / いいえ、ありません/じゃありません。",
+    "question": "FPT だいがくに しずかな としょかんが ありますか。",
+    "question_vn": "Trường ĐH FPT có thư viện yên tĩnh không?",
+    "sample_answer": "はい、あります。",
+    "sample_answer_vn": "Vâng, có.",
+    "image": "",
+    "has_picture": false,
+    "keywords": [
+      "はい",
+      "いいえ"
+    ],
+    "exam_tips": "Lắng nghe kỹ từ cuối: ありますか (hỏi có/không) hay ですか (hỏi tính chất)."
+  },
+  {
+    "id": "spk_l4_yn_10",
+    "lesson": 4,
+    "section": "VII. Câu hỏi vấn đáp Yes/No",
+    "grammar_pattern": "はい、あります/です。 / いいえ、ありません/じゃありません。",
+    "question": "~さんの うちに たかい テレビが ありますか。",
+    "question_vn": "Nhà bạn có tivi đắt tiền không?",
+    "sample_answer": "はい、あります。 / いいえ、ありません。",
+    "sample_answer_vn": "Vâng, có. / Không, không có.",
+    "image": "",
+    "has_picture": false,
+    "keywords": [
+      "はい",
+      "いいえ"
+    ],
+    "exam_tips": "Lắng nghe kỹ từ cuối: ありますか (hỏi có/không) hay ですか (hỏi tính chất)."
+  },
+  {
+    "id": "spk_l5_sec1_1",
+    "lesson": 5,
+    "section": "I. Cảm nhận về sự việc trong quá khứ",
+    "grammar_pattern": "～は [Tính từ quá khứ: Aかった / Aでした] です。",
+    "question": "えいがは どうでしたか。",
+    "question_vn": "Bộ phim thế nào?",
+    "sample_answer": "おもしろかったです。",
+    "sample_answer_vn": "Rất hay / thú vị.",
+    "image": "speaking_images/spk_l5_p1_movie.png",
+    "has_picture": true,
+    "keywords": [
+      "おもしろかった (Đã rất thú vị)"
+    ],
+    "exam_tips": "Hỏi quá khứ どうでしたか -> Bắt buộc đuôi かったです hoặc でした!"
+  },
+  {
+    "id": "spk_l5_sec1_2",
+    "lesson": 5,
+    "section": "I. Cảm nhận về sự việc trong quá khứ",
+    "grammar_pattern": "～は [Tính từ quá khứ: Aかった / Aでした] です。",
+    "question": "バーベキューは どうでしたか。",
+    "question_vn": "Bữa tiệc nướng BBQ thế nào?",
+    "sample_answer": "たのしかったです。",
+    "sample_answer_vn": "Đã rất vui.",
+    "image": "speaking_images/spk_l5_p1_bbq.png",
+    "has_picture": true,
+    "keywords": [
+      "たのしかった (Đã rất vui)"
+    ],
+    "exam_tips": "Hỏi quá khứ どうでしたか -> Bắt buộc đuôi かったです hoặc でした!"
+  },
+  {
+    "id": "spk_l5_sec1_3",
+    "lesson": 5,
+    "section": "I. Cảm nhận về sự việc trong quá khứ",
+    "grammar_pattern": "～は [Tính từ quá khứ: Aかった / Aでした] です。",
+    "question": "サッカーは どうでしたか。",
+    "question_vn": "Trận bóng đá thế nào?",
+    "sample_answer": "おもしろくなかったです。",
+    "sample_answer_vn": "Đã không hay lắm.",
+    "image": "speaking_images/spk_l5_p1_soccer.png",
+    "has_picture": true,
+    "keywords": [
+      "おもしろくなかった (Đã không thú vị)"
+    ],
+    "exam_tips": "Hỏi quá khứ どうでしたか -> Bắt buộc đuôi かったです hoặc でした!"
+  },
+  {
+    "id": "spk_l5_sec1_4",
+    "lesson": 5,
+    "section": "I. Cảm nhận về sự việc trong quá khứ",
+    "grammar_pattern": "～は [Tính từ quá khứ: Aかった / Aでした] です。",
+    "question": "うみは どうでしたか。",
+    "question_vn": "Biển thế nào?",
+    "sample_answer": "きれいでした。",
+    "sample_answer_vn": "Đã rất đẹp.",
+    "image": "speaking_images/spk_l5_p1_sea.png",
+    "has_picture": true,
+    "keywords": [
+      "きれいでした (Đã rất đẹp - tính từ な)"
+    ],
+    "exam_tips": "Hỏi quá khứ どうでしたか -> Bắt buộc đuôi かったです hoặc でした!"
+  },
+  {
+    "id": "spk_l5_sec2_1",
+    "lesson": 5,
+    "section": "II. Hoạt động đã làm trong quá khứ",
+    "grammar_pattern": "[Hoạt động] を/に/へ ～V ました。",
+    "question": "せんしゅう、マルコさんは なにを しましたか。",
+    "question_vn": "Tuần trước, anh Marco đã làm gì?",
+    "sample_answer": "やまに のぼりました。",
+    "sample_answer_vn": "Đã leo núi.",
+    "image": "speaking_images/spk_l5_p2_climb_mountain.png",
+    "has_picture": true,
+    "keywords": [
+      "やま (Núi)",
+      "のぼりました (Đã leo)"
+    ],
+    "exam_tips": "BẪY: Hỏi せんしゅう / きのう -> Động từ bắt buộc chia đuôi ～ました!"
+  },
+  {
+    "id": "spk_l5_sec2_2",
+    "lesson": 5,
+    "section": "II. Hoạt động đã làm trong quá khứ",
+    "grammar_pattern": "[Hoạt động] を/に/へ ～V ました。",
+    "question": "きのう、やまださんは なにを しましたか。",
+    "question_vn": "Hôm qua, anh Yamada đã làm gì?",
+    "sample_answer": "えいがを みました。",
+    "sample_answer_vn": "Đã xem phim.",
+    "image": "speaking_images/spk_l5_p2_watch_movie.png",
+    "has_picture": true,
+    "keywords": [
+      "えいが (Phim)",
+      "みました (Đã xem)"
+    ],
+    "exam_tips": "BẪY: Hỏi せんしゅう / きのう -> Động từ bắt buộc chia đuôi ～ました!"
+  },
+  {
+    "id": "spk_l5_sec2_3",
+    "lesson": 5,
+    "section": "II. Hoạt động đã làm trong quá khứ",
+    "grammar_pattern": "[Hoạt động] を/に/へ ～V ました。",
+    "question": "おととい、パクさんは なにを しましたか。",
+    "question_vn": "Hôm kia, anh Park đã làm gì?",
+    "sample_answer": "パーティーを しました。",
+    "sample_answer_vn": "Đã dự tiệc / mở tiệc.",
+    "image": "speaking_images/spk_l5_p2_party.png",
+    "has_picture": true,
+    "keywords": [
+      "パーティー (Tiệc)"
+    ],
+    "exam_tips": "BẪY: Hỏi せんしゅう / きのう -> Động từ bắt buộc chia đuôi ～ました!"
+  },
+  {
+    "id": "spk_l5_sec2_4",
+    "lesson": 5,
+    "section": "II. Hoạt động đã làm trong quá khứ",
+    "grammar_pattern": "[Hoạt động] を/に/へ ～V ました。",
+    "question": "きんようびに アンナさんは なにを しましたか。",
+    "question_vn": "Thứ Sáu, chị Anna đã làm gì?",
+    "sample_answer": "かいものしました。",
+    "sample_answer_vn": "Đã đi mua sắm.",
+    "image": "speaking_images/spk_l5_p2_shopping.png",
+    "has_picture": true,
+    "keywords": [
+      "かいものしました (Đã mua sắm)"
+    ],
+    "exam_tips": "BẪY: Hỏi せんしゅう / きのう -> Động từ bắt buộc chia đuôi ～ました!"
+  },
+  {
+    "id": "spk_l5_sec2_5",
+    "lesson": 5,
+    "section": "II. Hoạt động đã làm trong quá khứ",
+    "grammar_pattern": "[Hoạt động] を/に/へ ～V ました。",
+    "question": "にちようびに カリナさんは なにを しましたか。",
+    "question_vn": "Chủ Nhật, chị Karina đã làm gì?",
+    "sample_answer": "おんせんに はいりました。",
+    "sample_answer_vn": "Đã đi tắm suối nước nóng.",
+    "image": "speaking_images/spk_l5_p2_onsen.png",
+    "has_picture": true,
+    "keywords": [
+      "おんせん (Onsen)",
+      "はいりました (Đã vào/tắm)"
+    ],
+    "exam_tips": "BẪY: Hỏi せんしゅう / きのう -> Động từ bắt buộc chia đuôi ～ました!"
+  },
+  {
+    "id": "spk_l5_sec2_6",
+    "lesson": 5,
+    "section": "II. Hoạt động đã làm trong quá khứ",
+    "grammar_pattern": "[Hoạt động] を/に/へ ～V ました。",
+    "question": "かようびに たなかさんは なにを しましたか。",
+    "question_vn": "Thứ Ba, anh Tanaka đã làm gì?",
+    "sample_answer": "ともだちの いえへ いきました。",
+    "sample_answer_vn": "Đã đến nhà bạn.",
+    "image": "speaking_images/spk_l5_p2_friend_house.png",
+    "has_picture": true,
+    "keywords": [
+      "ともだちのいえ (Nhà bạn)",
+      "いきました (Đã đi)"
+    ],
+    "exam_tips": "BẪY: Hỏi せんしゅう / きのう -> Động từ bắt buộc chia đuôi ～ました!"
+  },
+  {
+    "id": "spk_l5_sec3_1",
+    "lesson": 5,
+    "section": "III. Hành động làm cùng với ai (だれと)",
+    "grammar_pattern": "[Người] と ～V ました。 (Một mình: ひとりで)",
+    "question": "きのう、だれと りょうりを つくりましたか。",
+    "question_vn": "Hôm qua, bạn nấu ăn với ai?",
+    "sample_answer": "ひとりで りょうりを つくりました。",
+    "sample_answer_vn": "Tôi đã nấu ăn một mình.",
+    "image": "speaking_images/spk_l5_p3_cook_alone.png",
+    "has_picture": true,
+    "keywords": [
+      "ひとりで (Một mình - KHÔNG có と)",
+      "つくりました (Đã nấu)"
+    ],
+    "exam_tips": "BẪY CỰC NẶNG: Làm 1 mình thì dùng ひとりで (TUYỆT ĐỐI KHÔNG thêm と)!"
+  },
+  {
+    "id": "spk_l5_sec3_2",
+    "lesson": 5,
+    "section": "III. Hành động làm cùng với ai (だれと)",
+    "grammar_pattern": "[Người] と ～V ました。 (Một mình: ひとりで)",
+    "question": "せんしゅう、だれと えいがを みましたか。",
+    "question_vn": "Tuần trước, bạn xem phim với ai?",
+    "sample_answer": "こいびとと えいがを みました。",
+    "sample_answer_vn": "Tôi đã xem phim cùng người yêu.",
+    "image": "speaking_images/spk_l5_p3_movie_lover.png",
+    "has_picture": true,
+    "keywords": [
+      "こいびとと (Cùng người yêu)",
+      "みました (Đã xem)"
+    ],
+    "exam_tips": "BẪY CỰC NẶNG: Làm 1 mình thì dùng ひとりで (TUYỆT ĐỐI KHÔNG thêm と)!"
+  },
+  {
+    "id": "spk_l5_sec3_3",
+    "lesson": 5,
+    "section": "III. Hành động làm cùng với ai (だれと)",
+    "grammar_pattern": "[Người] と ～V ました。 (Một mình: ひとりで)",
+    "question": "どようびに、だれと おさけを のみましたか。",
+    "question_vn": "Thứ Bảy, bạn uống rượu với ai?",
+    "sample_answer": "ひとりで おさけを のみました。",
+    "sample_answer_vn": "Tôi đã uống rượu một mình.",
+    "image": "speaking_images/spk_l5_p3_drink_alone.png",
+    "has_picture": true,
+    "keywords": [
+      "ひとりで (Một mình)",
+      "おさけ (Rượu)"
+    ],
+    "exam_tips": "BẪY CỰC NẶNG: Làm 1 mình thì dùng ひとりで (TUYỆT ĐỐI KHÔNG thêm と)!"
+  },
+  {
+    "id": "spk_l5_sec3_4",
+    "lesson": 5,
+    "section": "III. Hành động làm cùng với ai (だれと)",
+    "grammar_pattern": "[Người] と ～V ました。 (Một mình: ひとりで)",
+    "question": "おととい、だれと バーベキューを しましたか。",
+    "question_vn": "Hôm kia, bạn đi BBQ với ai?",
+    "sample_answer": "ともだちと バーベキューを しました。",
+    "sample_answer_vn": "Tôi đã đi BBQ cùng bạn bè.",
+    "image": "speaking_images/spk_l5_p3_bbq_friends.png",
+    "has_picture": true,
+    "keywords": [
+      "ともだちと (Cùng bạn bè)"
+    ],
+    "exam_tips": "BẪY CỰC NẶNG: Làm 1 mình thì dùng ひとりで (TUYỆT ĐỐI KHÔNG thêm と)!"
+  },
+  {
+    "id": "spk_l5_sec3_5",
+    "lesson": 5,
+    "section": "III. Hành động làm cùng với ai (だれと)",
+    "grammar_pattern": "[Người] と ～V ました。 (Một mình: ひとりで)",
+    "question": "すいようびに だれと はこねへ いきましたか。",
+    "question_vn": "Thứ Tư, bạn đi Hakone với ai?",
+    "sample_answer": "かぞくと はこねへ いきました。",
+    "sample_answer_vn": "Tôi đã đi Hakone cùng gia đình.",
+    "image": "speaking_images/spk_l5_p3_hakone_family.png",
+    "has_picture": true,
+    "keywords": [
+      "かぞくと (Cùng gia đình)",
+      "はこね (Hakone)"
+    ],
+    "exam_tips": "BẪY CỰC NẶNG: Làm 1 mình thì dùng ひとりで (TUYỆT ĐỐI KHÔNG thêm と)!"
+  },
+  {
+    "id": "spk_l5_sec4_1",
+    "lesson": 5,
+    "section": "IV. Hỏi lý do (どうして)",
+    "grammar_pattern": "[Lý do / Nguyên nhân] から。",
+    "question": "せんしゅう、どうして パソコンを かいませんでしたか。",
+    "question_vn": "Tuần trước, tại sao bạn không mua laptop?",
+    "sample_answer": "たかかったですから。",
+    "sample_answer_vn": "Vì đắt tiền.",
+    "image": "speaking_images/spk_l5_p4_expensive_pc.png",
+    "has_picture": true,
+    "keywords": [
+      "たかかったですから (Vì đắt)"
+    ],
+    "exam_tips": "Hỏi どうして (tại sao) thì câu trả lời BẮT BUỘC phải kết thúc bằng から (vì/do)!"
+  },
+  {
+    "id": "spk_l5_sec4_2",
+    "lesson": 5,
+    "section": "IV. Hỏi lý do (どうして)",
+    "grammar_pattern": "[Lý do / Nguyên nhân] から。",
+    "question": "きのう、どうして テレビを みませんでしたか。",
+    "question_vn": "Hôm qua, tại sao bạn không xem TV?",
+    "sample_answer": "いそがしかったですから。",
+    "sample_answer_vn": "Vì tôi bận.",
+    "image": "speaking_images/spk_l5_p4_busy_tv.png",
+    "has_picture": true,
+    "keywords": [
+      "いそがしかったですから (Vì bận)"
+    ],
+    "exam_tips": "Hỏi どうして (tại sao) thì câu trả lời BẮT BUỘC phải kết thúc bằng から (vì/do)!"
+  },
+  {
+    "id": "spk_l5_sec4_3",
+    "lesson": 5,
+    "section": "IV. Hỏi lý do (どうして)",
+    "grammar_pattern": "[Lý do / Nguyên nhân] から。",
+    "question": "おととい、どうして スポーツを しませんでしたか。",
+    "question_vn": "Hôm kia, tại sao bạn không chơi thể thao?",
+    "sample_answer": "かぜでしたから。",
+    "sample_answer_vn": "Vì tôi bị cảm sốt.",
+    "image": "speaking_images/spk_l5_p4_cold_sports.png",
+    "has_picture": true,
+    "keywords": [
+      "かぜでしたから (Vì bị cảm)"
+    ],
+    "exam_tips": "Hỏi どうして (tại sao) thì câu trả lời BẮT BUỘC phải kết thúc bằng から (vì/do)!"
+  },
+  {
+    "id": "spk_l5_sec4_4",
+    "lesson": 5,
+    "section": "IV. Hỏi lý do (どうして)",
+    "grammar_pattern": "[Lý do / Nguyên nhân] から。",
+    "question": "どうして デパートへ いきませんでしたか。",
+    "question_vn": "Tại sao bạn không đi trung tâm thương mại?",
+    "sample_answer": "あめがおおかったですから。（あめでしたから）",
+    "sample_answer_vn": "Vì mưa to.",
+    "image": "speaking_images/spk_l5_p4_rain_dept.png",
+    "has_picture": true,
+    "keywords": [
+      "あめでしたから (Vì trời mưa)"
+    ],
+    "exam_tips": "Hỏi どうして (tại sao) thì câu trả lời BẮT BUỘC phải kết thúc bằng から (vì/do)!"
+  },
+  {
+    "id": "spk_l5_sec5_1",
+    "lesson": 5,
+    "section": "V. Xác nhận điểm đến (どこかへ 行きましたか)",
+    "grammar_pattern": "はい、[Địa điểm] へ 行きました。 / いいえ、どこも 行きませんでした。",
+    "question": "せんしゅう、どこかへ いきましたか。",
+    "question_vn": "Tuần trước bạn có đi đâu không?",
+    "sample_answer": "はい、しぶやへ いきました。デパートで かいものしました。",
+    "sample_answer_vn": "Có, tôi đã đi Shibuya. Đã mua sắm ở TTTM.",
+    "image": "speaking_images/spk_l5_p5_shibuya_shop.png",
+    "has_picture": true,
+    "keywords": [
+      "しぶや (Shibuya)",
+      "かいものしました (Mua sắm)"
+    ],
+    "exam_tips": "Phủ định hoàn toàn: どこ[へ]も 行きませんでした (Hoàn toàn không đi đâu)."
+  },
+  {
+    "id": "spk_l5_sec5_2",
+    "lesson": 5,
+    "section": "V. Xác nhận điểm đến (どこかへ 行きましたか)",
+    "grammar_pattern": "はい、[Địa điểm] へ 行きました。 / いいえ、どこも 行きませんでした。",
+    "question": "おととい、どこかへ いきましたか。",
+    "question_vn": "Hôm kia bạn có đi đâu không?",
+    "sample_answer": "いいえ、どこも いきませんでした。うちで テレビを みました。",
+    "sample_answer_vn": "Không, tôi không đi đâu cả. Tôi xem TV ở nhà.",
+    "image": "speaking_images/spk_l5_p5_home_tv.png",
+    "has_picture": true,
+    "keywords": [
+      "どこもいきませんでした (Không đi đâu cả)"
+    ],
+    "exam_tips": "Phủ định hoàn toàn: どこ[へ]も 行きませんでした (Hoàn toàn không đi đâu)."
+  },
+  {
+    "id": "spk_l5_sec5_3",
+    "lesson": 5,
+    "section": "V. Xác nhận điểm đến (どこかへ 行きましたか)",
+    "grammar_pattern": "はい、[Địa điểm] へ 行きました。 / いいえ、どこも 行きませんでした。",
+    "question": "あさって、どこかへ いきますか。",
+    "question_vn": "Ngày kia bạn có đi đâu không?",
+    "sample_answer": "はい、こうえんへ いきます。こうえんで バーベキューを します。",
+    "sample_answer_vn": "Có, tôi sẽ đi công viên. Làm BBQ ở công viên.",
+    "image": "speaking_images/spk_l5_p5_park_bbq.png",
+    "has_picture": true,
+    "keywords": [
+      "こうえん (Công viên)",
+      "バーベキュー (BBQ)"
+    ],
+    "exam_tips": "Phủ định hoàn toàn: どこ[へ]も 行きませんでした (Hoàn toàn không đi đâu)."
+  },
+  {
+    "id": "spk_l5_sec5_4",
+    "lesson": 5,
+    "section": "V. Xác nhận điểm đến (どこかへ 行きましたか)",
+    "grammar_pattern": "はい、[Địa điểm] へ 行きました。 / いいえ、どこも 行きませんでした。",
+    "question": "にちようび、どこかへ いきましたか。",
+    "question_vn": "Chủ Nhật bạn có đi đâu không?",
+    "sample_answer": "はい、しぶやへ いきました。しぶやで しょくじしました。",
+    "sample_answer_vn": "Có, tôi đã đi Shibuya. Đã ăn uống ở Shibuya.",
+    "image": "speaking_images/spk_l5_p5_shibuya_meal.png",
+    "has_picture": true,
+    "keywords": [
+      "しょくじしました (Đã ăn uống)"
+    ],
+    "exam_tips": "Phủ định hoàn toàn: どこ[へ]も 行きませんでした (Hoàn toàn không đi đâu)."
+  },
+  {
+    "id": "spk_l5_sec5_5",
+    "lesson": 5,
+    "section": "V. Xác nhận điểm đến (どこかへ 行きましたか)",
+    "grammar_pattern": "はい、[Địa điểm] へ 行きました。 / いいえ、どこも 行きませんでした。",
+    "question": "らいしゅう、どこかへ いきますか。",
+    "question_vn": "Tuần sau bạn có đi đâu không?",
+    "sample_answer": "いいえ、どこも いきません。うちで ケーキを つくります。",
+    "sample_answer_vn": "Không, tôi không đi đâu cả. Tôi sẽ làm bánh ở nhà.",
+    "image": "speaking_images/spk_l5_p5_home_cake.png",
+    "has_picture": true,
+    "keywords": [
+      "ケーキをつくります (Làm bánh)"
+    ],
+    "exam_tips": "Phủ định hoàn toàn: どこ[へ]も 行きませんでした (Hoàn toàn không đi đâu)."
+  },
+  {
+    "id": "spk_l5_sec5_6",
+    "lesson": 5,
+    "section": "V. Xác nhận điểm đến (どこかへ 行きましたか)",
+    "grammar_pattern": "はい、[Địa điểm] へ 行きました。 / いいえ、どこも 行きませんでした。",
+    "question": "きのう、どこかへ いきましたか。",
+    "question_vn": "Hôm qua bạn có đi đâu không?",
+    "sample_answer": "いいえ、どこも いきませんでした。うちで インターネットを しました。",
+    "sample_answer_vn": "Không, không đi đâu cả. Tôi lướt net ở nhà.",
+    "image": "speaking_images/spk_l5_p5_home_net.png",
+    "has_picture": true,
+    "keywords": [
+      "インターネットをしました (Lướt net)"
+    ],
+    "exam_tips": "Phủ định hoàn toàn: どこ[へ]も 行きませんでした (Hoàn toàn không đi đâu)."
+  },
+  {
+    "id": "spk_l5_sec6_1",
+    "lesson": 5,
+    "section": "VI. Mục đích di chuyển (V bỏ ます + に 行きます)",
+    "grammar_pattern": "[Địa điểm] へ [V bỏ ます / N] に 行きます / 行きました。",
+    "question": "きのう、どこへ 何をしに いきましたか。",
+    "question_vn": "Hôm qua bạn đi đâu để làm gì?",
+    "sample_answer": "やまへ しゃしんをとりに いきました。",
+    "sample_answer_vn": "Tôi đã lên núi để chụp ảnh.",
+    "image": "speaking_images/spk_l5_p6_mountain_photo.png",
+    "has_picture": true,
+    "keywords": [
+      "しゃしんをとりに (Để chụp ảnh)"
+    ],
+    "exam_tips": "Động từ bỏ ます ghép trực tiếp với に: とります -> とりに いきます; みます -> みに いきます."
+  },
+  {
+    "id": "spk_l5_sec6_2",
+    "lesson": 5,
+    "section": "VI. Mục đích di chuyển (V bỏ ます + に 行きます)",
+    "grammar_pattern": "[Địa điểm] へ [V bỏ ます / N] に 行きます / 行きました。",
+    "question": "おととい、どこへ 何をしに いきましたか。",
+    "question_vn": "Hôm kia bạn đi đâu để làm gì?",
+    "sample_answer": "うえのへ えをみに いきました。",
+    "sample_answer_vn": "Tôi đã đến Ueno để ngắm tranh.",
+    "image": "speaking_images/spk_l5_p6_ueno_art.png",
+    "has_picture": true,
+    "keywords": [
+      "うえの (Ueno)",
+      "えをみに (Để xem tranh)"
+    ],
+    "exam_tips": "Động từ bỏ ます ghép trực tiếp với に: とります -> とりに いきます; みます -> みに いきます."
+  },
+  {
+    "id": "spk_l5_sec6_3",
+    "lesson": 5,
+    "section": "VI. Mục đích di chuyển (V bỏ ます + に 行きます)",
+    "grammar_pattern": "[Địa điểm] へ [V bỏ ます / N] に 行きます / 行きました。",
+    "question": "せんしゅう、しぶやへ 何をしに いきましたか。",
+    "question_vn": "Tuần trước bạn đến Shibuya làm gì?",
+    "sample_answer": "しぶやへ しょくじに いきました。",
+    "sample_answer_vn": "Tôi đến Shibuya để ăn uống.",
+    "image": "speaking_images/spk_l5_p6_shibuya_dining.png",
+    "has_picture": true,
+    "keywords": [
+      "しょくじに (Để dùng bữa)"
+    ],
+    "exam_tips": "Động từ bỏ ます ghép trực tiếp với に: とります -> とりに いきます; みます -> みに いきます."
+  },
+  {
+    "id": "spk_l5_sec6_4",
+    "lesson": 5,
+    "section": "VI. Mục đích di chuyển (V bỏ ます + に 行きます)",
+    "grammar_pattern": "[Địa điểm] へ [V bỏ ます / N] に 行きます / 行きました。",
+    "question": "せんしゅう、どこへ りょこうに いきましたか。",
+    "question_vn": "Tuần trước bạn đi du lịch ở đâu?",
+    "sample_answer": "はこねへ りょこうに いきました。",
+    "sample_answer_vn": "Tôi đã đi du lịch ở Hakone.",
+    "image": "speaking_images/spk_l5_p6_hakone.png",
+    "has_picture": true,
+    "keywords": [
+      "はこね (Hakone)",
+      "りょこうに (Để du lịch)"
+    ],
+    "exam_tips": "Động từ bỏ ます ghép trực tiếp với に: とります -> とりに いきます; みます -> みに いきます."
+  },
+  {
+    "id": "spk_l5_sec6_5",
+    "lesson": 5,
+    "section": "VI. Mục đích di chuyển (V bỏ ます + に 行きます)",
+    "grammar_pattern": "[Địa điểm] へ [V bỏ ます / N] に 行きます / 行きました。",
+    "question": "きのう、どこへ ほんをかりに いきましたか。",
+    "question_vn": "Hôm qua bạn đi đâu để mượn sách?",
+    "sample_answer": "としょかんへ ほんをかりに いきました。",
+    "sample_answer_vn": "Tôi đến thư viện để mượn sách.",
+    "image": "speaking_images/spk_l5_p6_library.png",
+    "has_picture": true,
+    "keywords": [
+      "としょかん (Thư viện)",
+      "ほんをかりに (Để mượn sách)"
+    ],
+    "exam_tips": "Động từ bỏ ます ghép trực tiếp với に: とります -> とりに いきます; みます -> みに いきます."
+  },
+  {
+    "id": "spk_l5_sec7_1",
+    "lesson": 5,
+    "section": "VII. Thể hiện sở thích & mong muốn vật chất (すき/ほしい)",
+    "grammar_pattern": "[Danh từ] が すき / きらい / ほしい です。",
+    "question": "いま、～さんは なにが すきですか。",
+    "question_vn": "Bây giờ bạn thích cái gì?",
+    "sample_answer": "まんがが すきです。",
+    "sample_answer_vn": "Tôi thích truyện tranh (manga).",
+    "image": "speaking_images/spk_l5_p7_manga.png",
+    "has_picture": true,
+    "keywords": [
+      "まんが (Manga)",
+      "すき (Thích)"
+    ],
+    "exam_tips": "Trước すき, きらい, ほしい BẮT BUỘC dùng trợ từ が!"
+  },
+  {
+    "id": "spk_l5_sec7_2",
+    "lesson": 5,
+    "section": "VII. Thể hiện sở thích & mong muốn vật chất (すき/ほしい)",
+    "grammar_pattern": "[Danh từ] が すき / きらい / ほしい です。",
+    "question": "いま、～さんは なにが ほしいですか。",
+    "question_vn": "Bây giờ bạn muốn cái gì nhất?",
+    "sample_answer": "おかねが ほしいです。",
+    "sample_answer_vn": "Tôi muốn có tiền.",
+    "image": "speaking_images/spk_l5_p7_money.png",
+    "has_picture": true,
+    "keywords": [
+      "おかね (Tiền)",
+      "ほしい (Muốn có)"
+    ],
+    "exam_tips": "Trước すき, きらい, ほしい BẮT BUỘC dùng trợ từ が!"
+  },
+  {
+    "id": "spk_l5_sec7_3",
+    "lesson": 5,
+    "section": "VII. Thể hiện sở thích & mong muốn vật chất (すき/ほしい)",
+    "grammar_pattern": "[Danh từ] が すき / きらい / ほしい です。",
+    "question": "いま、～さんは なにが すきですか。",
+    "question_vn": "Bây giờ bạn thích cái gì?",
+    "sample_answer": "けいたいでんわが すきです。",
+    "sample_answer_vn": "Tôi thích điện thoại di động.",
+    "image": "speaking_images/spk_l5_p7_phone.png",
+    "has_picture": true,
+    "keywords": [
+      "けいたいでんわ (Điện thoại)"
+    ],
+    "exam_tips": "Trước すき, きらい, ほしい BẮT BUỘC dùng trợ từ が!"
+  },
+  {
+    "id": "spk_l5_sec7_4",
+    "lesson": 5,
+    "section": "VII. Thể hiện sở thích & mong muốn vật chất (すき/ほしい)",
+    "grammar_pattern": "[Danh từ] が すき / きらい / ほしい です。",
+    "question": "いま、～さんは なにが ほしいですか。",
+    "question_vn": "Bây giờ bạn muốn có cái gì?",
+    "sample_answer": "じてんしゃが ほしいです。",
+    "sample_answer_vn": "Tôi muốn có xe đạp.",
+    "image": "speaking_images/spk_l5_p7_bicycle.png",
+    "has_picture": true,
+    "keywords": [
+      "じてんしゃ (Xe đạp)"
+    ],
+    "exam_tips": "Trước すき, きらい, ほしい BẮT BUỘC dùng trợ từ が!"
+  },
+  {
+    "id": "spk_l5_sec7_5",
+    "lesson": 5,
+    "section": "VII. Thể hiện sở thích & mong muốn vật chất (すき/ほしい)",
+    "grammar_pattern": "[Danh từ] が すき / きらい / ほしい です。",
+    "question": "いま、～さんは なにが きらいですか。",
+    "question_vn": "Bây giờ bạn ghét cái gì?",
+    "sample_answer": "いぬが きらいです。",
+    "sample_answer_vn": "Tôi ghét chó.",
+    "image": "speaking_images/spk_l5_p7_dog.png",
+    "has_picture": true,
+    "keywords": [
+      "いぬ (Chó)",
+      "きらい (Ghét)"
+    ],
+    "exam_tips": "Trước すき, きらい, ほしい BẮT BUỘC dùng trợ từ が!"
+  },
+  {
+    "id": "spk_l5_sec8_1",
+    "lesson": 5,
+    "section": "VIII. Muốn làm hành động gì (Vたいです)",
+    "grammar_pattern": "[Tân ngữ] を [V bỏ ます + たい] です。",
+    "question": "いま、～さんは なにを したいですか。",
+    "question_vn": "Bây giờ bạn muốn làm gì?",
+    "sample_answer": "いえを かいたいです。",
+    "sample_answer_vn": "Tôi muốn mua một căn nhà.",
+    "image": "speaking_images/spk_l5_p8_buy_house.png",
+    "has_picture": true,
+    "keywords": [
+      "いえ (Nhà)",
+      "かいたいです (Muốn mua)"
+    ],
+    "exam_tips": "Động từ thể muốn: Vます bỏ ます thêm たい (かいます -> かいたい, あいます -> あいたい)."
+  },
+  {
+    "id": "spk_l5_sec8_2",
+    "lesson": 5,
+    "section": "VIII. Muốn làm hành động gì (Vたいです)",
+    "grammar_pattern": "[Tân ngữ] を [V bỏ ます + たい] です。",
+    "question": "いま、～さんは なにを たべたいですか。",
+    "question_vn": "Bây giờ bạn muốn ăn gì?",
+    "sample_answer": "やさいを たべたいです。",
+    "sample_answer_vn": "Tôi muốn ăn rau củ.",
+    "image": "speaking_images/spk_l5_p8_eat_veggies.png",
+    "has_picture": true,
+    "keywords": [
+      "やさい (Rau)",
+      "たべたいです (Muốn ăn)"
+    ],
+    "exam_tips": "Động từ thể muốn: Vます bỏ ます thêm たい (かいます -> かいたい, あいます -> あいたい)."
+  },
+  {
+    "id": "spk_l5_sec8_3",
+    "lesson": 5,
+    "section": "VIII. Muốn làm hành động gì (Vたいです)",
+    "grammar_pattern": "[Tân ngữ] を [V bỏ ます + たい] です。",
+    "question": "いま、～さんは なにを したいですか。",
+    "question_vn": "Bây giờ bạn muốn làm gì?",
+    "sample_answer": "ゲームを したいです。",
+    "sample_answer_vn": "Tôi muốn chơi game.",
+    "image": "speaking_images/spk_l5_p8_play_game.png",
+    "has_picture": true,
+    "keywords": [
+      "ゲーム (Trò chơi)",
+      "したいです (Muốn làm/chơi)"
+    ],
+    "exam_tips": "Động từ thể muốn: Vます bỏ ます thêm たい (かいます -> かいたい, あいます -> あいたい)."
+  },
+  {
+    "id": "spk_l5_sec8_4",
+    "lesson": 5,
+    "section": "VIII. Muốn làm hành động gì (Vたいです)",
+    "grammar_pattern": "[Tân ngữ] を [V bỏ ます + たい] です。",
+    "question": "いま、～さんは どこへ いきたいですか。",
+    "question_vn": "Bây giờ bạn muốn đi đâu?",
+    "sample_answer": "日本へ いきたいです。",
+    "sample_answer_vn": "Tôi muốn đi Nhật Bản.",
+    "image": "speaking_images/spk_l5_p8_go_japan.png",
+    "has_picture": true,
+    "keywords": [
+      "日本 (Nhật Bản)",
+      "いきたいです (Muốn đi)"
+    ],
+    "exam_tips": "Động từ thể muốn: Vます bỏ ます thêm たい (かいます -> かいたい, あいます -> あいたい)."
+  },
+  {
+    "id": "spk_l5_sec8_5",
+    "lesson": 5,
+    "section": "VIII. Muốn làm hành động gì (Vたいです)",
+    "grammar_pattern": "[Tân ngữ] を [V bỏ ます + たい] です。",
+    "question": "いま、～さんは だれに あいたいですか。",
+    "question_vn": "Bây giờ bạn muốn gặp ai?",
+    "sample_answer": "こいびとに あいたいです。",
+    "sample_answer_vn": "Tôi muốn gặp người yêu.",
+    "image": "speaking_images/spk_l5_p8_meet_lover.png",
+    "has_picture": true,
+    "keywords": [
+      "こいびと (Người yêu)",
+      "あいたいです (Muốn gặp)"
+    ],
+    "exam_tips": "Động từ thể muốn: Vます bỏ ます thêm たい (かいます -> かいたい, あいます -> あいたい)."
+  },
+  {
+    "id": "spk_l5_yn_1",
+    "lesson": 5,
+    "section": "IX. Câu hỏi vấn đáp Yes/No & Lý do",
+    "grammar_pattern": "はい、～です / いいえ、～じゃありません。",
+    "question": "きのうの たんじょうびパーティーは たのしかったですか。",
+    "question_vn": "Bữa tiệc sinh nhật hôm qua có vui không?",
+    "sample_answer": "はい、たのしかったです。",
+    "sample_answer_vn": "Vâng, đã rất vui.",
+    "image": "",
+    "has_picture": false,
+    "keywords": [
+      "はい",
+      "いいえ"
+    ],
+    "exam_tips": "Lắng nghe thì quá khứ (でしたか / ましたか) để trả lời đúng thì!"
+  },
+  {
+    "id": "spk_l5_yn_2",
+    "lesson": 5,
+    "section": "IX. Câu hỏi vấn đáp Yes/No & Lý do",
+    "grammar_pattern": "はい、～です / いいえ、～じゃありません。",
+    "question": "ホーチミン市は にぎやかでしたか。",
+    "question_vn": "TP.HCM có nhộn nhịp không?",
+    "sample_answer": "はい、にぎやかでした。",
+    "sample_answer_vn": "Vâng, đã rất nhộn nhịp.",
+    "image": "",
+    "has_picture": false,
+    "keywords": [
+      "はい",
+      "いいえ"
+    ],
+    "exam_tips": "Lắng nghe thì quá khứ (でしたか / ましたか) để trả lời đúng thì!"
+  },
+  {
+    "id": "spk_l5_yn_3",
+    "lesson": 5,
+    "section": "IX. Câu hỏi vấn đáp Yes/No & Lý do",
+    "grammar_pattern": "はい、～です / いいえ、～じゃありません。",
+    "question": "きのう、ひとりで えいがを みましたか。",
+    "question_vn": "Hôm qua bạn xem phim một mình phải không?",
+    "sample_answer": "はい、ひとりで えいがを みました。",
+    "sample_answer_vn": "Vâng, tôi đã xem phim một mình.",
+    "image": "",
+    "has_picture": false,
+    "keywords": [
+      "はい",
+      "いいえ"
+    ],
+    "exam_tips": "Lắng nghe thì quá khứ (でしたか / ましたか) để trả lời đúng thì!"
+  },
+  {
+    "id": "spk_l5_yn_4",
+    "lesson": 5,
+    "section": "IX. Câu hỏi vấn đáp Yes/No & Lý do",
+    "grammar_pattern": "はい、～です / いいえ、～じゃありません。",
+    "question": "あした、ともだちと びょういんへ いきますか。",
+    "question_vn": "Ngày mai bạn đi bệnh viện cùng bạn bè à?",
+    "sample_answer": "はい、ともだちと びょういんへ いきます。",
+    "sample_answer_vn": "Vâng, tôi đi bệnh viện cùng bạn.",
+    "image": "",
+    "has_picture": false,
+    "keywords": [
+      "はい",
+      "いいえ"
+    ],
+    "exam_tips": "Lắng nghe thì quá khứ (でしたか / ましたか) để trả lời đúng thì!"
+  },
+  {
+    "id": "spk_l5_yn_5",
+    "lesson": 5,
+    "section": "IX. Câu hỏi vấn đáp Yes/No & Lý do",
+    "grammar_pattern": "はい、～です / いいえ、～じゃありません。",
+    "question": "～さんは にほんごが きらいですか。",
+    "question_vn": "Bạn có ghét tiếng Nhật không?",
+    "sample_answer": "いいえ、きらいじゃありません。すきです。",
+    "sample_answer_vn": "Không, tôi không ghét. Tôi thích.",
+    "image": "",
+    "has_picture": false,
+    "keywords": [
+      "はい",
+      "いいえ"
+    ],
+    "exam_tips": "Lắng nghe thì quá khứ (でしたか / ましたか) để trả lời đúng thì!"
+  },
+  {
+    "id": "spk_l5_yn_6",
+    "lesson": 5,
+    "section": "IX. Câu hỏi vấn đáp Yes/No & Lý do",
+    "grammar_pattern": "はい、～です / いいえ、～じゃありません。",
+    "question": "～さんは アイティの べんきょうが おもしろいですか。",
+    "question_vn": "Học IT có thú vị không?",
+    "sample_answer": "はい、（とても）おもしろいです。",
+    "sample_answer_vn": "Vâng, rất thú vị.",
+    "image": "",
+    "has_picture": false,
+    "keywords": [
+      "はい",
+      "いいえ"
+    ],
+    "exam_tips": "Lắng nghe thì quá khứ (でしたか / ましたか) để trả lời đúng thì!"
+  },
+  {
+    "id": "spk_l5_yn_7",
+    "lesson": 5,
+    "section": "IX. Câu hỏi vấn đáp Yes/No & Lý do",
+    "grammar_pattern": "はい、～です / いいえ、～じゃありません。",
+    "question": "～さんは イオンへ かいものに いきたいですか。",
+    "question_vn": "Bạn có muốn đi Aeon Mall mua sắm không?",
+    "sample_answer": "はい、いきたいです。",
+    "sample_answer_vn": "Vâng, tôi muốn đi.",
+    "image": "",
+    "has_picture": false,
+    "keywords": [
+      "はい",
+      "いいえ"
+    ],
+    "exam_tips": "Lắng nghe thì quá khứ (でしたか / ましたか) để trả lời đúng thì!"
+  },
+  {
+    "id": "spk_l5_yn_8",
+    "lesson": 5,
+    "section": "IX. Câu hỏi vấn đáp Yes/No & Lý do",
+    "grammar_pattern": "はい、～です / いいえ、～じゃありません。",
+    "question": "どうして ひとりで 大学へ いきましたか。",
+    "question_vn": "Tại sao bạn đến trường một mình?",
+    "sample_answer": "ともだちは いそがしかったですから。",
+    "sample_answer_vn": "Vì bạn tôi bận.",
+    "image": "",
+    "has_picture": false,
+    "keywords": [
+      "はい",
+      "いいえ"
+    ],
+    "exam_tips": "Lắng nghe thì quá khứ (でしたか / ましたか) để trả lời đúng thì!"
+  },
+  {
+    "id": "spk_l5_yn_9",
+    "lesson": 5,
+    "section": "IX. Câu hỏi vấn đáp Yes/No & Lý do",
+    "grammar_pattern": "はい、～です / いいえ、～じゃありません。",
+    "question": "どうして アイティを べんきょうしたいですか。",
+    "question_vn": "Tại sao bạn muốn học ngành IT?",
+    "sample_answer": "アイティが すきですから。",
+    "sample_answer_vn": "Vì tôi thích ngành IT.",
+    "image": "",
+    "has_picture": false,
+    "keywords": [
+      "はい",
+      "いいえ"
+    ],
+    "exam_tips": "Lắng nghe thì quá khứ (でしたか / ましたか) để trả lời đúng thì!"
+  },
+  {
+    "id": "spk_l5_yn_10",
+    "lesson": 5,
+    "section": "IX. Câu hỏi vấn đáp Yes/No & Lý do",
+    "grammar_pattern": "はい、～です / いいえ、～じゃありません。",
+    "question": "～さんは おかねが ほしいですか。",
+    "question_vn": "Bạn có muốn có nhiều tiền không?",
+    "sample_answer": "はい、ほしいです。",
+    "sample_answer_vn": "Vâng, tôi rất muốn.",
+    "image": "",
+    "has_picture": false,
+    "keywords": [
+      "はい",
+      "いいえ"
+    ],
+    "exam_tips": "Lắng nghe thì quá khứ (でしたか / ましたか) để trả lời đúng thì!"
+  },
+  {
+    "id": "spk_l6_sec1_1",
+    "lesson": 6,
+    "section": "I. Lời mời & Rủ rê (～ませんか / ～ましょう)",
+    "grammar_pattern": "いっしょに ～V ませんか。 -> いいですね。V ましょう。",
+    "question": "あした、いっしょに えいがを みに いきませんか。",
+    "question_vn": "Ngày mai cùng đi xem phim nhé?",
+    "sample_answer": "いいですね。いきましょう。",
+    "sample_answer_vn": "Hay đấy. Cùng đi thôi!",
+    "image": "speaking_images/spk_l6_p1_movie.png",
+    "has_picture": true,
+    "keywords": [
+      "いっしょに (Cùng nhau)",
+      "いきましょう (Cùng đi thôi)"
+    ],
+    "exam_tips": "Đồng ý lời rủ rê luôn dùng mẫu: いいですね。[V]ましょう!"
+  },
+  {
+    "id": "spk_l6_sec1_2",
+    "lesson": 6,
+    "section": "I. Lời mời & Rủ rê (～ませんか / ～ましょう)",
+    "grammar_pattern": "いっしょに ～V ませんか。 -> いいですね。V ましょう。",
+    "question": "あさって、いっしょに カラオケに いきませんか。",
+    "question_vn": "Ngày kia cùng đi hát karaoke nhé?",
+    "sample_answer": "いいですね。いきましょう。",
+    "sample_answer_vn": "Hay đấy. Cùng đi nào!",
+    "image": "speaking_images/spk_l6_p1_karaoke.png",
+    "has_picture": true,
+    "keywords": [
+      "カラオケ (Karaoke)"
+    ],
+    "exam_tips": "Đồng ý lời rủ rê luôn dùng mẫu: いいですね。[V]ましょう!"
+  },
+  {
+    "id": "spk_l6_sec1_3",
+    "lesson": 6,
+    "section": "I. Lời mời & Rủ rê (～ませんか / ～ましょう)",
+    "grammar_pattern": "いっしょに ～V ませんか。 -> いいですね。V ましょう。",
+    "question": "来週の日曜日、いっしょに コンサートに いきませんか。",
+    "question_vn": "Chủ nhật tuần sau cùng đi nghe hòa nhạc nhé?",
+    "sample_answer": "いいですね。いきましょう。",
+    "sample_answer_vn": "Được đấy. Cùng đi nhé!",
+    "image": "speaking_images/spk_l6_p1_concert.png",
+    "has_picture": true,
+    "keywords": [
+      "コンサート (Hòa nhạc)"
+    ],
+    "exam_tips": "Đồng ý lời rủ rê luôn dùng mẫu: いいですね。[V]ましょう!"
+  },
+  {
+    "id": "spk_l6_sec1_4",
+    "lesson": 6,
+    "section": "I. Lời mời & Rủ rê (～ませんか / ～ましょう)",
+    "grammar_pattern": "いっしょに ～V ませんか。 -> いいですね。V ましょう。",
+    "question": "いま、いっしょに コーヒーを のみませんか。",
+    "question_vn": "Bây giờ cùng đi uống cafe nhé?",
+    "sample_answer": "いいですね。のみましょう。",
+    "sample_answer_vn": "Hay đấy. Cùng uống nhé!",
+    "image": "speaking_images/spk_l6_p1_coffee.png",
+    "has_picture": true,
+    "keywords": [
+      "コーヒー (Cà phê)",
+      "のみましょう (Cùng uống nào)"
+    ],
+    "exam_tips": "Đồng ý lời rủ rê luôn dùng mẫu: いいですね。[V]ましょう!"
+  },
+  {
+    "id": "spk_l6_sec1_5",
+    "lesson": 6,
+    "section": "I. Lời mời & Rủ rê (～ませんか / ～ましょう)",
+    "grammar_pattern": "いっしょに ～V ませんか。 -> いいですね。V ましょう。",
+    "question": "こんばん、いっしょに ドライブに いきませんか。",
+    "question_vn": "Tối nay cùng đi hóng gió bằng ô tô nhé?",
+    "sample_answer": "いいですね。いきましょう。",
+    "sample_answer_vn": "Hay đấy. Cùng đi nào!",
+    "image": "speaking_images/spk_l6_p1_drive.png",
+    "has_picture": true,
+    "keywords": [
+      "ドライブ (Lái xe hóng gió)"
+    ],
+    "exam_tips": "Đồng ý lời rủ rê luôn dùng mẫu: いいですね。[V]ましょう!"
+  },
+  {
+    "id": "spk_l6_sec2_1",
+    "lesson": 6,
+    "section": "I. Lời mời & Rủ rê",
+    "grammar_pattern": "いっしょに ～V ませんか。 -> いいですね。V ましょう。",
+    "question": "こんばん、いっしょに しょくじを しませんか。",
+    "question_vn": "Tối nay cùng đi ăn cơm nhé?",
+    "sample_answer": "いいですね。しましょう。",
+    "sample_answer_vn": "Hay đấy. Cùng đi ăn nhé!",
+    "image": "speaking_images/spk_l6_p2_meal.png",
+    "has_picture": true,
+    "keywords": [
+      "しょくじ (Ăn uống)",
+      "しましょう (Cùng làm/ăn nào)"
+    ],
+    "exam_tips": "Sự kiện / Lễ hội diễn ra dùng trợ từ で (KHÔNG dùng に): よこはまで はなびが あります."
+  },
+  {
+    "id": "spk_l6_sec2_2",
+    "lesson": 6,
+    "section": "II. Sự kiện diễn ra ở địa điểm (で)",
+    "grammar_pattern": "[Địa điểm] で [Sự kiện] が あります。",
+    "question": "よこはまで なにが ありますか。",
+    "question_vn": "Ở Yokohama có sự kiện gì?",
+    "sample_answer": "よこはまで はなびが あります。",
+    "sample_answer_vn": "Ở Yokohama có lễ hội pháo hoa.",
+    "image": "speaking_images/spk_l6_p2_yokohama.png",
+    "has_picture": true,
+    "keywords": [
+      "よこはま (Yokohama)",
+      "はなび (Pháo hoa)"
+    ],
+    "exam_tips": "Sự kiện / Lễ hội diễn ra dùng trợ từ で (KHÔNG dùng に): よこはまで はなびが あります."
+  },
+  {
+    "id": "spk_l6_sec2_3",
+    "lesson": 6,
+    "section": "II. Sự kiện diễn ra ở địa điểm (で)",
+    "grammar_pattern": "[Địa điểm] で [Sự kiện] が あります。",
+    "question": "はこねで なにが ありますか。",
+    "question_vn": "Ở Hakone có sự kiện gì?",
+    "sample_answer": "はこねで はなびが あります。",
+    "sample_answer_vn": "Ở Hakone có bắn pháo hoa.",
+    "image": "speaking_images/spk_l6_p2_hakone.png",
+    "has_picture": true,
+    "keywords": [
+      "はこね (Hakone)",
+      "はなび (Pháo hoa)"
+    ],
+    "exam_tips": "Sự kiện / Lễ hội diễn ra dùng trợ từ で (KHÔNG dùng に): よこはまで はなびが あります."
+  },
+  {
+    "id": "spk_l6_sec2_4",
+    "lesson": 6,
+    "section": "II. Sự kiện diễn ra ở địa điểm (で)",
+    "grammar_pattern": "[Địa điểm] で [Sự kiện] が あります。",
+    "question": "よこはまドームで なにが ありますか。",
+    "question_vn": "Ở Yokohama Dome có sự kiện gì?",
+    "sample_answer": "よこはまドームで やきゅうの しあいが あります。",
+    "sample_answer_vn": "Ở Yokohama Dome có trận thi đấu bóng chày.",
+    "image": "speaking_images/spk_l6_p2_baseball.png",
+    "has_picture": true,
+    "keywords": [
+      "やきゅうのしあい (Trận bóng chày)"
+    ],
+    "exam_tips": "Sự kiện / Lễ hội diễn ra dùng trợ từ で (KHÔNG dùng に): よこはまで はなびが あります."
+  },
+  {
+    "id": "spk_l6_sec3_1",
+    "lesson": 6,
+    "section": "II. Sự kiện tại địa điểm",
+    "grammar_pattern": "[Phạm vi] で [Đối tượng] が いちばん [Tính từ] です。",
+    "question": "あさくさで なにが ありますか。",
+    "question_vn": "Ở Asakusa có sự kiện gì?",
+    "sample_answer": "あさくさで まつりが あります。",
+    "sample_answer_vn": "Ở Asakusa có lễ hội (matsuri).",
+    "image": "speaking_images/spk_l6_p3_asakusa.png",
+    "has_picture": true,
+    "keywords": [
+      "あさくさ (Asakusa)",
+      "まつり (Lễ hội)"
+    ],
+    "exam_tips": "Công thức so sánh nhất: [Phạm vi] で [Chủ ngữ] が いちばん A です."
+  },
+  {
+    "id": "spk_l6_sec3_2",
+    "lesson": 6,
+    "section": "II. Sự kiện tại địa điểm",
+    "grammar_pattern": "[Phạm vi] で [Đối tượng] が いちばん [Tính từ] です。",
+    "question": "ニコニコショッピングビルで なにが ありますか。",
+    "question_vn": "Ở TTTM Nikoniko có gì?",
+    "sample_answer": "ニコニコショッピングビルで セールが あります。",
+    "sample_answer_vn": "Ở TTTM Nikoniko có đợt giảm giá (Sale).",
+    "image": "speaking_images/spk_l6_p3_sale.png",
+    "has_picture": true,
+    "keywords": [
+      "セール (Giảm giá, Sale)"
+    ],
+    "exam_tips": "Công thức so sánh nhất: [Phạm vi] で [Chủ ngữ] が いちばん A です."
+  },
+  {
+    "id": "spk_l6_sec3_3",
+    "lesson": 6,
+    "section": "III. So sánh nhất (いちばん)",
+    "grammar_pattern": "[Phạm vi] で [Đối tượng] が いちばん [Tính từ] です。",
+    "question": "えいがで なにが いちばん すきですか。",
+    "question_vn": "Trong các thể loại phim, bạn thích gì nhất?",
+    "sample_answer": "えいがで コメディーが いちばん すきです。",
+    "sample_answer_vn": "Trong phim ảnh, tôi thích phim hài nhất.",
+    "image": "speaking_images/spk_l6_p3_comedy.png",
+    "has_picture": true,
+    "keywords": [
+      "コメディー (Phim hài)",
+      "いちばんすき (Thích nhất)"
+    ],
+    "exam_tips": "Công thức so sánh nhất: [Phạm vi] で [Chủ ngữ] が いちばん A です."
+  },
+  {
+    "id": "spk_l6_sec3_4",
+    "lesson": 6,
+    "section": "III. So sánh nhất (いちばん)",
+    "grammar_pattern": "[Phạm vi] で [Đối tượng] が いちばん [Tính từ] です。",
+    "question": "おんがくで なにが いちばん すきですか。",
+    "question_vn": "Trong âm nhạc, bạn thích thể loại nào nhất?",
+    "sample_answer": "おんがくで ジャズが いちばん すきです。",
+    "sample_answer_vn": "Trong âm nhạc, tôi thích nhạc Jazz nhất.",
+    "image": "speaking_images/spk_l6_p3_jazz.png",
+    "has_picture": true,
+    "keywords": [
+      "ジャズ (Nhạc Jazz)",
+      "いちばんすき (Thích nhất)"
+    ],
+    "exam_tips": "Công thức so sánh nhất: [Phạm vi] で [Chủ ngữ] が いちばん A です."
+  },
+  {
+    "id": "spk_l6_sec3_5",
+    "lesson": 6,
+    "section": "III. So sánh nhất (いちばん)",
+    "grammar_pattern": "[Phạm vi] で [Đối tượng] が いちばん [Tính từ] です。",
+    "question": "くだもので なにが いちばん あまいですか。",
+    "question_vn": "Trong các loại trái cây, quả nào ngọt nhất?",
+    "sample_answer": "くだもので メロンが いちばん あまいです。",
+    "sample_answer_vn": "Trong hoa quả, dưa lưới ngọt nhất.",
+    "image": "speaking_images/spk_l6_p3_melon.png",
+    "has_picture": true,
+    "keywords": [
+      "メロン (Dưa lưới)",
+      "あまい (Ngọt)"
+    ],
+    "exam_tips": "Công thức so sánh nhất: [Phạm vi] で [Chủ ngữ] が いちばん A です."
+  },
+  {
+    "id": "spk_l6_sec4_1",
+    "lesson": 6,
+    "section": "IV. So sánh nhất về người / sở thích (だれが / なにが)",
+    "grammar_pattern": "[Phạm vi] で [Người / Vật] が いちばん [Tính từ] です。",
+    "question": "のみもので なにが いちばん すきですか。",
+    "question_vn": "Đồ uống bạn thích nhất là gì?",
+    "sample_answer": "のみもので コーヒーが いちばん すきです。",
+    "sample_answer_vn": "Trong đồ uống, tôi thích cà phê nhất.",
+    "image": "speaking_images/spk_l6_p4_coffee.png",
+    "has_picture": true,
+    "keywords": [
+      "コーヒー (Cà phê)"
+    ],
+    "exam_tips": "Nhớ dùng trợ từ で cho phạm vi so sánh!"
+  },
+  {
+    "id": "spk_l6_sec4_2",
+    "lesson": 6,
+    "section": "IV. So sánh nhất về người / sở thích (だれが / なにが)",
+    "grammar_pattern": "[Phạm vi] で [Người / Vật] が いちばん [Tính từ] です。",
+    "question": "たべもので なにが いちばん おいしいですか。",
+    "question_vn": "Món ăn nào bạn thấy ngon nhất?",
+    "sample_answer": "たべもので おすしが いちばん おいしいです。",
+    "sample_answer_vn": "Trong đồ ăn, sushi ngon nhất.",
+    "image": "speaking_images/spk_l6_p4_sushi.png",
+    "has_picture": true,
+    "keywords": [
+      "おすし (Sushi)",
+      "おいしい (Ngon)"
+    ],
+    "exam_tips": "Nhớ dùng trợ từ で cho phạm vi so sánh!"
+  },
+  {
+    "id": "spk_l6_sec4_3",
+    "lesson": 6,
+    "section": "IV. So sánh nhất về người / sở thích (だれが / なにが)",
+    "grammar_pattern": "[Phạm vi] で [Người / Vật] が いちばん [Tính từ] です。",
+    "question": "スポーツで なにが いちばん すきですか。",
+    "question_vn": "Môn thể thao bạn thích nhất là gì?",
+    "sample_answer": "スポーツで テニスが いちばん すきです。",
+    "sample_answer_vn": "Trong thể thao, tôi thích tennis nhất.",
+    "image": "speaking_images/spk_l6_p4_tennis.png",
+    "has_picture": true,
+    "keywords": [
+      "テニス (Quần vợt)"
+    ],
+    "exam_tips": "Nhớ dùng trợ từ で cho phạm vi so sánh!"
+  },
+  {
+    "id": "spk_l6_sec4_4",
+    "lesson": 6,
+    "section": "IV. So sánh nhất về người / sở thích (だれが / なにが)",
+    "grammar_pattern": "[Phạm vi] で [Người / Vật] が いちばん [Tính từ] です。",
+    "question": "日本のかしゅで だれが いちばん すきですか。",
+    "question_vn": "Ca sĩ Nhật bạn thích nhất là ai?",
+    "sample_answer": "日本のかしゅで ひかるが いちばん すきです。",
+    "sample_answer_vn": "Trong các ca sĩ Nhật, tôi thích Hikaru nhất.",
+    "image": "speaking_images/spk_l6_p4_hikaru.png",
+    "has_picture": true,
+    "keywords": [
+      "かしゅ (Ca sĩ)",
+      "ひかる (Hikaru)"
+    ],
+    "exam_tips": "Nhớ dùng trợ từ で cho phạm vi so sánh!"
+  },
+  {
+    "id": "spk_l6_sec4_5",
+    "lesson": 6,
+    "section": "IV. So sánh nhất về người / sở thích (だれが / なにが)",
+    "grammar_pattern": "[Phạm vi] で [Người / Vật] が いちばん [Tính từ] です。",
+    "question": "ベトナムのかしゅで だれが いちばん ゆうめいですか。",
+    "question_vn": "Ca sĩ Việt Nam nào nổi tiếng nhất?",
+    "sample_answer": "ベトナムのかしゅで Son Tung が いちばん ゆうめいです。",
+    "sample_answer_vn": "Trong ca sĩ Việt Nam, Sơn Tùng nổi tiếng nhất.",
+    "image": "speaking_images/spk_l6_p4_sontung.png",
+    "has_picture": true,
+    "keywords": [
+      "ゆうめい (Nổi tiếng)"
+    ],
+    "exam_tips": "Nhớ dùng trợ từ で cho phạm vi so sánh!"
+  },
+  {
+    "id": "spk_l6_sec5_1",
+    "lesson": 6,
+    "section": "V & VI. So sánh nơi chốn và thời gian (どこが / いつが)",
+    "grammar_pattern": "[Phạm vi] で [Nơi chốn / Thời gian] が いちばん [Tính từ] です。",
+    "question": "かぞくで だれが いちばん りょうりが すきですか。",
+    "question_vn": "Trong gia đình ai thích nấu ăn nhất?",
+    "sample_answer": "かぞくで 私が いちばん りょうりが すきです。",
+    "sample_answer_vn": "Trong gia đình, tôi thích nấu ăn nhất.",
+    "image": "speaking_images/spk_l6_p5_family_cook.png",
+    "has_picture": true,
+    "keywords": [
+      "かぞく (Gia đình)",
+      "りょうり (Nấu ăn)"
+    ],
+    "exam_tips": "Hỏi thời gian dùng いつが, hỏi nơi chốn dùng どこが."
+  },
+  {
+    "id": "spk_l6_sec5_2",
+    "lesson": 6,
+    "section": "V & VI. So sánh nơi chốn và thời gian (どこが / いつが)",
+    "grammar_pattern": "[Phạm vi] で [Nơi chốn / Thời gian] が いちばん [Tính từ] です。",
+    "question": "ともだちで だれが いちばん カラオケが すきですか。",
+    "question_vn": "Trong bạn bè ai thích karaoke nhất?",
+    "sample_answer": "ともだちで Lan さんが いちばん カラオケが すきです。",
+    "sample_answer_vn": "Trong bạn bè, bạn Lan thích karaoke nhất.",
+    "image": "speaking_images/spk_l6_p5_friend_karaoke.png",
+    "has_picture": true,
+    "keywords": [
+      "ともだち (Bạn bè)",
+      "カラオケ (Karaoke)"
+    ],
+    "exam_tips": "Hỏi thời gian dùng いつが, hỏi nơi chốn dùng どこが."
+  },
+  {
+    "id": "spk_l6_sec5_3",
+    "lesson": 6,
+    "section": "V & VI. So sánh nơi chốn và thời gian (どこが / いつが)",
+    "grammar_pattern": "[Phạm vi] で [Nơi chốn / Thời gian] が いちばん [Tính từ] です。",
+    "question": "～さんの くにで どこが いちばん にぎやかですか。",
+    "question_vn": "Ở nước bạn nơi nào náo nhiệt nhất?",
+    "sample_answer": "私のくにで ホーチミン市が いちばん にぎやかです。",
+    "sample_answer_vn": "Ở nước tôi, TP.HCM náo nhiệt nhất.",
+    "image": "speaking_images/spk_l6_p5_hcm_busy.png",
+    "has_picture": true,
+    "keywords": [
+      "にぎやか (Náo nhiệt)"
+    ],
+    "exam_tips": "Hỏi thời gian dùng いつが, hỏi nơi chốn dùng どこが."
+  },
+  {
+    "id": "spk_l6_sec5_4",
+    "lesson": 6,
+    "section": "V & VI. So sánh nơi chốn và thời gian (どこが / いつが)",
+    "grammar_pattern": "[Phạm vi] で [Nơi chốn / Thời gian] が いちばん [Tính từ] です。",
+    "question": "にほんで どこが いちばん きれいですか。",
+    "question_vn": "Ở Nhật nơi nào đẹp nhất?",
+    "sample_answer": "にほんで とうきょうが いちばん きれいです。",
+    "sample_answer_vn": "Ở Nhật Bản, Tokyo đẹp nhất.",
+    "image": "speaking_images/spk_l6_p5_tokyo_pretty.png",
+    "has_picture": true,
+    "keywords": [
+      "きれい (Đẹp)"
+    ],
+    "exam_tips": "Hỏi thời gian dùng いつが, hỏi nơi chốn dùng どこが."
+  },
+  {
+    "id": "spk_l6_sec5_5",
+    "lesson": 6,
+    "section": "V & VI. So sánh nơi chốn và thời gian (どこが / いつが)",
+    "grammar_pattern": "[Phạm vi] で [Nơi chốn / Thời gian] が いちばん [Tính từ] です。",
+    "question": "きせつで いつが いちばん さむいですか。",
+    "question_vn": "Trong các mùa, khi nào lạnh nhất?",
+    "sample_answer": "きせつで ふゆが いちばん さむいです。（1月）",
+    "sample_answer_vn": "Trong các mùa, mùa đông lạnh nhất (Tháng 1).",
+    "image": "speaking_images/spk_l6_p5_winter_cold.png",
+    "has_picture": true,
+    "keywords": [
+      "きせつ (Mùa)",
+      "ふゆ (Mùa đông)",
+      "さむい (Lạnh)"
+    ],
+    "exam_tips": "Hỏi thời gian dùng いつが, hỏi nơi chốn dùng どこが."
+  },
+  {
+    "id": "spk_l6_sec6_1",
+    "lesson": 6,
+    "section": "VII. So sánh hơn (N1 と N2 と どちらが A ですか)",
+    "grammar_pattern": "[N] のほうが A です。 / どちらも A です。",
+    "question": "いっしゅうかんで なんようびが いちばん いそがしいですか。",
+    "question_vn": "Trong tuần, thứ mấy bạn bận nhất?",
+    "sample_answer": "いっしゅうかんで きんようびが いちばん いそがしいです。",
+    "sample_answer_vn": "Trong tuần, thứ Sáu tôi bận nhất.",
+    "image": "speaking_images/spk_l6_p6_friday.png",
+    "has_picture": true,
+    "keywords": [
+      "きんようび (Thứ Sáu)",
+      "いそがしい (Bận)"
+    ],
+    "exam_tips": "Chọn 1 bên dùng [N] のほうが A です; chọn cả hai dùng どちらも A です!"
+  },
+  {
+    "id": "spk_l6_sec6_2",
+    "lesson": 6,
+    "section": "VII. So sánh hơn (N1 と N2 と どちらが A ですか)",
+    "grammar_pattern": "[N] のほうが A です。 / どちらも A です。",
+    "question": "いちねんで なんがつが いちばん あついですか。",
+    "question_vn": "Trong một năm, tháng mấy nóng nhất?",
+    "sample_answer": "いちねんで ８がつが いちばん あついです。",
+    "sample_answer_vn": "Trong một năm, tháng 8 nóng nhất.",
+    "image": "speaking_images/spk_l6_p6_august.png",
+    "has_picture": true,
+    "keywords": [
+      "８がつ (Tháng 8)",
+      "あつい (Nóng)"
+    ],
+    "exam_tips": "Chọn 1 bên dùng [N] のほうが A です; chọn cả hai dùng どちらも A です!"
+  },
+  {
+    "id": "spk_l6_sec6_3",
+    "lesson": 6,
+    "section": "VII. So sánh hơn (N1 と N2 と どちらが A ですか)",
+    "grammar_pattern": "[N] のほうが A です。 / どちらも A です。",
+    "question": "いぬと ねこと どちらが すきですか。",
+    "question_vn": "Chó và mèo bạn thích con nào hơn?",
+    "sample_answer": "どちらも すきです。",
+    "sample_answer_vn": "Tôi thích cả hai.",
+    "image": "speaking_images/spk_l6_p6_dog_cat.png",
+    "has_picture": true,
+    "keywords": [
+      "どちらも (Cả hai)"
+    ],
+    "exam_tips": "Chọn 1 bên dùng [N] のほうが A です; chọn cả hai dùng どちらも A です!"
+  },
+  {
+    "id": "spk_l6_sec6_4",
+    "lesson": 6,
+    "section": "VII. So sánh hơn (N1 と N2 と どちらが A ですか)",
+    "grammar_pattern": "[N] のほうが A です。 / どちらも A です。",
+    "question": "はると なつと どちらが あついですか。",
+    "question_vn": "Mùa xuân và mùa hè mùa nào nóng hơn?",
+    "sample_answer": "なつのほうが あついです。",
+    "sample_answer_vn": "Mùa hè nóng hơn.",
+    "image": "speaking_images/spk_l6_p6_summer.png",
+    "has_picture": true,
+    "keywords": [
+      "なつのほうが (Phía mùa hè...)"
+    ],
+    "exam_tips": "Chọn 1 bên dùng [N] のほうが A です; chọn cả hai dùng どちらも A です!"
+  },
+  {
+    "id": "spk_l6_sec6_5",
+    "lesson": 6,
+    "section": "VII. So sánh hơn (N1 と N2 と どちらが A ですか)",
+    "grammar_pattern": "[N] のほうが A です。 / どちらも A です。",
+    "question": "えいごと にほんごと どちらが むずかしいですか。",
+    "question_vn": "Tiếng Anh và tiếng Nhật cái nào khó hơn?",
+    "sample_answer": "どちらも むずかしいです。",
+    "sample_answer_vn": "Cả hai đều khó.",
+    "image": "speaking_images/spk_l6_p6_en_jp.png",
+    "has_picture": true,
+    "keywords": [
+      "むずかしい (Khó)"
+    ],
+    "exam_tips": "Chọn 1 bên dùng [N] のほうが A です; chọn cả hai dùng どちらも A です!"
+  },
+  {
+    "id": "spk_l6_sec6_6",
+    "lesson": 6,
+    "section": "VII. So sánh hơn (N1 と N2 と どちらが A ですか)",
+    "grammar_pattern": "[N] のほうが A です。 / どちらも A です。",
+    "question": "しんかんせんと バスと どちらが はやいですか。",
+    "question_vn": "Tàu siêu tốc và xe bus phương tiện nào nhanh hơn?",
+    "sample_answer": "しんかんせんのほうが はやいです。",
+    "sample_answer_vn": "Shinkansen nhanh hơn.",
+    "image": "speaking_images/spk_l6_p6_bullet_bus.png",
+    "has_picture": true,
+    "keywords": [
+      "はやい (Nhanh)"
+    ],
+    "exam_tips": "Chọn 1 bên dùng [N] のほうが A です; chọn cả hai dùng どちらも A です!"
+  },
+  {
+    "id": "spk_l6_sec7_1",
+    "lesson": 6,
+    "section": "VIII. Hỏi đã làm gì chưa (もう ～V ましたか)",
+    "grammar_pattern": "はい、もう ～V ました。 / いいえ、まだです。",
+    "question": "たべほうだいと コースと どちらが たかいですか。",
+    "question_vn": "Ăn buffet và gọi món theo set cái nào đắt hơn?",
+    "sample_answer": "どちらも たかいです。",
+    "sample_answer_vn": "Cả hai đều đắt.",
+    "image": "speaking_images/spk_l6_p7_buffet.png",
+    "has_picture": true,
+    "keywords": [
+      "たべほうだい (Buffet)",
+      "コース (Set món)"
+    ],
+    "exam_tips": "Chưa làm thì trả lời: いいえ、まだです (TUYỆT ĐỐI KHÔNG nói まだ V ません)!"
+  },
+  {
+    "id": "spk_l6_sec7_2",
+    "lesson": 6,
+    "section": "VIII. Hỏi đã làm gì chưa (もう ～V ましたか)",
+    "grammar_pattern": "はい、もう ～V ました。 / いいえ、まだです。",
+    "question": "ホーチミン市と ハノイと どちらが にぎやかですか。",
+    "question_vn": "TP.HCM và Hà Nội nơi nào náo nhiệt hơn?",
+    "sample_answer": "どちらも にぎやかです。",
+    "sample_answer_vn": "Cả hai đều náo nhiệt.",
+    "image": "speaking_images/spk_l6_p7_hcm_hanoi.png",
+    "has_picture": true,
+    "keywords": [
+      "にぎやか (Náo nhiệt)"
+    ],
+    "exam_tips": "Chưa làm thì trả lời: いいえ、まだです (TUYỆT ĐỐI KHÔNG nói まだ V ません)!"
+  },
+  {
+    "id": "spk_l6_sec7_3",
+    "lesson": 6,
+    "section": "VIII. Hỏi đã làm gì chưa (もう ～V ましたか)",
+    "grammar_pattern": "はい、もう ～V ました。 / いいえ、まだです。",
+    "question": "もう 日本へ いきましたか。",
+    "question_vn": "Bạn đã đi Nhật Bản chưa?",
+    "sample_answer": "いいえ、まだです。",
+    "sample_answer_vn": "Chưa, tôi vẫn chưa đi.",
+    "image": "speaking_images/spk_l6_p7_japan.png",
+    "has_picture": true,
+    "keywords": [
+      "いいえ、まだです (Chưa, vẫn chưa)"
+    ],
+    "exam_tips": "Chưa làm thì trả lời: いいえ、まだです (TUYỆT ĐỐI KHÔNG nói まだ V ません)!"
+  },
+  {
+    "id": "spk_l6_sec7_4",
+    "lesson": 6,
+    "section": "VIII. Hỏi đã làm gì chưa (もう ～V ましたか)",
+    "grammar_pattern": "はい、もう ～V ました。 / いいえ、まだです。",
+    "question": "もう ふじさんに のぼりましたか。",
+    "question_vn": "Bạn đã leo núi Phú Sĩ chưa?",
+    "sample_answer": "いいえ、まだです。",
+    "sample_answer_vn": "Chưa, tôi vẫn chưa leo.",
+    "image": "speaking_images/spk_l6_p7_fuji.png",
+    "has_picture": true,
+    "keywords": [
+      "のぼりました (Đã leo)"
+    ],
+    "exam_tips": "Chưa làm thì trả lời: いいえ、まだです (TUYỆT ĐỐI KHÔNG nói まだ V ません)!"
+  },
+  {
+    "id": "spk_l6_sec8_1",
+    "lesson": 6,
+    "section": "VIII. Hỏi đã làm gì chưa (Đã làm rồi: もう ～ました)",
+    "grammar_pattern": "はい、もう ～V ました。",
+    "question": "もう おこのみやきを たべましたか。",
+    "question_vn": "Bạn đã ăn bánh xèo Okonomiyaki chưa?",
+    "sample_answer": "はい、もう たべました。",
+    "sample_answer_vn": "Vâng, tôi đã ăn rồi.",
+    "image": "speaking_images/spk_l6_p8_okonomiyaki.png",
+    "has_picture": true,
+    "keywords": [
+      "おこのみやき (Bánh xèo Nhật)"
+    ],
+    "exam_tips": "Đã làm rồi thì trả lời: はい、もう [V] ました."
+  },
+  {
+    "id": "spk_l6_sec8_2",
+    "lesson": 6,
+    "section": "VIII. Hỏi đã làm gì chưa (Đã làm rồi: もう ～ました)",
+    "grammar_pattern": "はい、もう ～V ました。",
+    "question": "もう にほんごを べんきょうしましたか。",
+    "question_vn": "Bạn đã học tiếng Nhật chưa?",
+    "sample_answer": "はい、もう べんきょうしました。",
+    "sample_answer_vn": "Vâng, tôi đã học rồi.",
+    "image": "speaking_images/spk_l6_p8_japanese.png",
+    "has_picture": true,
+    "keywords": [
+      "べんきょうしました (Đã học)"
+    ],
+    "exam_tips": "Đã làm rồi thì trả lời: はい、もう [V] ました."
+  },
+  {
+    "id": "spk_l6_sec8_3",
+    "lesson": 6,
+    "section": "VIII. Hỏi đã làm gì chưa (Đã làm rồi: もう ～ました)",
+    "grammar_pattern": "はい、もう ～V ました。",
+    "question": "もう しんぶんを よみましたか。",
+    "question_vn": "Bạn đã đọc báo chưa?",
+    "sample_answer": "はい、もう よみました。",
+    "sample_answer_vn": "Vâng, tôi đã đọc rồi.",
+    "image": "speaking_images/spk_l6_p8_newspaper.png",
+    "has_picture": true,
+    "keywords": [
+      "しんぶん (Báo)",
+      "よみました (Đã đọc)"
+    ],
+    "exam_tips": "Đã làm rồi thì trả lời: はい、もう [V] ました."
+  },
+  {
+    "id": "spk_l6_sec8_4",
+    "lesson": 6,
+    "section": "VIII. Hỏi đã làm gì chưa (Đã làm rồi: もう ～ました)",
+    "grammar_pattern": "はい、もう ～V ました。",
+    "question": "もう おんがくを ききましたか。",
+    "question_vn": "Bạn đã nghe nhạc chưa?",
+    "sample_answer": "はい、もう ききました。",
+    "sample_answer_vn": "Vâng, tôi đã nghe rồi.",
+    "image": "speaking_images/spk_l6_p8_music.png",
+    "has_picture": true,
+    "keywords": [
+      "おんがく (Âm nhạc)",
+      "ききました (Đã nghe)"
+    ],
+    "exam_tips": "Đã làm rồi thì trả lời: はい、もう [V] ました."
+  },
+  {
+    "id": "spk_l6_sec8_5",
+    "lesson": 6,
+    "section": "VIII. Hỏi đã làm gì chưa (Đã làm rồi: もう ～ました)",
+    "grammar_pattern": "はい、もう ～V ました。",
+    "question": "もう りょうりを つくりましたか。",
+    "question_vn": "Bạn đã nấu ăn chưa?",
+    "sample_answer": "はい、もう つくりました。",
+    "sample_answer_vn": "Vâng, tôi đã nấu rồi.",
+    "image": "speaking_images/spk_l6_p8_cook.png",
+    "has_picture": true,
+    "keywords": [
+      "りょうり (Món ăn)",
+      "つくりました (Đã nấu)"
+    ],
+    "exam_tips": "Đã làm rồi thì trả lời: はい、もう [V] ました."
+  },
+  {
+    "id": "spk_l6_yn_1",
+    "lesson": 6,
+    "section": "IX. Câu hỏi vấn đáp Yes/No",
+    "grammar_pattern": "はい、そうです/あります。 / いいえ、ちがいます。",
+    "question": "FPT 大学で おまつりが ありますか。",
+    "question_vn": "Ở ĐH FPT có lễ hội không?",
+    "sample_answer": "はい、あります。",
+    "sample_answer_vn": "Vâng, có.",
+    "image": "",
+    "has_picture": false,
+    "keywords": [
+      "はい",
+      "いいえ"
+    ],
+    "exam_tips": "Lắng nghe rõ danh từ so sánh để phản xạ nhanh."
+  },
+  {
+    "id": "spk_l6_yn_2",
+    "lesson": 6,
+    "section": "IX. Câu hỏi vấn đáp Yes/No",
+    "grammar_pattern": "はい、そうです/あります。 / いいえ、ちがいます。",
+    "question": "おんがくで ジャズが いちばん すきですか。",
+    "question_vn": "Trong âm nhạc bạn thích Jazz nhất à?",
+    "sample_answer": "はい、そうです。",
+    "sample_answer_vn": "Vâng, đúng vậy.",
+    "image": "",
+    "has_picture": false,
+    "keywords": [
+      "はい",
+      "いいえ"
+    ],
+    "exam_tips": "Lắng nghe rõ danh từ so sánh để phản xạ nhanh."
+  },
+  {
+    "id": "spk_l6_yn_3",
+    "lesson": 6,
+    "section": "IX. Câu hỏi vấn đáp Yes/No",
+    "grammar_pattern": "はい、そうです/あります。 / いいえ、ちがいます。",
+    "question": "にほんのやまで たかおさんが いちばん たかいですか。",
+    "question_vn": "Trong núi ở Nhật, núi Takao cao nhất à?",
+    "sample_answer": "いいえ、ふじさんが いちばん たかいです。",
+    "sample_answer_vn": "Không, núi Phú Sĩ cao nhất.",
+    "image": "",
+    "has_picture": false,
+    "keywords": [
+      "はい",
+      "いいえ"
+    ],
+    "exam_tips": "Lắng nghe rõ danh từ so sánh để phản xạ nhanh."
+  },
+  {
+    "id": "spk_l6_yn_4",
+    "lesson": 6,
+    "section": "IX. Câu hỏi vấn đáp Yes/No",
+    "grammar_pattern": "はい、そうです/あります。 / いいえ、ちがいます。",
+    "question": "きせつで なつが いちばん さむいですか。",
+    "question_vn": "Trong các mùa, mùa hè lạnh nhất à?",
+    "sample_answer": "いいえ、ふゆが いちばん さむいです。",
+    "sample_answer_vn": "Không, mùa đông lạnh nhất.",
+    "image": "",
+    "has_picture": false,
+    "keywords": [
+      "はい",
+      "いいえ"
+    ],
+    "exam_tips": "Lắng nghe rõ danh từ so sánh để phản xạ nhanh."
+  },
+  {
+    "id": "spk_l6_yn_5",
+    "lesson": 6,
+    "section": "IX. Câu hỏi vấn đáp Yes/No",
+    "grammar_pattern": "はい、そうです/あります。 / いいえ、ちがいます。",
+    "question": "日本のスポーツで やきゅうが いちばん ゆうめいですか。",
+    "question_vn": "Trong thể thao Nhật, bóng chày nổi tiếng nhất à?",
+    "sample_answer": "はい、そうです。",
+    "sample_answer_vn": "Vâng, đúng vậy.",
+    "image": "",
+    "has_picture": false,
+    "keywords": [
+      "はい",
+      "いいえ"
+    ],
+    "exam_tips": "Lắng nghe rõ danh từ so sánh để phản xạ nhanh."
+  },
+  {
+    "id": "spk_l6_yn_6",
+    "lesson": 6,
+    "section": "IX. Câu hỏi vấn đáp Yes/No",
+    "grammar_pattern": "はい、そうです/あります。 / いいえ、ちがいます。",
+    "question": "日本のかしゅで ARASHI が いちばん すきですか。",
+    "question_vn": "Ca sĩ Nhật bạn thích nhất là ARASHI à?",
+    "sample_answer": "いいえ、ひかるが いちばん すきです。",
+    "sample_answer_vn": "Không, tôi thích Hikaru nhất.",
+    "image": "",
+    "has_picture": false,
+    "keywords": [
+      "はい",
+      "いいえ"
+    ],
+    "exam_tips": "Lắng nghe rõ danh từ so sánh để phản xạ nhanh."
+  },
+  {
+    "id": "spk_l6_yn_7",
+    "lesson": 6,
+    "section": "IX. Câu hỏi vấn đáp Yes/No",
+    "grammar_pattern": "はい、そうです/あります。 / いいえ、ちがいます。",
+    "question": "もう きょうの かんじを べんきょうしましたか。",
+    "question_vn": "Bạn đã học chữ Hán hôm nay chưa?",
+    "sample_answer": "はい、もう べんきょうしました。",
+    "sample_answer_vn": "Vâng, tôi đã học rồi.",
+    "image": "",
+    "has_picture": false,
+    "keywords": [
+      "はい",
+      "いいえ"
+    ],
+    "exam_tips": "Lắng nghe rõ danh từ so sánh để phản xạ nhanh."
+  },
+  {
+    "id": "spk_l6_yn_8",
+    "lesson": 6,
+    "section": "IX. Câu hỏi vấn đáp Yes/No",
+    "grammar_pattern": "はい、そうです/あります。 / いいえ、ちがいます。",
+    "question": "もう ダナンへ いきましたか。",
+    "question_vn": "Bạn đã từng đến Đà Nẵng chưa?",
+    "sample_answer": "はい、もう いきました。 / いいえ、まだです。",
+    "sample_answer_vn": "Vâng, tôi đã đi rồi. / Chưa, vẫn chưa.",
+    "image": "",
+    "has_picture": false,
+    "keywords": [
+      "はい",
+      "いいえ"
+    ],
+    "exam_tips": "Lắng nghe rõ danh từ so sánh để phản xạ nhanh."
+  },
+  {
+    "id": "spk_l7_personal_1",
+    "lesson": 7,
+    "section": "I. Câu hỏi vấn đáp cá nhân (Hỏi về bản thân)",
+    "grammar_pattern": "Trả lời câu hỏi tự do bám sát ngữ pháp Bài 4〜7",
+    "question": "~さんのうちは どこに ありますか。",
+    "question_vn": "Nhà của bạn ở đâu?",
+    "sample_answer": "ホーチミン市の９区に あります。",
+    "sample_answer_vn": "Ở Quận 9, TP.HCM.",
+    "image": "",
+    "has_picture": false,
+    "keywords": [
+      "じこしょうかい",
+      "FPTだいがく"
+    ],
+    "exam_tips": "Giám thị FPT rất hay hỏi: Chuyên ngành (IT), học tiếng Nhật bao lâu (いちねん), trường ở đâu (９区)!"
+  },
+  {
+    "id": "spk_l7_personal_2",
+    "lesson": 7,
+    "section": "I. Câu hỏi vấn đáp cá nhân (Hỏi về bản thân)",
+    "grammar_pattern": "Trả lời câu hỏi tự do bám sát ngữ pháp Bài 4〜7",
+    "question": "~さんのFPT 大学は どこに ありますか。",
+    "question_vn": "Trường ĐH FPT của bạn ở đâu?",
+    "sample_answer": "ホーチミン市の９区に あります。",
+    "sample_answer_vn": "Ở Quận 9, TP.HCM.",
+    "image": "",
+    "has_picture": false,
+    "keywords": [
+      "じこしょうかい",
+      "FPTだいがく"
+    ],
+    "exam_tips": "Giám thị FPT rất hay hỏi: Chuyên ngành (IT), học tiếng Nhật bao lâu (いちねん), trường ở đâu (９区)!"
+  },
+  {
+    "id": "spk_l7_personal_3",
+    "lesson": 7,
+    "section": "I. Câu hỏi vấn đáp cá nhân (Hỏi về bản thân)",
+    "grammar_pattern": "Trả lời câu hỏi tự do bám sát ngữ pháp Bài 4〜7",
+    "question": "〜さんの うちの ちかくに なにがありますか。",
+    "question_vn": "Gần nhà bạn có những gì?",
+    "sample_answer": "スーパーが あります。",
+    "sample_answer_vn": "Có siêu thị.",
+    "image": "",
+    "has_picture": false,
+    "keywords": [
+      "じこしょうかい",
+      "FPTだいがく"
+    ],
+    "exam_tips": "Giám thị FPT rất hay hỏi: Chuyên ngành (IT), học tiếng Nhật bao lâu (いちねん), trường ở đâu (９区)!"
+  },
+  {
+    "id": "spk_l7_personal_4",
+    "lesson": 7,
+    "section": "I. Câu hỏi vấn đáp cá nhân (Hỏi về bản thân)",
+    "grammar_pattern": "Trả lời câu hỏi tự do bám sát ngữ pháp Bài 4〜7",
+    "question": "FPT 大学の ちかくに なにが ありますか。",
+    "question_vn": "Gần trường ĐH FPT có cái gì?",
+    "sample_answer": "かいしゃが あります。",
+    "sample_answer_vn": "Có các công ty.",
+    "image": "",
+    "has_picture": false,
+    "keywords": [
+      "じこしょうかい",
+      "FPTだいがく"
+    ],
+    "exam_tips": "Giám thị FPT rất hay hỏi: Chuyên ngành (IT), học tiếng Nhật bao lâu (いちねん), trường ở đâu (９区)!"
+  },
+  {
+    "id": "spk_l7_personal_5",
+    "lesson": 7,
+    "section": "I. Câu hỏi vấn đáp cá nhân (Hỏi về bản thân)",
+    "grammar_pattern": "Trả lời câu hỏi tự do bám sát ngữ pháp Bài 4〜7",
+    "question": "ホーチミン市は どこに ありますか。",
+    "question_vn": "TP.HCM ở đâu?",
+    "sample_answer": "ホーチミン市は ベトナムのみなみに あります。",
+    "sample_answer_vn": "TP.HCM ở phía nam Việt Nam.",
+    "image": "",
+    "has_picture": false,
+    "keywords": [
+      "じこしょうかい",
+      "FPTだいがく"
+    ],
+    "exam_tips": "Giám thị FPT rất hay hỏi: Chuyên ngành (IT), học tiếng Nhật bao lâu (いちねん), trường ở đâu (９区)!"
+  },
+  {
+    "id": "spk_l7_personal_6",
+    "lesson": 7,
+    "section": "I. Câu hỏi vấn đáp cá nhân (Hỏi về bản thân)",
+    "grammar_pattern": "Trả lời câu hỏi tự do bám sát ngữ pháp Bài 4〜7",
+    "question": "なんで パンを きりますか。",
+    "question_vn": "Bạn cắt bánh mì bằng cái gì?",
+    "sample_answer": "ナイフで パンを きります。",
+    "sample_answer_vn": "Cắt bánh mì bằng dao.",
+    "image": "",
+    "has_picture": false,
+    "keywords": [
+      "じこしょうかい",
+      "FPTだいがく"
+    ],
+    "exam_tips": "Giám thị FPT rất hay hỏi: Chuyên ngành (IT), học tiếng Nhật bao lâu (いちねん), trường ở đâu (９区)!"
+  },
+  {
+    "id": "spk_l7_personal_7",
+    "lesson": 7,
+    "section": "I. Câu hỏi vấn đáp cá nhân (Hỏi về bản thân)",
+    "grammar_pattern": "Trả lời câu hỏi tự do bám sát ngữ pháp Bài 4〜7",
+    "question": "なんで やさいを きりますか。",
+    "question_vn": "Bạn cắt rau củ bằng cái gì?",
+    "sample_answer": "ナイフで やさいを きります。",
+    "sample_answer_vn": "Cắt rau bằng dao.",
+    "image": "",
+    "has_picture": false,
+    "keywords": [
+      "じこしょうかい",
+      "FPTだいがく"
+    ],
+    "exam_tips": "Giám thị FPT rất hay hỏi: Chuyên ngành (IT), học tiếng Nhật bao lâu (いちねん), trường ở đâu (９区)!"
+  },
+  {
+    "id": "spk_l7_personal_8",
+    "lesson": 7,
+    "section": "I. Câu hỏi vấn đáp cá nhân (Hỏi về bản thân)",
+    "grammar_pattern": "Trả lời câu hỏi tự do bám sát ngữ pháp Bài 4〜7",
+    "question": "ベトナム人は フォークとナイフで ごはんをたべますか。",
+    "question_vn": "Người Việt Nam có ăn cơm bằng dao nĩa không?",
+    "sample_answer": "いいえ、はしで たべます。",
+    "sample_answer_vn": "Không, ăn bằng đũa.",
+    "image": "",
+    "has_picture": false,
+    "keywords": [
+      "じこしょうかい",
+      "FPTだいがく"
+    ],
+    "exam_tips": "Giám thị FPT rất hay hỏi: Chuyên ngành (IT), học tiếng Nhật bao lâu (いちねん), trường ở đâu (９区)!"
+  },
+  {
+    "id": "spk_l7_personal_9",
+    "lesson": 7,
+    "section": "I. Câu hỏi vấn đáp cá nhân (Hỏi về bản thân)",
+    "grammar_pattern": "Trả lời câu hỏi tự do bám sát ngữ pháp Bài 4〜7",
+    "question": "日本人は なんで ごはんを たべますか。",
+    "question_vn": "Người Nhật ăn cơm bằng cái gì?",
+    "sample_answer": "はしで たべます。",
+    "sample_answer_vn": "Ăn bằng đũa.",
+    "image": "",
+    "has_picture": false,
+    "keywords": [
+      "じこしょうかい",
+      "FPTだいがく"
+    ],
+    "exam_tips": "Giám thị FPT rất hay hỏi: Chuyên ngành (IT), học tiếng Nhật bao lâu (いちねん), trường ở đâu (９区)!"
+  },
+  {
+    "id": "spk_l7_personal_10",
+    "lesson": 7,
+    "section": "I. Câu hỏi vấn đáp cá nhân (Hỏi về bản thân)",
+    "grammar_pattern": "Trả lời câu hỏi tự do bám sát ngữ pháp Bài 4〜7",
+    "question": "インド人は なんで ごはんを たべますか。",
+    "question_vn": "Người Ấn Độ ăn cơm bằng cái gì?",
+    "sample_answer": "てで たべます。",
+    "sample_answer_vn": "Ăn bằng tay.",
+    "image": "",
+    "has_picture": false,
+    "keywords": [
+      "じこしょうかい",
+      "FPTだいがく"
+    ],
+    "exam_tips": "Giám thị FPT rất hay hỏi: Chuyên ngành (IT), học tiếng Nhật bao lâu (いちねん), trường ở đâu (９区)!"
+  },
+  {
+    "id": "spk_l7_personal_11",
+    "lesson": 7,
+    "section": "I. Câu hỏi vấn đáp cá nhân (Hỏi về bản thân)",
+    "grammar_pattern": "Trả lời câu hỏi tự do bám sát ngữ pháp Bài 4〜7",
+    "question": "アメリカ人は なんで ごはんを たべますか。",
+    "question_vn": "Người Mỹ ăn cơm bằng cái gì?",
+    "sample_answer": "ナイフとフォークで たべます。",
+    "sample_answer_vn": "Ăn bằng dao và nĩa.",
+    "image": "",
+    "has_picture": false,
+    "keywords": [
+      "じこしょうかい",
+      "FPTだいがく"
+    ],
+    "exam_tips": "Giám thị FPT rất hay hỏi: Chuyên ngành (IT), học tiếng Nhật bao lâu (いちねん), trường ở đâu (９区)!"
+  },
+  {
+    "id": "spk_l7_personal_12",
+    "lesson": 7,
+    "section": "I. Câu hỏi vấn đáp cá nhân (Hỏi về bản thân)",
+    "grammar_pattern": "Trả lời câu hỏi tự do bám sát ngữ pháp Bài 4〜7",
+    "question": "だれに 日本語を べんきょうしましたか。",
+    "question_vn": "Bạn học tiếng Nhật từ ai?",
+    "sample_answer": "FPT 大学の先生に べんきょうしました。",
+    "sample_answer_vn": "Tôi học từ giáo viên ĐH FPT.",
+    "image": "",
+    "has_picture": false,
+    "keywords": [
+      "じこしょうかい",
+      "FPTだいがく"
+    ],
+    "exam_tips": "Giám thị FPT rất hay hỏi: Chuyên ngành (IT), học tiếng Nhật bao lâu (いちねん), trường ở đâu (９区)!"
+  },
+  {
+    "id": "spk_l7_personal_13",
+    "lesson": 7,
+    "section": "I. Câu hỏi vấn đáp cá nhân (Hỏi về bản thân)",
+    "grammar_pattern": "Trả lời câu hỏi tự do bám sát ngữ pháp Bài 4〜7",
+    "question": "今まで どのくらい 日本語を べんきょうしましたか。",
+    "question_vn": "Cho đến nay bạn học tiếng Nhật bao lâu rồi?",
+    "sample_answer": "いちねん べんきょうしました。",
+    "sample_answer_vn": "Tôi đã học được 1 năm.",
+    "image": "",
+    "has_picture": false,
+    "keywords": [
+      "じこしょうかい",
+      "FPTだいがく"
+    ],
+    "exam_tips": "Giám thị FPT rất hay hỏi: Chuyên ngành (IT), học tiếng Nhật bao lâu (いちねん), trường ở đâu (９区)!"
+  },
+  {
+    "id": "spk_l7_personal_14",
+    "lesson": 7,
+    "section": "I. Câu hỏi vấn đáp cá nhân (Hỏi về bản thân)",
+    "grammar_pattern": "Trả lời câu hỏi tự do bám sát ngữ pháp Bài 4〜7",
+    "question": "どうして 日本語を べんきょうしましたか。",
+    "question_vn": "Tại sao bạn lại học tiếng Nhật?",
+    "sample_answer": "おもしろいですから。",
+    "sample_answer_vn": "Vì rất thú vị.",
+    "image": "",
+    "has_picture": false,
+    "keywords": [
+      "じこしょうかい",
+      "FPTだいがく"
+    ],
+    "exam_tips": "Giám thị FPT rất hay hỏi: Chuyên ngành (IT), học tiếng Nhật bao lâu (いちねん), trường ở đâu (９区)!"
+  },
+  {
+    "id": "spk_l7_personal_15",
+    "lesson": 7,
+    "section": "I. Câu hỏi vấn đáp cá nhân (Hỏi về bản thân)",
+    "grammar_pattern": "Trả lời câu hỏi tự do bám sát ngữ pháp Bài 4〜7",
+    "question": "だれが 〜さんに 日本語を おしえましたか。",
+    "question_vn": "Ai đã dạy bạn tiếng Nhật?",
+    "sample_answer": "FPT 大学の先生が おしえました。",
+    "sample_answer_vn": "Thầy cô trường FPT dạy tôi.",
+    "image": "",
+    "has_picture": false,
+    "keywords": [
+      "じこしょうかい",
+      "FPTだいがく"
+    ],
+    "exam_tips": "Giám thị FPT rất hay hỏi: Chuyên ngành (IT), học tiếng Nhật bao lâu (いちねん), trường ở đâu (９区)!"
+  },
+  {
+    "id": "spk_l7_personal_16",
+    "lesson": 7,
+    "section": "I. Câu hỏi vấn đáp cá nhân (Hỏi về bản thân)",
+    "grammar_pattern": "Trả lời câu hỏi tự do bám sát ngữ pháp Bài 4〜7",
+    "question": "どこで 日本語を べんきょうしていますか。",
+    "question_vn": "Bạn đang học tiếng Nhật ở đâu?",
+    "sample_answer": "FPT 大学で べんきょうしています。",
+    "sample_answer_vn": "Tôi đang học tại ĐH FPT.",
+    "image": "",
+    "has_picture": false,
+    "keywords": [
+      "じこしょうかい",
+      "FPTだいがく"
+    ],
+    "exam_tips": "Giám thị FPT rất hay hỏi: Chuyên ngành (IT), học tiếng Nhật bao lâu (いちねん), trường ở đâu (９区)!"
+  },
+  {
+    "id": "spk_l7_personal_17",
+    "lesson": 7,
+    "section": "I. Câu hỏi vấn đáp cá nhân (Hỏi về bản thân)",
+    "grammar_pattern": "Trả lời câu hỏi tự do bám sát ngữ pháp Bài 4〜7",
+    "question": "FPT 大学で なにを べんきょうしていますか。",
+    "question_vn": "Bạn học chuyên ngành gì ở FPT?",
+    "sample_answer": "FPT 大学で IT を べんきょうしています。",
+    "sample_answer_vn": "Tôi học CNTT (IT) tại ĐH FPT.",
+    "image": "",
+    "has_picture": false,
+    "keywords": [
+      "じこしょうかい",
+      "FPTだいがく"
+    ],
+    "exam_tips": "Giám thị FPT rất hay hỏi: Chuyên ngành (IT), học tiếng Nhật bao lâu (いちねん), trường ở đâu (９区)!"
+  },
+  {
+    "id": "spk_l7_personal_18",
+    "lesson": 7,
+    "section": "I. Câu hỏi vấn đáp cá nhân (Hỏi về bản thân)",
+    "grammar_pattern": "Trả lời câu hỏi tự do bám sát ngữ pháp Bài 4〜7",
+    "question": "日本語の べんきょうは どうですか。",
+    "question_vn": "Việc học tiếng Nhật thế nào?",
+    "sample_answer": "おもしろいです。",
+    "sample_answer_vn": "Rất thú vị.",
+    "image": "",
+    "has_picture": false,
+    "keywords": [
+      "じこしょうかい",
+      "FPTだいがく"
+    ],
+    "exam_tips": "Giám thị FPT rất hay hỏi: Chuyên ngành (IT), học tiếng Nhật bao lâu (いちねん), trường ở đâu (９区)!"
+  },
+  {
+    "id": "spk_l7_personal_19",
+    "lesson": 7,
+    "section": "I. Câu hỏi vấn đáp cá nhân (Hỏi về bản thân)",
+    "grammar_pattern": "Trả lời câu hỏi tự do bám sát ngữ pháp Bài 4〜7",
+    "question": "日本語の かんじは むずかしいですか。",
+    "question_vn": "Hán tự tiếng Nhật có khó không?",
+    "sample_answer": "はい、むずかしいです。",
+    "sample_answer_vn": "Vâng, khó ạ.",
+    "image": "",
+    "has_picture": false,
+    "keywords": [
+      "じこしょうかい",
+      "FPTだいがく"
+    ],
+    "exam_tips": "Giám thị FPT rất hay hỏi: Chuyên ngành (IT), học tiếng Nhật bao lâu (いちねん), trường ở đâu (９区)!"
+  },
+  {
+    "id": "spk_l7_personal_20",
+    "lesson": 7,
+    "section": "I. Câu hỏi vấn đáp cá nhân (Hỏi về bản thân)",
+    "grammar_pattern": "Trả lời câu hỏi tự do bám sát ngữ pháp Bài 4〜7",
+    "question": "いま おかねが たくさん あります。なにを かいたいですか。",
+    "question_vn": "Nếu bây giờ có nhiều tiền, bạn muốn mua gì?",
+    "sample_answer": "パソコンを かいたいです。",
+    "sample_answer_vn": "Tôi muốn mua laptop.",
+    "image": "",
+    "has_picture": false,
+    "keywords": [
+      "じこしょうかい",
+      "FPTだいがく"
+    ],
+    "exam_tips": "Giám thị FPT rất hay hỏi: Chuyên ngành (IT), học tiếng Nhật bao lâu (いちねん), trường ở đâu (９区)!"
+  },
+  {
+    "id": "spk_l7_personal_21",
+    "lesson": 7,
+    "section": "I. Câu hỏi vấn đáp cá nhân (Hỏi về bản thân)",
+    "grammar_pattern": "Trả lời câu hỏi tự do bám sát ngữ pháp Bài 4〜7",
+    "question": "いま おかねが たくさん あります。どこへ いきたいですか。",
+    "question_vn": "Nếu có nhiều tiền, bạn muốn đi đâu?",
+    "sample_answer": "日本へ いきたいです。",
+    "sample_answer_vn": "Tôi muốn đi Nhật Bản.",
+    "image": "",
+    "has_picture": false,
+    "keywords": [
+      "じこしょうかい",
+      "FPTだいがく"
+    ],
+    "exam_tips": "Giám thị FPT rất hay hỏi: Chuyên ngành (IT), học tiếng Nhật bao lâu (いちねん), trường ở đâu (９区)!"
+  },
+  {
+    "id": "spk_l7_personal_22",
+    "lesson": 7,
+    "section": "I. Câu hỏi vấn đáp cá nhân (Hỏi về bản thân)",
+    "grammar_pattern": "Trả lời câu hỏi tự do bám sát ngữ pháp Bài 4〜7",
+    "question": "いま おかねが たくさん あります。なにを したいですか。",
+    "question_vn": "Nếu có nhiều tiền, bạn muốn làm gì?",
+    "sample_answer": "パーティーを したいです。",
+    "sample_answer_vn": "Tôi muốn mở tiệc.",
+    "image": "",
+    "has_picture": false,
+    "keywords": [
+      "じこしょうかい",
+      "FPTだいがく"
+    ],
+    "exam_tips": "Giám thị FPT rất hay hỏi: Chuyên ngành (IT), học tiếng Nhật bao lâu (いちねん), trường ở đâu (９区)!"
+  },
+  {
+    "id": "spk_l7_personal_23",
+    "lesson": 7,
+    "section": "I. Câu hỏi vấn đáp cá nhân (Hỏi về bản thân)",
+    "grammar_pattern": "Trả lời câu hỏi tự do bám sát ngữ pháp Bài 4〜7",
+    "question": "あさって どこかへ いきますか。",
+    "question_vn": "Ngày kia bạn có đi đâu không?",
+    "sample_answer": "はい、日本へ いきます。 / いいえ、どこもいきません。",
+    "sample_answer_vn": "Có, tôi đi Nhật. / Không, tôi không đi đâu.",
+    "image": "",
+    "has_picture": false,
+    "keywords": [
+      "じこしょうかい",
+      "FPTだいがく"
+    ],
+    "exam_tips": "Giám thị FPT rất hay hỏi: Chuyên ngành (IT), học tiếng Nhật bao lâu (いちねん), trường ở đâu (９区)!"
+  },
+  {
+    "id": "spk_l7_personal_24",
+    "lesson": 7,
+    "section": "I. Câu hỏi vấn đáp cá nhân (Hỏi về bản thân)",
+    "grammar_pattern": "Trả lời câu hỏi tự do bám sát ngữ pháp Bài 4〜7",
+    "question": "いえから 学校まで バスで どのくらいですか。",
+    "question_vn": "Từ nhà đến trường bằng xe bus mất bao lâu?",
+    "sample_answer": "いちじかんくらいです。",
+    "sample_answer_vn": "Khoảng 1 tiếng.",
+    "image": "",
+    "has_picture": false,
+    "keywords": [
+      "じこしょうかい",
+      "FPTだいがく"
+    ],
+    "exam_tips": "Giám thị FPT rất hay hỏi: Chuyên ngành (IT), học tiếng Nhật bao lâu (いちねん), trường ở đâu (９区)!"
+  },
+  {
+    "id": "spk_l7_personal_25",
+    "lesson": 7,
+    "section": "I. Câu hỏi vấn đáp cá nhân (Hỏi về bản thân)",
+    "grammar_pattern": "Trả lời câu hỏi tự do bám sát ngữ pháp Bài 4〜7",
+    "question": "だれと りょこうしたいですか。",
+    "question_vn": "Bạn muốn đi du lịch cùng ai?",
+    "sample_answer": "こいびとと りょこうしたいです。",
+    "sample_answer_vn": "Tôi muốn đi du lịch cùng người yêu.",
+    "image": "",
+    "has_picture": false,
+    "keywords": [
+      "じこしょうかい",
+      "FPTだいがく"
+    ],
+    "exam_tips": "Giám thị FPT rất hay hỏi: Chuyên ngành (IT), học tiếng Nhật bao lâu (いちねん), trường ở đâu (９区)!"
+  },
+  {
+    "id": "spk_l7_sec2_1",
+    "lesson": 7,
+    "section": "II. Vị trí người và vật trong không gian (あります / います)",
+    "grammar_pattern": "[Chủ ngữ] は [Địa điểm] の [Vị trí] に あります / います。",
+    "question": "ほんやは どこに ありますか。",
+    "question_vn": "Hiệu sách ở đâu?",
+    "sample_answer": "ほんやは きっさてんの となりに あります。",
+    "sample_answer_vn": "Hiệu sách ở bên cạnh quán cà phê.",
+    "image": "speaking_images/spk_l7_map_street.png",
+    "has_picture": true,
+    "keywords": [
+      "ほんや (Hiệu sách)",
+      "きっさてん (Quán cà phê)",
+      "となり (Bên cạnh)"
+    ],
+    "exam_tips": "Đồ vật dùng あります, người và động vật dùng います!"
+  },
+  {
+    "id": "spk_l7_sec2_2",
+    "lesson": 7,
+    "section": "II. Vị trí người và vật trong không gian (あります / います)",
+    "grammar_pattern": "[Chủ ngữ] は [Địa điểm] の [Vị trí] に あります / います。",
+    "question": "パクさんは どこに いますか。",
+    "question_vn": "Anh Park đang ở đâu?",
+    "sample_answer": "パクさんは ほんやの ちかくに います。",
+    "sample_answer_vn": "Anh Park đang ở gần hiệu sách.",
+    "image": "speaking_images/spk_l7_map_street.png",
+    "has_picture": true,
+    "keywords": [
+      "パクさん",
+      "ちかく (Gần)"
+    ],
+    "exam_tips": "Đồ vật dùng あります, người và động vật dùng います!"
+  },
+  {
+    "id": "spk_l7_sec2_3",
+    "lesson": 7,
+    "section": "II. Vị trí người và vật trong không gian (あります / います)",
+    "grammar_pattern": "[Chủ ngữ] は [Địa điểm] の [Vị trí] に あります / います。",
+    "question": "きっさてんは どこに ありますか。",
+    "question_vn": "Quán cà phê ở đâu?",
+    "sample_answer": "きっさてんは ほんやの となりに あります。",
+    "sample_answer_vn": "Quán cà phê ở bên cạnh hiệu sách.",
+    "image": "speaking_images/spk_l7_map_street.png",
+    "has_picture": true,
+    "keywords": [
+      "きっさてん",
+      "となり"
+    ],
+    "exam_tips": "Đồ vật dùng あります, người và động vật dùng います!"
+  },
+  {
+    "id": "spk_l7_sec2_4",
+    "lesson": 7,
+    "section": "II. Vị trí người và vật trong không gian (あります / います)",
+    "grammar_pattern": "[Chủ ngữ] は [Địa điểm] の [Vị trí] に あります / います。",
+    "question": "ポストは どこに ありますか。",
+    "question_vn": "Hộp thư công cộng ở đâu?",
+    "sample_answer": "ポストは ゆうびんきょくの まえに あります。",
+    "sample_answer_vn": "Hộp thư ở phía trước bưu điện.",
+    "image": "speaking_images/spk_l7_map_street.png",
+    "has_picture": true,
+    "keywords": [
+      "ポスト (Thùng thư)",
+      "ゆうびんきょく (Bưu điện)",
+      "まえ (Phía trước)"
+    ],
+    "exam_tips": "Đồ vật dùng あります, người và động vật dùng います!"
+  },
+  {
+    "id": "spk_l7_sec2_5",
+    "lesson": 7,
+    "section": "II. Vị trí người và vật trong không gian (あります / います)",
+    "grammar_pattern": "[Chủ ngữ] は [Địa điểm] の [Vị trí] に あります / います。",
+    "question": "きむらさんは どこに いますか。",
+    "question_vn": "Chị Kimura đang ở đâu?",
+    "sample_answer": "きむらさんは きの となりに います。",
+    "sample_answer_vn": "Chị Kimura ở bên cạnh cái cây.",
+    "image": "speaking_images/spk_l7_map_street.png",
+    "has_picture": true,
+    "keywords": [
+      "き (Cái cây)",
+      "となり"
+    ],
+    "exam_tips": "Đồ vật dùng あります, người và động vật dùng います!"
+  },
+  {
+    "id": "spk_l7_sec2_6",
+    "lesson": 7,
+    "section": "II. Vị trí người và vật trong không gian (あります / います)",
+    "grammar_pattern": "[Chủ ngữ] は [Địa điểm] の [Vị trí] に あります / います。",
+    "question": "いぬは どこに いますか。",
+    "question_vn": "Con chó đang ở đâu?",
+    "sample_answer": "いぬは いえの なかに います。",
+    "sample_answer_vn": "Con chó ở trong nhà.",
+    "image": "speaking_images/spk_l7_map_street.png",
+    "has_picture": true,
+    "keywords": [
+      "いぬ (Con chó)",
+      "なか (Bên trong)"
+    ],
+    "exam_tips": "Đồ vật dùng あります, người và động vật dùng います!"
+  },
+  {
+    "id": "spk_l7_sec3_1",
+    "lesson": 7,
+    "section": "III. Xác định vị trí bản đồ (あいだ / となり / ちかく)",
+    "grammar_pattern": "A と B の あいだ に あります / います。",
+    "question": "レストランのちかくに なにが ありますか。",
+    "question_vn": "Gần nhà hàng có cái gì?",
+    "sample_answer": "ゆうびんきょくが あります。",
+    "sample_answer_vn": "Có bưu điện.",
+    "image": "speaking_images/spk_l7_map_town.png",
+    "has_picture": true,
+    "keywords": [
+      "レストラン",
+      "ゆうびんきょく"
+    ],
+    "exam_tips": "Ở giữa A và B dùng mẫu: A と B の あいだ に あります."
+  },
+  {
+    "id": "spk_l7_sec3_2",
+    "lesson": 7,
+    "section": "III. Xác định vị trí bản đồ (あいだ / となり / ちかく)",
+    "grammar_pattern": "A と B の あいだ に あります / います。",
+    "question": "ほんやは どこに ありますか。",
+    "question_vn": "Hiệu sách ở đâu?",
+    "sample_answer": "レストランと パンやの あいだに あります。",
+    "sample_answer_vn": "Hiệu sách ở giữa nhà hàng và tiệm bánh mì.",
+    "image": "speaking_images/spk_l7_map_town.png",
+    "has_picture": true,
+    "keywords": [
+      "あいだ (Ở giữa)"
+    ],
+    "exam_tips": "Ở giữa A và B dùng mẫu: A と B の あいだ に あります."
+  },
+  {
+    "id": "spk_l7_sec3_3",
+    "lesson": 7,
+    "section": "III. Xác định vị trí bản đồ (あいだ / となり / ちかく)",
+    "grammar_pattern": "A と B の あいだ に あります / います。",
+    "question": "にわに なにが いますか。",
+    "question_vn": "Trong sân có con gì?",
+    "sample_answer": "いぬと ねこが います。",
+    "sample_answer_vn": "Có chó và mèo.",
+    "image": "speaking_images/spk_l7_map_town.png",
+    "has_picture": true,
+    "keywords": [
+      "にわ (Sân vườn)",
+      "いぬ",
+      "ねこ"
+    ],
+    "exam_tips": "Ở giữa A và B dùng mẫu: A と B の あいだ に あります."
+  },
+  {
+    "id": "spk_l7_sec3_4",
+    "lesson": 7,
+    "section": "III. Xác định vị trí bản đồ (あいだ / となり / ちかく)",
+    "grammar_pattern": "A と B の あいだ に あります / います。",
+    "question": "にわに なにが ありますか。",
+    "question_vn": "Trong sân có cái gì?",
+    "sample_answer": "きが あります。",
+    "sample_answer_vn": "Có cái cây.",
+    "image": "speaking_images/spk_l7_map_town.png",
+    "has_picture": true,
+    "keywords": [
+      "き (Cái cây)"
+    ],
+    "exam_tips": "Ở giữa A và B dùng mẫu: A と B の あいだ に あります."
+  },
+  {
+    "id": "spk_l7_sec3_5",
+    "lesson": 7,
+    "section": "III. Xác định vị trí bản đồ (あいだ / となり / ちかく)",
+    "grammar_pattern": "A と B の あいだ に あります / います。",
+    "question": "いぬは どこに いますか。",
+    "question_vn": "Con chó ở đâu?",
+    "sample_answer": "ねこの となりに います。",
+    "sample_answer_vn": "Ở cạnh con mèo.",
+    "image": "speaking_images/spk_l7_map_town.png",
+    "has_picture": true,
+    "keywords": [
+      "となり (Bên cạnh)"
+    ],
+    "exam_tips": "Ở giữa A và B dùng mẫu: A と B の あいだ に あります."
+  },
+  {
+    "id": "spk_l7_sec3_6",
+    "lesson": 7,
+    "section": "III. Xác định vị trí bản đồ (あいだ / となり / ちかく)",
+    "grammar_pattern": "A と B の あいだ に あります / います。",
+    "question": "ねこは どこに いますか。",
+    "question_vn": "Con mèo ở đâu?",
+    "sample_answer": "いぬの となりに います。",
+    "sample_answer_vn": "Ở cạnh con chó.",
+    "image": "speaking_images/spk_l7_map_town.png",
+    "has_picture": true,
+    "keywords": [
+      "となり (Bên cạnh)"
+    ],
+    "exam_tips": "Ở giữa A và B dùng mẫu: A と B の あいだ に あります."
+  },
+  {
+    "id": "spk_l7_sec4_1",
+    "lesson": 7,
+    "section": "IV. Hành động đang diễn ra (Thể ています)",
+    "grammar_pattern": "[Tân ngữ] を ～V ています。",
+    "question": "いま なにを していますか。",
+    "question_vn": "Người này đang làm gì?",
+    "sample_answer": "うたを うたっています。",
+    "sample_answer_vn": "Đang hát.",
+    "image": "speaking_images/spk_l7_p5_sing.png",
+    "has_picture": true,
+    "keywords": [
+      "うたをうたっています (Đang hát)"
+    ],
+    "exam_tips": "Hành động đang xảy ra trong tranh BẮT BUỘC chia thể Te + います: うたっています, すっています, ひいています!"
+  },
+  {
+    "id": "spk_l7_sec4_2",
+    "lesson": 7,
+    "section": "IV. Hành động đang diễn ra (Thể ています)",
+    "grammar_pattern": "[Tân ngữ] を ～V ています。",
+    "question": "いま なにを していますか。",
+    "question_vn": "Người này đang làm gì?",
+    "sample_answer": "たばこを すっています。",
+    "sample_answer_vn": "Đang hút thuốc lá.",
+    "image": "speaking_images/spk_l7_p5_smoke.png",
+    "has_picture": true,
+    "keywords": [
+      "たばこをすっています (Đang hút thuốc)"
+    ],
+    "exam_tips": "Hành động đang xảy ra trong tranh BẮT BUỘC chia thể Te + います: うたっています, すっています, ひいています!"
+  },
+  {
+    "id": "spk_l7_sec4_3",
+    "lesson": 7,
+    "section": "IV. Hành động đang diễn ra (Thể ています)",
+    "grammar_pattern": "[Tân ngữ] を ～V ています。",
+    "question": "いま だれと はなしていますか。",
+    "question_vn": "Người này đang nói chuyện với ai?",
+    "sample_answer": "ともだちと はなしています。",
+    "sample_answer_vn": "Đang nói chuyện với bạn bè.",
+    "image": "speaking_images/spk_l7_p5_talk.png",
+    "has_picture": true,
+    "keywords": [
+      "ともだちと (Với bạn)",
+      "はなしています (Đang nói chuyện)"
+    ],
+    "exam_tips": "Hành động đang xảy ra trong tranh BẮT BUỘC chia thể Te + います: うたっています, すっています, ひいています!"
+  },
+  {
+    "id": "spk_l7_sec4_4",
+    "lesson": 7,
+    "section": "IV. Hành động đang diễn ra (Thể ています)",
+    "grammar_pattern": "[Tân ngữ] を ～V ています。",
+    "question": "いま なにを していますか。",
+    "question_vn": "Người này đang làm gì?",
+    "sample_answer": "ギターを ひいています。",
+    "sample_answer_vn": "Đang đánh đàn guitar.",
+    "image": "speaking_images/spk_l7_p5_guitar.png",
+    "has_picture": true,
+    "keywords": [
+      "ギターをひいています (Đang gảy đàn guitar)"
+    ],
+    "exam_tips": "Hành động đang xảy ra trong tranh BẮT BUỘC chia thể Te + います: うたっています, すっています, ひいています!"
+  },
+  {
+    "id": "spk_l7_sec4_5",
+    "lesson": 7,
+    "section": "IV. Hành động đang diễn ra (Thể ています)",
+    "grammar_pattern": "[Tân ngữ] を ～V ています。",
+    "question": "いま なにを あらっていますか。",
+    "question_vn": "Người này đang rửa cái gì?",
+    "sample_answer": "おさらを あらっています。",
+    "sample_answer_vn": "Đang rửa đĩa.",
+    "image": "speaking_images/spk_l7_p5_wash_dishes.png",
+    "has_picture": true,
+    "keywords": [
+      "おさら (Cái đĩa)",
+      "あらっています (Đang rửa)"
+    ],
+    "exam_tips": "Hành động đang xảy ra trong tranh BẮT BUỘC chia thể Te + います: うたっています, すっています, ひいています!"
+  },
+  {
+    "id": "spk_l7_sec4_6",
+    "lesson": 7,
+    "section": "IV. Hành động đang diễn ra (Thể ています)",
+    "grammar_pattern": "[Tân ngữ] を ～V ています。",
+    "question": "いま なにを つくっていますか。",
+    "question_vn": "Người này đang làm cái gì?",
+    "sample_answer": "ケーキを つくっています。",
+    "sample_answer_vn": "Đang làm bánh kem.",
+    "image": "speaking_images/spk_l7_p5_make_cake.png",
+    "has_picture": true,
+    "keywords": [
+      "ケーキ (Bánh kem)",
+      "つくっています (Đang làm)"
+    ],
+    "exam_tips": "Hành động đang xảy ra trong tranh BẮT BUỘC chia thể Te + います: うたっています, すっています, ひいています!"
+  },
+  {
+    "id": "spk_l7_sec5_1",
+    "lesson": 7,
+    "section": "V. Xác định người thực hiện hành động (だれが ～Vましたか)",
+    "grammar_pattern": "[Tên người] が ～V ました / ています。",
+    "question": "だれが ケーキを つくりましたか。",
+    "question_vn": "Ai đã làm bánh kem?",
+    "sample_answer": "ワンさんが つくっています。（つくりました）",
+    "sample_answer_vn": "Anh Wang làm.",
+    "image": "speaking_images/spk_l7_p6_wang.png",
+    "has_picture": true,
+    "keywords": [
+      "ワンさん",
+      "ケーキ"
+    ],
+    "exam_tips": "Hỏi だれが (ai làm) -> Trả lời BẮT BUỘC dùng trợ từ が: ワンさんが, アンナさんが!"
+  },
+  {
+    "id": "spk_l7_sec5_2",
+    "lesson": 7,
+    "section": "V. Xác định người thực hiện hành động (だれが ～Vましたか)",
+    "grammar_pattern": "[Tên người] が ～V ました / ています。",
+    "question": "だれが ワインを もってきましたか。",
+    "question_vn": "Ai đã mang rượu vang đến?",
+    "sample_answer": "アンナさんが もってきました。",
+    "sample_answer_vn": "Chị Anna mang đến.",
+    "image": "speaking_images/spk_l7_p6_anna.png",
+    "has_picture": true,
+    "keywords": [
+      "アンナさん",
+      "ワイン",
+      "もってきました (Đã mang đến)"
+    ],
+    "exam_tips": "Hỏi だれが (ai làm) -> Trả lời BẮT BUỘC dùng trợ từ が: ワンさんが, アンナさんが!"
+  },
+  {
+    "id": "spk_l7_sec5_3",
+    "lesson": 7,
+    "section": "V. Xác định người thực hiện hành động (だれが ～Vましたか)",
+    "grammar_pattern": "[Tên người] が ～V ました / ています。",
+    "question": "だれが ふじさんの しゃしんを とりましたか。",
+    "question_vn": "Ai đã chụp ảnh núi Phú Sĩ?",
+    "sample_answer": "パクさんが とりました。",
+    "sample_answer_vn": "Anh Park đã chụp.",
+    "image": "speaking_images/spk_l7_p6_park.png",
+    "has_picture": true,
+    "keywords": [
+      "パクさん",
+      "しゃしんをとりました (Đã chụp ảnh)"
+    ],
+    "exam_tips": "Hỏi だれが (ai làm) -> Trả lời BẮT BUỘC dùng trợ từ が: ワンさんが, アンナさんが!"
+  },
+  {
+    "id": "spk_l7_sec5_4",
+    "lesson": 7,
+    "section": "V. Xác định người thực hiện hành động (だれが ～Vていますか)",
+    "grammar_pattern": "[Tên người] が ～V ています。",
+    "question": "だれが うたを うたっていますか。",
+    "question_vn": "Ai đang hát?",
+    "sample_answer": "カルロスさんが うたっています。",
+    "sample_answer_vn": "Anh Carlos đang hát.",
+    "image": "speaking_images/spk_l7_p7_party_all.png",
+    "has_picture": true,
+    "keywords": [
+      "カルロスさん",
+      "うたっています"
+    ],
+    "exam_tips": "Chủ ngữ câu trả lời đi kèm trợ từ が."
+  },
+  {
+    "id": "spk_l7_sec5_5",
+    "lesson": 7,
+    "section": "V. Xác định người thực hiện hành động (だれが ～Vていますか)",
+    "grammar_pattern": "[Tên người] が ～V ています。",
+    "question": "だれが ギターを ひいていますか。",
+    "question_vn": "Ai đang gảy đàn guitar?",
+    "sample_answer": "メアリーさんが ひいています。",
+    "sample_answer_vn": "Chị Mary đang gảy đàn.",
+    "image": "speaking_images/spk_l7_p7_party_all.png",
+    "has_picture": true,
+    "keywords": [
+      "メアリーさん",
+      "ひいています"
+    ],
+    "exam_tips": "Chủ ngữ câu trả lời đi kèm trợ từ が."
+  },
+  {
+    "id": "spk_l7_yn_1",
+    "lesson": 7,
+    "section": "VI. Câu hỏi vấn đáp Yes/No",
+    "grammar_pattern": "はい、～ています/あります。 / いいえ、～ていません/ありません。",
+    "question": "~さんの うちの ちかくに スーパーが ありますか。",
+    "question_vn": "Gần nhà bạn có siêu thị không?",
+    "sample_answer": "はい、あります。 / いいえ、ありません。",
+    "sample_answer_vn": "Vâng, có. / Không, không có.",
+    "image": "",
+    "has_picture": false,
+    "keywords": [
+      "はい",
+      "いいえ"
+    ],
+    "exam_tips": "Động vật dùng います; đồ vật dùng あります."
+  },
+  {
+    "id": "spk_l7_yn_2",
+    "lesson": 7,
+    "section": "VI. Câu hỏi vấn đáp Yes/No",
+    "grammar_pattern": "はい、～ています/あります。 / いいえ、～ていません/ありません。",
+    "question": "~さんの うちの となりに きょうかいが ありますか。",
+    "question_vn": "Cạnh nhà bạn có nhà thờ không?",
+    "sample_answer": "はい、あります。 / いいえ、ありません。",
+    "sample_answer_vn": "Vâng, có. / Không, không có.",
+    "image": "",
+    "has_picture": false,
+    "keywords": [
+      "はい",
+      "いいえ"
+    ],
+    "exam_tips": "Động vật dùng います; đồ vật dùng あります."
+  },
+  {
+    "id": "spk_l7_yn_3",
+    "lesson": 7,
+    "section": "VI. Câu hỏi vấn đáp Yes/No",
+    "grammar_pattern": "はい、～ています/あります。 / いいえ、～ていません/ありません。",
+    "question": "FPT 大学の よこに ゆうびんきょくが ありますか。",
+    "question_vn": "Bên cạnh trường ĐH FPT có bưu điện không?",
+    "sample_answer": "いいえ、ありません。",
+    "sample_answer_vn": "Không, không có.",
+    "image": "",
+    "has_picture": false,
+    "keywords": [
+      "はい",
+      "いいえ"
+    ],
+    "exam_tips": "Động vật dùng います; đồ vật dùng あります."
+  },
+  {
+    "id": "spk_l7_yn_4",
+    "lesson": 7,
+    "section": "VI. Câu hỏi vấn đáp Yes/No",
+    "grammar_pattern": "はい、～ています/あります。 / いいえ、～ていません/ありません。",
+    "question": "いま けいたいでんわを かけていますか。",
+    "question_vn": "Bây giờ bạn có đang gọi điện thoại không?",
+    "sample_answer": "いいえ、かけていません。",
+    "sample_answer_vn": "Không, tôi không gọi.",
+    "image": "",
+    "has_picture": false,
+    "keywords": [
+      "はい",
+      "いいえ"
+    ],
+    "exam_tips": "Động vật dùng います; đồ vật dùng あります."
+  },
+  {
+    "id": "spk_l7_yn_5",
+    "lesson": 7,
+    "section": "VI. Câu hỏi vấn đáp Yes/No",
+    "grammar_pattern": "はい、～ています/あります。 / いいえ、～ていません/ありません。",
+    "question": "まいにち、ともだちと 学校へ 行っていますか。",
+    "question_vn": "Hàng ngày bạn có đến trường cùng bạn bè không?",
+    "sample_answer": "はい、いっています。",
+    "sample_answer_vn": "Vâng, tôi có đi cùng.",
+    "image": "",
+    "has_picture": false,
+    "keywords": [
+      "はい",
+      "いいえ"
+    ],
+    "exam_tips": "Động vật dùng います; đồ vật dùng あります."
+  },
+  {
+    "id": "spk_l7_yn_6",
+    "lesson": 7,
+    "section": "VI. Câu hỏi vấn đáp Yes/No",
+    "grammar_pattern": "はい、～ています/あります。 / いいえ、～ていません/ありません。",
+    "question": "まいあさ、コーヒーを のんで いますか。",
+    "question_vn": "Mỗi sáng bạn có uống cà phê không?",
+    "sample_answer": "はい、のんでいます。",
+    "sample_answer_vn": "Vâng, tôi có uống.",
+    "image": "",
+    "has_picture": false,
+    "keywords": [
+      "はい",
+      "いいえ"
+    ],
+    "exam_tips": "Động vật dùng います; đồ vật dùng あります."
+  },
+  {
+    "id": "spk_l7_yn_7",
+    "lesson": 7,
+    "section": "VI. Câu hỏi vấn đáp Yes/No",
+    "grammar_pattern": "はい、～ています/あります。 / いいえ、～ていません/ありません。",
+    "question": "~さんの うちの ちかくに いぬが いますか。",
+    "question_vn": "Gần nhà bạn có chó không?",
+    "sample_answer": "はい、います。 / いいえ、いません。",
+    "sample_answer_vn": "Vâng, có.",
+    "image": "",
+    "has_picture": false,
+    "keywords": [
+      "はい",
+      "いいえ"
+    ],
+    "exam_tips": "Động vật dùng います; đồ vật dùng あります."
+  },
+  {
+    "id": "spk_l7_yn_8",
+    "lesson": 7,
+    "section": "VI. Câu hỏi vấn đáp Yes/No",
+    "grammar_pattern": "はい、～ています/あります。 / いいえ、～ていません/ありません。",
+    "question": "日本に じんじゃが ありますか。",
+    "question_vn": "Ở Nhật Bản có đền Thần đạo không?",
+    "sample_answer": "はい、あります。",
+    "sample_answer_vn": "Vâng, có.",
+    "image": "",
+    "has_picture": false,
+    "keywords": [
+      "はい",
+      "いいえ"
+    ],
+    "exam_tips": "Động vật dùng います; đồ vật dùng あります."
+  }
+]

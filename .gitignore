@@ -1,0 +1,16 @@
+# OS & Cache
+.DS_Store
+__pycache__/
+*.py[cod]
+
+# Course slides & raw heavy materials
+JPD113 Slide/
+FALL26_JPD123/
+pdf_page_previews/
+test_crops/
+*.pdf
+*.docx
+*.bak*
+
+# Screenshots
+screenshot_*.png

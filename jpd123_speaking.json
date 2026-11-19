@@ -1,0 +1,489 @@
+{
+  "guide": {
+    "title": "Cấu trúc & Quy chế Thi Speaking JPD123 (Fall 2026)",
+    "duration": "Phỏng vấn trực tiếp 1-1 với giám thị (khoảng 3〜5 phút)",
+    "scoring": [
+      {
+        "section": "Phần 1: READING (Đọc đoạn văn)",
+        "points": "45 / 100 điểm",
+        "desc": "Bốc thăm ngẫu nhiên mã đề đọc (A-1, A-2...). Chuẩn bị 20 giây, đọc trôi chảy đoạn văn ~150 chữ (gồm 5-7 chữ Hán, 2-4 chữ Katakana, KHÔNG có furigana)."
+      },
+      {
+        "section": "Phần 2: Q&A (Vấn đáp 3 câu)",
+        "points": "45 / 100 điểm",
+        "desc": "Giám thị hỏi 3 câu ngẫu nhiên từ mã đề Q&A (B-1, B-2...). Gồm 1 câu hỏi dựa vào tranh và 2 câu hỏi không tranh (thuộc kiến thức Bài 4〜7)."
+      },
+      {
+        "section": "Tác phong & Phát âm",
+        "points": "10 / 100 điểm",
+        "desc": "Chào hỏi lịch sự lúc vào/ra (Hajimemashite, Shitsurei shimasu, Arigatō gozaimashita), phát âm rõ ràng, tự tin."
+      }
+    ],
+    "rules": [
+      "Bắt buộc mang theo CCCD hoặc thẻ sinh viên có ảnh.",
+      "Mỗi câu hỏi được giám thị nhắc lại tối đa 3 lần. Mỗi lần không suy nghĩ quá 10 giây.",
+      "Không được đổi đề thi khi đã bốc thăm."
+    ]
+  },
+  "demo_exam": {
+    "title": "Đề thi Mẫu Chính Thức (Speaking Demo Đề A-0 & B-0)",
+    "reading": {
+      "code": "Đề A-0",
+      "title": "Chuyến đi Hà Nội & Nhà thờ cổ kính",
+      "text": "わたしは 今年の８月に ベトナムへ 行きました。ハノイで ともだちに 会いました。それから、いっしょに ゆうめいな きょうかいへ 行きました。とても きれいでした。おいしい 食べ物も たくさん 食べました。時間が ありませんでした から、ホーチミン市へ 行きませんでした。また ホーチミン市へ 行きたいです。",
+      "romaji": "Watashi wa kotoshi no hachi-gatsu ni Betonamu e ikimashita. Hanoi de tomodachi ni aimashita. Sorekara, issho ni yūmei na kyōkai e ikimashita. Totemo kirei deshita. Oishii tabemono mo takasan tabemashita. Jikan ga arimasen deshita kara, Hōchimin-shi e ikimasen deshita. Mata Hōchimin-shi e ikitai desu.",
+      "translation": "Tháng 8 năm nay tôi đã đến Việt Nam. Tôi đã gặp bạn ở Hà Nội. Sau đó, chúng tôi đã cùng nhau đi đến một ngôi nhà thờ nổi tiếng. Nó đã rất đẹp. Tôi cũng đã ăn rất nhiều món ăn ngon. Vì không có thời gian, nên tôi đã không đi Thành phố Hồ Chí Minh. Tôi muốn lại được đến Thành phố Hồ Chí Minh."
+    },
+    "questions": [
+      {
+        "id": "demo_q1",
+        "code": "B-0.1",
+        "type": "Khoảng cách / Thời gian (Bài 4)",
+        "question": "ハノイから ホーチミンまで どのくらいですか。",
+        "romaji": "Hanoi kara Hōchimin made dono kurai desu ka.",
+        "vn": "Từ Hà Nội đến Hồ Chí Minh mất khoảng bao lâu?",
+        "answers": [
+          {
+            "type": "Đi máy bay",
+            "text": "ひこうきで 2じかん くらいです。",
+            "vn": "Bằng máy bay mất khoảng 2 tiếng."
+          },
+          {
+            "type": "Đi tàu hỏa",
+            "text": "でんしゃで 30じかん くらいです。",
+            "vn": "Bằng tàu hỏa mất khoảng 30 tiếng."
+          }
+        ],
+        "tip": "Nhớ dùng mẫu: [Phương tiện] で [Thời gian] くらいです."
+      },
+      {
+        "id": "demo_q2",
+        "code": "B-0.2",
+        "type": "Nguyện vọng / Sở hữu (Bài 5)",
+        "question": "今、何が 欲しいですか。",
+        "romaji": "Ima, nani ga hoshii desu ka.",
+        "vn": "Bây giờ, bạn muốn có cái gì nhất?",
+        "answers": [
+          {
+            "type": "Muốn tiền",
+            "text": "おかねが ほしいです。",
+            "vn": "Tôi muốn có tiền ạ."
+          },
+          {
+            "type": "Muốn máy tính mới",
+            "text": "あたらしい パソコンが ほしいです。",
+            "vn": "Tôi muốn có một chiếc laptop mới."
+          },
+          {
+            "type": "Muốn xe máy",
+            "text": "あたらしい バイクが ほしいです。",
+            "vn": "Tôi muốn có xe máy mới."
+          }
+        ],
+        "tip": "Dùng trợ từ が đi trước ほしいです: [Đồ vật] が ほしいです."
+      },
+      {
+        "id": "demo_q3",
+        "code": "B-0.3",
+        "type": "So sánh lựa chọn (Bài 6)",
+        "question": "春と 夏と どちらが 好きですか。",
+        "romaji": "Haru to natsu to dochira ga suki desu ka.",
+        "vn": "Giữa mùa xuân và mùa hè bạn thích mùa nào hơn?",
+        "answers": [
+          {
+            "type": "Thích mùa xuân hơn",
+            "text": "はるの ほうが すきです。",
+            "vn": "Tôi thích mùa xuân hơn ạ."
+          },
+          {
+            "type": "Thích mùa hè hơn",
+            "text": "なつの ほうが すきです。",
+            "vn": "Tôi thích mùa hè hơn ạ."
+          },
+          {
+            "type": "Cả hai đều thích",
+            "text": "どちらも すきです。",
+            "vn": "Mùa nào tôi cũng thích cả ạ."
+          }
+        ],
+        "tip": "Mẫu trả lời chuẩn điểm tối đa: [Lựa chọn] の ほうが すきです."
+      }
+    ]
+  },
+  "lesson_questions": [
+    {
+      "id": "sq4_1",
+      "lesson": 4,
+      "category": "Khoảng cách & Thời gian",
+      "question": "～から ～まで どのくらいですか。",
+      "romaji": "~ kara ~ made dono kurai desu ka.",
+      "vn": "Từ ~ đến ~ mất khoảng bao lâu?",
+      "sample_answer": "ひこうきで 2じかん くらいです。",
+      "sample_vn": "Đi máy bay mất khoảng 2 tiếng.",
+      "pattern": "[Phương tiện] で [Thời gian] くらいです。"
+    },
+    {
+      "id": "sq4_2",
+      "lesson": 4,
+      "category": "Khoảng cách & Thời gian",
+      "question": "うちから 大学まで ～で どのくらいですか。",
+      "romaji": "Uchi kara daigaku made ~ de dono kurai desu ka.",
+      "vn": "Từ nhà bạn đến trường đại học bằng [xe máy/bus] mất khoảng bao lâu?",
+      "sample_answer": "バイクで 30ぷん くらいです。",
+      "sample_vn": "Bằng xe máy mất khoảng 30 phút ạ.",
+      "pattern": "[Thời gian] くらいです。"
+    },
+    {
+      "id": "sq4_3",
+      "lesson": 4,
+      "category": "Hỏi bản chất địa danh",
+      "question": "～は どんな ところ／まち／大学／国／人ですか。",
+      "romaji": "~ wa donna tokoro / machi / daigaku / kuni / hito desu ka.",
+      "vn": "~ là nơi / thành phố / đại học / đất nước / người như thế nào?",
+      "sample_answer": "きれいな 大学です。/ しんせつな 人です。",
+      "sample_vn": "Là một trường đại học sạch đẹp. / Là một người tốt bụng.",
+      "pattern": "Aな + N です。 / Aい + N です。"
+    },
+    {
+      "id": "sq4_4",
+      "lesson": 4,
+      "category": "Hỏi bản chất địa danh",
+      "question": "～さんの まちは どんな ところですか。",
+      "romaji": "~-san no machi wa donna tokoro desu ka.",
+      "vn": "Quê / thành phố của bạn là một nơi như thế nào?",
+      "sample_answer": "しずかで きれいな ところです。",
+      "sample_vn": "Là một nơi yên tĩnh và sạch đẹp ạ.",
+      "pattern": "[Tính từ] な ところです。"
+    },
+    {
+      "id": "sq4_5",
+      "lesson": 4,
+      "category": "Hỏi cảm nhận",
+      "question": "FPT大学は どうですか。",
+      "romaji": "FPT daigaku wa dō desu ka.",
+      "vn": "Trường Đại học FPT thì thế nào?",
+      "sample_answer": "とても おおきくて きれいです。",
+      "sample_vn": "Rất to lớn và sạch đẹp ạ.",
+      "pattern": "とても [Tính từ] です。"
+    },
+    {
+      "id": "sq4_6",
+      "lesson": 4,
+      "category": "Hỏi Yes/No Tính từ Na",
+      "question": "～さんの まちは にぎやかですか。",
+      "romaji": "~-san no machi wa nigiyaka desu ka.",
+      "vn": "Thành phố của bạn có náo nhiệt không?",
+      "sample_answer": "はい、とても にぎやかです。 / いいえ、あまり にぎやかじゃありません。",
+      "sample_vn": "Có, rất náo nhiệt. / Không, không náo nhiệt lắm.",
+      "pattern": "はい、Aです。 / いいえ、Aじゃありません。"
+    },
+    {
+      "id": "sq4_7",
+      "lesson": 4,
+      "category": "Hỏi Yes/No Tính từ I",
+      "question": "～さんの まちは 大きいですか。",
+      "romaji": "~-san no machi wa ōkii desu ka.",
+      "vn": "Thành phố của bạn có lớn không?",
+      "sample_answer": "はい、大きいです。 / いいえ、あまり 大きくないです。",
+      "sample_vn": "Có, lớn ạ. / Không, không lớn lắm ạ.",
+      "pattern": "はい、Aいです。 / いいえ、Aくないです。"
+    },
+    {
+      "id": "sq4_8",
+      "lesson": 4,
+      "category": "Tồn tại cảnh quan",
+      "question": "～さんの まちに きょうかい／おてら／やまが ありますか。",
+      "romaji": "~-san no machi ni kyōkai / otera / yama ga arimasu ka.",
+      "vn": "Ở quê bạn có nhà thờ / chùa / núi không?",
+      "sample_answer": "はい、ゆうめいな おてらが あります。 / いいえ、ありません。",
+      "sample_vn": "Có, có một ngôi chùa nổi tiếng ạ. / Dạ không có ạ.",
+      "pattern": "はい、Nが あります。 / いいえ、ありません。"
+    },
+    {
+      "id": "sq4_9",
+      "lesson": 4,
+      "category": "Thời tiết theo mùa/tháng",
+      "question": "ベトナムは ～月／はる、どうですか／あついですか。",
+      "romaji": "Betonamu wa ~-gatsu / haru, dō desu ka / atsui desu ka.",
+      "vn": "Việt Nam vào tháng ~ / mùa xuân thì thế nào? Có nóng không?",
+      "sample_answer": "とても あついです。 / すこし あたたかいです。",
+      "sample_vn": "Rất nóng ạ. / Hơi ấm áp một chút ạ.",
+      "pattern": "とても / すこし [Tính từ] です。"
+    },
+    {
+      "id": "sq5_1",
+      "lesson": 5,
+      "category": "Hành động quá khứ",
+      "question": "きのう／せんしゅう、～さんは 何を しましたか。",
+      "romaji": "Kinō / senshū, ~-san wa nani o shimashita ka.",
+      "vn": "Hôm qua / tuần trước, bạn đã làm gì thế?",
+      "sample_answer": "いえで にほんごを べんきょうしました。それから、えいがを みました。",
+      "sample_vn": "Tôi đã học tiếng Nhật ở nhà. Sau đó, tôi đã xem phim.",
+      "pattern": "V1ました。それから、V2ました。"
+    },
+    {
+      "id": "sq5_2",
+      "lesson": 5,
+      "category": "Nơi chốn Yes/No",
+      "question": "きのう どこかへ 行きましたか。",
+      "romaji": "Kinō dokoka e ikimashita ka.",
+      "vn": "Hôm qua bạn có đi đâu chơi không?",
+      "sample_answer": "はい、スーパーへ 行きました。 / いいえ、どこへも 行きませんでした。",
+      "sample_vn": "Có, tôi đã đi siêu thị. / Không, tôi chẳng đi đâu cả.",
+      "pattern": "はい、[Địa điểm]へ 行きました。 / いいえ、どこへも 行きませんでした。"
+    },
+    {
+      "id": "sq5_3",
+      "lesson": 5,
+      "category": "Làm cùng ai",
+      "question": "せんしゅう、～さんは だれと ～Vましたか。",
+      "romaji": "Senshū, ~-san wa dare to ~-mashita ka.",
+      "vn": "Tuần trước bạn đã [đi chơi / ăn cơm] cùng với ai?",
+      "sample_answer": "ともだちと 行きました。 / ひとりで 行きました。",
+      "sample_vn": "Tôi đã đi cùng bạn bè. / Tôi đã đi một mình.",
+      "pattern": "[Người] と Vました。 / ひとりで Vました。"
+    },
+    {
+      "id": "sq5_4",
+      "lesson": 5,
+      "category": "Hỏi lý do",
+      "question": "～さんは きのう どうして 学校へ 行きませんでしたか。",
+      "romaji": "~-san wa kinō dōshite gakkō e ikimasen deshita ka.",
+      "vn": "Tại sao hôm qua bạn lại không đến trường?",
+      "sample_answer": "あたまが いたかったですから。 / いそがしかったですから。",
+      "sample_vn": "Vì tôi đã bị đau đầu ạ. / Vì tôi bận quá ạ.",
+      "pattern": "[Lý do] から。"
+    },
+    {
+      "id": "sq5_5",
+      "lesson": 5,
+      "category": "Mong muốn sở hữu",
+      "question": "今、～さんは 何が いちばん ほしいですか。",
+      "romaji": "Ima, ~-san wa nani ga ichiban hoshii desu ka.",
+      "vn": "Bây giờ bạn muốn có cái gì nhất?",
+      "sample_answer": "あたらしい パソコンが ほしいです。",
+      "sample_vn": "Tôi muốn có một chiếc máy tính xách tay mới ạ.",
+      "pattern": "[N] が ほしいです。"
+    },
+    {
+      "id": "sq5_6",
+      "lesson": 5,
+      "category": "Sở thích",
+      "question": "今、～さんは 何が いちばん すきですか。",
+      "romaji": "Ima, ~-san wa nani ga ichiban suki desu ka.",
+      "vn": "Hiện tại bạn thích điều gì / môn gì nhất?",
+      "sample_answer": "にほんの アニメが いちばん すきです。",
+      "sample_vn": "Tôi thích anime Nhật Bản nhất ạ.",
+      "pattern": "[N] が いちばん すきです。"
+    },
+    {
+      "id": "sq5_7",
+      "lesson": 5,
+      "category": "Giả định hành động muốn làm",
+      "question": "今、～さんは お金が たくさん あります。何を したいですか。",
+      "romaji": "Ima, ~-san wa okane ga takasan arimasu. Nani o shitai desu ka.",
+      "vn": "Bây giờ nếu có thật nhiều tiền, bạn muốn làm gì?",
+      "sample_answer": "日本へ りょこうしたいです。 / いえを かいたいです。",
+      "sample_vn": "Tôi muốn đi du lịch Nhật Bản. / Tôi muốn mua một ngôi nhà.",
+      "pattern": "V(bỏ ます) たいです。"
+    },
+    {
+      "id": "sq5_8",
+      "lesson": 5,
+      "category": "Mục đích di chuyển",
+      "question": "～さんは あした 何を しに 行きますか。",
+      "romaji": "~-san wa ashita nani o shi ni ikimasu ka.",
+      "vn": "Ngày mai bạn đi đâu để làm gì?",
+      "sample_answer": "大学へ にほんごを べんきょうしに 行きます。",
+      "sample_vn": "Tôi đến trường đại học để học tiếng Nhật.",
+      "pattern": "[Địa điểm] へ [Hành động] に 行きます。"
+    },
+    {
+      "id": "sq6_1",
+      "lesson": 6,
+      "category": "Rủ rê & Hồi đáp",
+      "question": "こんばん、いっしょに ～Vませんか。",
+      "romaji": "Konban, issho ni ~-masen ka.",
+      "vn": "Tối nay cùng nhau [đi uống cà phê / ăn tối] không?",
+      "sample_answer": "いいですね。いきましょう。 / すみません、きょうは ちょっと... ようじが ありますから。",
+      "sample_vn": "Hay quá! Cùng đi nhé! / Xin lỗi, hôm nay tôi bận chút việc mất rồi.",
+      "pattern": "いいですね。~ましょう。 / すみません、~は ちょっと... ~から。"
+    },
+    {
+      "id": "sq6_2",
+      "lesson": 6,
+      "category": "Sự kiện tại địa điểm",
+      "question": "～で 何が ありますか。",
+      "romaji": "~ de nani ga arimasu ka.",
+      "vn": "Ở [công viên / sân vận động] có sự kiện gì thế?",
+      "sample_answer": "サッカーの しあいが あります。 / おまつりが あります。",
+      "sample_vn": "Có trận đấu bóng đá ạ. / Có lễ hội ạ.",
+      "pattern": "[Sự kiện] が あります。"
+    },
+    {
+      "id": "sq6_3",
+      "lesson": 6,
+      "category": "So sánh nhất (Môn thể thao / Món ăn)",
+      "question": "～で 何が いちばん Aですか。",
+      "romaji": "~ de nani ga ichiban A desu ka.",
+      "vn": "Trong số [thể thao / đồ ăn], cái gì là A nhất?",
+      "sample_answer": "スポーツで サッカーが いちばん おもしろいです。",
+      "sample_vn": "Trong các môn thể thao thì bóng đá là thú vị nhất ạ.",
+      "pattern": "[N] が いちばん A です。"
+    },
+    {
+      "id": "sq6_4",
+      "lesson": 6,
+      "category": "So sánh nhất (Người)",
+      "question": "クラス／かぞくで だれが いちばん Aですか。",
+      "romaji": "Kurasu / kazoku de dare ga ichiban A desu ka.",
+      "vn": "Trong lớp / gia đình bạn ai là người A nhất?",
+      "sample_answer": "父が いちばん せが たかいです。 / ナムさんが いちばん しんせつです。",
+      "sample_vn": "Bố tôi là người cao nhất. / Bạn Nam là người tốt bụng nhất.",
+      "pattern": "[Người] が いちばん A です。"
+    },
+    {
+      "id": "sq6_5",
+      "lesson": 6,
+      "category": "So sánh nhất (Địa điểm)",
+      "question": "ベトナムで どこが いちばん Aですか。",
+      "romaji": "Betonamu de doko ga ichiban A desu ka.",
+      "vn": "Ở Việt Nam nơi nào là A nhất (đẹp nhất / náo nhiệt nhất)?",
+      "sample_answer": "ダナンが いちばん きれいです。 / ホーチミン市が いちばん にぎやかです。",
+      "sample_vn": "Đà Nẵng là đẹp nhất ạ. / TP.HCM là náo nhiệt nhất ạ.",
+      "pattern": "[Địa danh] が いちばん A です。"
+    },
+    {
+      "id": "sq6_6",
+      "lesson": 6,
+      "category": "So sánh nhất (Thời gian / Tháng)",
+      "question": "1年で 何月が いちばん Aですか。",
+      "romaji": "Ichi-nen de nan-gatsu ga ichiban A desu ka.",
+      "vn": "Trong một năm thì tháng mấy là A nhất (nóng nhất / lạnh nhất)?",
+      "sample_answer": "6がつが いちばん あついです。 / 12がつが いちばん さむいです。",
+      "sample_vn": "Tháng 6 là nóng nhất ạ. / Tháng 12 là lạnh nhất ạ.",
+      "pattern": "[Tháng] が いちばん A です。"
+    },
+    {
+      "id": "sq6_7",
+      "lesson": 6,
+      "category": "So sánh lựa chọn 2 bên",
+      "question": "～と ～と どちらが Aですか。",
+      "romaji": "~ to ~ to dochira ga A desu ka.",
+      "vn": "Giữa ~ và ~ thì bên nào A hơn?",
+      "sample_answer": "～の ほうが Aです。 / どちらも Aです。",
+      "sample_vn": "Bên ~ thì A hơn ạ. / Cả hai bên đều A ạ.",
+      "pattern": "[N] の ほうが A です。"
+    },
+    {
+      "id": "sq6_8",
+      "lesson": 6,
+      "category": "Hỏi đã làm gì chưa (もう)",
+      "question": "もう ～Vましたか。",
+      "romaji": "Mō ~-mashita ka.",
+      "vn": "Bạn đã làm ~ rồi chưa?",
+      "sample_answer": "はい、もう Vました。 / いいえ、まだです。",
+      "sample_vn": "Vâng, tôi đã làm rồi ạ. / Dạ chưa, tôi vẫn chưa làm ạ.",
+      "pattern": "はい、もう Vました。 / いいえ、まだです。"
+    },
+    {
+      "id": "sq7_1",
+      "lesson": 7,
+      "category": "Vị trí địa điểm công cộng",
+      "question": "～さんの うち／FPT大学は どこに ありますか。",
+      "romaji": "~-san no uchi / FPT daigaku wa doko ni arimasu ka.",
+      "vn": "Nhà bạn / Trường Đại học FPT ở đâu thế?",
+      "sample_answer": "ハノイに あります。えきの ちかくに あります。",
+      "sample_vn": "Ở Hà Nội ạ. Ở gần nhà ga ạ.",
+      "pattern": "[Địa điểm/Vị trí] に あります。"
+    },
+    {
+      "id": "sq7_2",
+      "lesson": 7,
+      "category": "Vị trí người / con vật",
+      "question": "～さん／ねこ／いぬは どこに いますか。",
+      "romaji": "~-san / neko / inu wa doko ni imasu ka.",
+      "vn": "Bạn ~ / con mèo / con chó đang ở đâu thế?",
+      "sample_answer": "きょうしつに います。 / にわに います。",
+      "sample_vn": "Đang ở trong lớp học ạ. / Đang ở ngoài vườn ạ.",
+      "pattern": "[Vị trí] に います。"
+    },
+    {
+      "id": "sq7_3",
+      "lesson": 7,
+      "category": "Vị trí xung quanh",
+      "question": "～の 近くに 何が ありますか。",
+      "romaji": "~ no chikaku ni nani ga arimasu ka.",
+      "vn": "Ở gần ~ có cái gì thế?",
+      "sample_answer": "コンビニや スーパーが あります。",
+      "sample_vn": "Có cửa hàng tiện lợi và siêu thị ạ.",
+      "pattern": "[Đồ vật/Công trình] が あります。"
+    },
+    {
+      "id": "sq7_4",
+      "lesson": 7,
+      "category": "Vị trí xung quanh nhà",
+      "question": "～さんの うちの 近くに 何が ありますか。",
+      "romaji": "~-san no uchi no chikaku ni nani ga arimasu ka.",
+      "vn": "Gần nhà bạn có những tiện ích gì?",
+      "sample_answer": "おおきい こうえんが あります。",
+      "sample_vn": "Có một công viên lớn ạ.",
+      "pattern": "[Tính từ + N] が あります。"
+    },
+    {
+      "id": "sq7_5",
+      "lesson": 7,
+      "category": "Dụng cụ / Công cụ",
+      "question": "何で パン／やさい／りんごを きりますか。",
+      "romaji": "Nan de pan / yasai / ringo o kirimasu ka.",
+      "vn": "Bạn cắt bánh mì / rau củ / quả táo bằng cái gì?",
+      "sample_answer": "ナイフで きります。",
+      "sample_vn": "Tôi cắt bằng dao ạ.",
+      "pattern": "[Dụng cụ] で きります。"
+    },
+    {
+      "id": "sq7_6",
+      "lesson": 7,
+      "category": "Văn hóa ăn uống dụng cụ",
+      "question": "ベトナム人は フォークと ナイフで ご飯を 食べますか。",
+      "romaji": "Betonamujin wa fōku to naifu de gohan o tabemasu ka.",
+      "vn": "Người Việt Nam ăn cơm bằng dao nĩa phải không?",
+      "sample_answer": "いいえ、はしで 食べます。",
+      "sample_vn": "Dạ không, ăn bằng đũa ạ.",
+      "pattern": "いいえ、はしで 食べます。"
+    },
+    {
+      "id": "sq7_7",
+      "lesson": 7,
+      "category": "Dụng cụ ăn uống các nước",
+      "question": "日本人／ベトナム人／アメリカ人／インド人は 何で ご飯を 食べますか。",
+      "romaji": "Nihonjin / Betonamujin / Amerikajin / Indojin wa nan de gohan o tabemasu ka.",
+      "vn": "Người Nhật / Việt / Mỹ / Ấn Độ ăn cơm bằng gì?",
+      "sample_answer": "日本人は はしで 食べます。 / アメリカ人は フォークと スプーンで 食べます。 / インド人は 手で 食べます。",
+      "sample_vn": "Người Nhật ăn bằng đũa. / Người Mỹ ăn bằng nĩa và thìa. / Người Ấn ăn bằng tay.",
+      "pattern": "[Người nước nào] は [Dụng cụ] で 食べます。"
+    },
+    {
+      "id": "sq7_8",
+      "lesson": 7,
+      "category": "Hành động đang diễn ra",
+      "question": "～さんは 今、何を していますか。",
+      "romaji": "~-san wa ima, nani o shite imasu ka.",
+      "vn": "Bây giờ bạn đang làm gì thế?",
+      "sample_answer": "先生と にほんごで はなしています。 / にほんごの テストを うけています。",
+      "sample_vn": "Tôi đang nói chuyện bằng tiếng Nhật với thầy cô. / Tôi đang làm bài thi tiếng Nhật ạ.",
+      "pattern": "Vて います。"
+    },
+    {
+      "id": "sq7_9",
+      "lesson": 7,
+      "category": "Nhấn mạnh ai đang/đã làm",
+      "question": "だれが ～Vていますか / Vましたか。",
+      "romaji": "Dare ga ~-te imasu ka / ~-mashita ka.",
+      "vn": "Ai đang làm / đã làm việc đó thế?",
+      "sample_answer": "ナムさんが うたを うたっています。 / ワンさんが ケーキを つくりました。",
+      "sample_vn": "Bạn Nam đang hát ạ. / Anh Wang đã làm bánh ngọt ạ.",
+      "pattern": "[Người] が Vています / Vました。"
+    }
+  ]
+}

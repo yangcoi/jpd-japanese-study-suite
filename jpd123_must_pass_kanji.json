@@ -1,0 +1,782 @@
+[
+  {
+    "kanji": "今日",
+    "hiragana": "きょう",
+    "romaji": "kyou",
+    "hanViet": "KIM NHẬT",
+    "meaning": "Hôm nay",
+    "category": "time",
+    "sub": "time_matrix",
+    "tip": "KIM (nay) + NHẬT (ngày). Âm đặc biệt kyou."
+  },
+  {
+    "kanji": "明日",
+    "hiragana": "あした",
+    "romaji": "ashita",
+    "hanViet": "MINH NHẬT",
+    "meaning": "Ngày mai",
+    "category": "time",
+    "sub": "time_matrix",
+    "tip": "MINH (sáng/mai) + NHẬT. Đọc ashita (hoặc asu)."
+  },
+  {
+    "kanji": "明後日",
+    "hiragana": "あさって",
+    "romaji": "asatte",
+    "hanViet": "MINH HẬU NHẬT",
+    "meaning": "Ngày kia (2 ngày nữa)",
+    "category": "time",
+    "sub": "time_matrix",
+    "tip": "Ngày sau ngày mai."
+  },
+  {
+    "kanji": "昨日",
+    "hiragana": "きのう",
+    "romaji": "kinou",
+    "hanViet": "TÁC NHẬT",
+    "meaning": "Hôm qua",
+    "category": "time",
+    "sub": "time_matrix",
+    "tip": "TÁC (đã qua) + NHẬT. Thấy chữ này động từ chia ました!"
+  },
+  {
+    "kanji": "一昨日",
+    "hiragana": "おととい",
+    "romaji": "ototoi",
+    "hanViet": "NHẤT TÁC NHẬT",
+    "meaning": "Hôm kia (2 ngày trước)",
+    "category": "time",
+    "sub": "time_matrix",
+    "tip": "Trước hôm qua 1 ngày."
+  },
+  {
+    "kanji": "今週",
+    "hiragana": "こんしゅう",
+    "romaji": "konshuu",
+    "hanViet": "KIM CHU",
+    "meaning": "Tuần này",
+    "category": "time",
+    "sub": "time_matrix",
+    "tip": "KIM (kon) + CHU (shuu)."
+  },
+  {
+    "kanji": "来週",
+    "hiragana": "らいしゅう",
+    "romaji": "raishuu",
+    "hanViet": "LAI CHU",
+    "meaning": "Tuần sau",
+    "category": "time",
+    "sub": "time_matrix",
+    "tip": "LAI (đến/tới) = tuần tới."
+  },
+  {
+    "kanji": "再来週",
+    "hiragana": "さらいしゅう",
+    "romaji": "saraishuu",
+    "hanViet": "TÁI LAI CHU",
+    "meaning": "Tuần sau nữa",
+    "category": "time",
+    "sub": "time_matrix",
+    "tip": "TÁI (lại thêm 1 lần lai) = 2 tuần nữa."
+  },
+  {
+    "kanji": "先週",
+    "hiragana": "せんしゅう",
+    "romaji": "senshuu",
+    "hanViet": "TIÊN CHU",
+    "meaning": "Tuần trước",
+    "category": "time",
+    "sub": "time_matrix",
+    "tip": "TIÊN (trước) = tuần trước. Động từ chia ました!"
+  },
+  {
+    "kanji": "毎週",
+    "hiragana": "まいしゅう",
+    "romaji": "maishuu",
+    "hanViet": "MỖI CHU",
+    "meaning": "Mỗi tuần",
+    "category": "time",
+    "sub": "time_matrix",
+    "tip": "MỖI (hàng/mỗi) = đều đặn mỗi tuần."
+  },
+  {
+    "kanji": "今月",
+    "hiragana": "こんげつ",
+    "romaji": "kongetsu",
+    "hanViet": "KIM NGUYỆT",
+    "meaning": "Tháng này",
+    "category": "time",
+    "sub": "time_matrix",
+    "tip": "KIM (kon) + NGUYỆT (getsu)."
+  },
+  {
+    "kanji": "来月",
+    "hiragana": "らいげつ",
+    "romaji": "raigetsu",
+    "hanViet": "LAI NGUYỆT",
+    "meaning": "Tháng sau",
+    "category": "time",
+    "sub": "time_matrix",
+    "tip": "LAI (rai) + NGUYỆT (getsu)."
+  },
+  {
+    "kanji": "再来月",
+    "hiragana": "さらいげつ",
+    "romaji": "saraigetsu",
+    "hanViet": "TÁI LAI NGUYỆT",
+    "meaning": "Tháng sau nữa",
+    "category": "time",
+    "sub": "time_matrix",
+    "tip": "2 tháng nữa."
+  },
+  {
+    "kanji": "先月",
+    "hiragana": "せんげつ",
+    "romaji": "sengetsu",
+    "hanViet": "TIÊN NGUYỆT",
+    "meaning": "Tháng trước",
+    "category": "time",
+    "sub": "time_matrix",
+    "tip": "TIÊN (sen) + NGUYỆT (getsu)."
+  },
+  {
+    "kanji": "毎月",
+    "hiragana": "まいつき",
+    "romaji": "maitsuki",
+    "hanViet": "MỖI NGUYỆT",
+    "meaning": "Mỗi tháng",
+    "category": "time",
+    "sub": "time_matrix",
+    "tip": "Thường đọc maitsuki (hoặc maigetsu)."
+  },
+  {
+    "kanji": "今年",
+    "hiragana": "ことし",
+    "romaji": "kotoshi",
+    "hanViet": "KIM NIÊN",
+    "meaning": "Năm nay",
+    "category": "time",
+    "sub": "time_matrix",
+    "tip": "KIM + NIÊN. Đọc đặc biệt: kotoshi."
+  },
+  {
+    "kanji": "来年",
+    "hiragana": "らいねん",
+    "romaji": "rainen",
+    "hanViet": "LAI NIÊN",
+    "meaning": "Năm sau",
+    "category": "time",
+    "sub": "time_matrix",
+    "tip": "LAI (rai) + NIÊN (nen)."
+  },
+  {
+    "kanji": "再来年",
+    "hiragana": "さらいねん",
+    "romaji": "sarainen",
+    "hanViet": "TÁI LAI NIÊN",
+    "meaning": "Năm sau nữa",
+    "category": "time",
+    "sub": "time_matrix",
+    "tip": "2 năm nữa."
+  },
+  {
+    "kanji": "去年",
+    "hiragana": "きょねん",
+    "romaji": "kyonen",
+    "hanViet": "KHỨ NIÊN",
+    "meaning": "Năm ngoái",
+    "category": "time",
+    "sub": "time_matrix",
+    "tip": "KHỨ (đã qua) + NIÊN. Đọc kyonen. Động từ quá khứ!"
+  },
+  {
+    "kanji": "毎年",
+    "hiragana": "まいとし",
+    "romaji": "maitoshi",
+    "hanViet": "MỖI NIÊN",
+    "meaning": "Mỗi năm",
+    "category": "time",
+    "sub": "time_matrix",
+    "tip": "Đọc maitoshi (hoặc mainen)."
+  },
+  {
+    "kanji": "毎日",
+    "hiragana": "まいにち",
+    "romaji": "mainichi",
+    "hanViet": "MỖI NHẬT",
+    "meaning": "Mỗi ngày",
+    "category": "time",
+    "sub": "time_matrix",
+    "tip": "Chỉ thói quen hàng ngày."
+  },
+  {
+    "kanji": "毎朝",
+    "hiragana": "まいあさ",
+    "romaji": "maiasa",
+    "hanViet": "MỖI TRIÊU",
+    "meaning": "Mỗi sáng",
+    "category": "time",
+    "sub": "time_matrix",
+    "tip": "TRIÊU = buổi sáng. Đọc maiasa."
+  },
+  {
+    "kanji": "毎晩",
+    "hiragana": "まいばん",
+    "romaji": "maiban",
+    "hanViet": "MỖI VÃN",
+    "meaning": "Mỗi tối",
+    "category": "time",
+    "sub": "time_matrix",
+    "tip": "VÃN = buổi tối. Đọc maiban."
+  },
+  {
+    "kanji": "今朝",
+    "hiragana": "けさ",
+    "romaji": "kesa",
+    "hanViet": "KIM TRIÊU",
+    "meaning": "Sáng nay",
+    "category": "time",
+    "sub": "time_matrix",
+    "tip": "Đọc đặc biệt: kesa."
+  },
+  {
+    "kanji": "今晩",
+    "hiragana": "こんばん",
+    "romaji": "konban",
+    "hanViet": "KIM VÃN",
+    "meaning": "Tối nay",
+    "category": "time",
+    "sub": "time_matrix",
+    "tip": "KIM + VÃN. Đọc konban."
+  },
+  {
+    "kanji": "時間",
+    "hiragana": "じかん",
+    "romaji": "jikan",
+    "hanViet": "THỜI GIAN",
+    "meaning": "Thời gian",
+    "category": "time",
+    "sub": "time_matrix",
+    "tip": "THỜI (giờ) + GIAN (khoảng)."
+  },
+  {
+    "kanji": "月曜日",
+    "hiragana": "げつようび",
+    "romaji": "getsuyoubi",
+    "hanViet": "NGUYỆT DIỆU NHẬT",
+    "meaning": "Thứ 2",
+    "category": "time",
+    "sub": "weekdays",
+    "tip": "Nguyệt (Mặt trăng) = Ngày đầu tuần."
+  },
+  {
+    "kanji": "火曜日",
+    "hiragana": "かようび",
+    "romaji": "kayoubi",
+    "hanViet": "HỎA DIỆU NHẬT",
+    "meaning": "Thứ 3",
+    "category": "time",
+    "sub": "weekdays",
+    "tip": "Hỏa (Lửa) = Thứ 3 bốc hỏa."
+  },
+  {
+    "kanji": "水曜日",
+    "hiragana": "すいようび",
+    "romaji": "suiyoubi",
+    "hanViet": "THỦY DIỆU NHẬT",
+    "meaning": "Thứ 4",
+    "category": "time",
+    "sub": "weekdays",
+    "tip": "Thủy (Nước) = Giữa tuần uống nước."
+  },
+  {
+    "kanji": "木曜日",
+    "hiragana": "もくようび",
+    "romaji": "mokuyoubi",
+    "hanViet": "MỘC DIỆU NHẬT",
+    "meaning": "Thứ 5",
+    "category": "time",
+    "sub": "weekdays",
+    "tip": "Mộc (Cây) = Thứ 5 trồng cây."
+  },
+  {
+    "kanji": "金曜日",
+    "hiragana": "きんようび",
+    "romaji": "kinyoubi",
+    "hanViet": "KIM DIỆU NHẬT",
+    "meaning": "Thứ 6",
+    "category": "time",
+    "sub": "weekdays",
+    "tip": "Kim (Vàng/Tiền) = Lĩnh lương cuối tuần!"
+  },
+  {
+    "kanji": "土曜日",
+    "hiragana": "どようび",
+    "romaji": "doyoubi",
+    "hanViet": "THỔ DIỆU NHẬT",
+    "meaning": "Thứ 7",
+    "category": "time",
+    "sub": "weekdays",
+    "tip": "Thổ (Đất) = Thứ 7 về quê cắm trại."
+  },
+  {
+    "kanji": "日曜日",
+    "hiragana": "にちようび",
+    "romaji": "nichiyoubi",
+    "hanViet": "NHẬT DIỆU NHẬT",
+    "meaning": "Chủ nhật",
+    "category": "time",
+    "sub": "weekdays",
+    "tip": "Nhật (Mặt trời) = Ngày chủ nhật rực rỡ."
+  },
+  {
+    "kanji": "1日",
+    "hiragana": "ついたち",
+    "romaji": "tsuitachi",
+    "hanViet": "NHẤT NHẬT",
+    "meaning": "Ngày mùng 1",
+    "category": "time",
+    "sub": "special_dates",
+    "tip": "Đặc biệt: tsuitachi (không đọc ichinichi khi chỉ ngày)."
+  },
+  {
+    "kanji": "2日",
+    "hiragana": "ふつか",
+    "romaji": "futsuka",
+    "hanViet": "NHỊ NHẬT",
+    "meaning": "Ngày mùng 2",
+    "category": "time",
+    "sub": "special_dates",
+    "tip": "Đặc biệt: futsuka."
+  },
+  {
+    "kanji": "3日",
+    "hiragana": "みっか",
+    "romaji": "mikka",
+    "hanViet": "TAM NHẬT",
+    "meaning": "Ngày mùng 3",
+    "category": "time",
+    "sub": "special_dates",
+    "tip": "Đặc biệt: mikka (âm ngắt)."
+  },
+  {
+    "kanji": "4日",
+    "hiragana": "よっか",
+    "romaji": "yokka",
+    "hanViet": "TỨ NHẬT",
+    "meaning": "Ngày mùng 4",
+    "category": "time",
+    "sub": "special_dates",
+    "tip": "Đặc biệt: yokka (âm ngắt)."
+  },
+  {
+    "kanji": "5日",
+    "hiragana": "いつか",
+    "romaji": "itsuka",
+    "hanViet": "NGŨ NHẬT",
+    "meaning": "Ngày mùng 5",
+    "category": "time",
+    "sub": "special_dates",
+    "tip": "Đặc biệt: itsuka."
+  },
+  {
+    "kanji": "6日",
+    "hiragana": "むいか",
+    "romaji": "muika",
+    "hanViet": "LỤC NHẬT",
+    "meaning": "Ngày mùng 6",
+    "category": "time",
+    "sub": "special_dates",
+    "tip": "Đặc biệt: muika."
+  },
+  {
+    "kanji": "7日",
+    "hiragana": "なのか",
+    "romaji": "nanoka",
+    "hanViet": "THẤT NHẬT",
+    "meaning": "Ngày mùng 7",
+    "category": "time",
+    "sub": "special_dates",
+    "tip": "Đặc biệt: nanoka."
+  },
+  {
+    "kanji": "8日",
+    "hiragana": "ようか",
+    "romaji": "youka",
+    "hanViet": "BÁT NHẬT",
+    "meaning": "Ngày mùng 8",
+    "category": "time",
+    "sub": "special_dates",
+    "tip": "Đặc biệt: youka (trường âm ou)."
+  },
+  {
+    "kanji": "9日",
+    "hiragana": "ここのか",
+    "romaji": "kokonoka",
+    "hanViet": "CỬU NHẬT",
+    "meaning": "Ngày mùng 9",
+    "category": "time",
+    "sub": "special_dates",
+    "tip": "Đặc biệt: kokonoka."
+  },
+  {
+    "kanji": "10日",
+    "hiragana": "とおか",
+    "romaji": "tooka",
+    "hanViet": "THẬP NHẬT",
+    "meaning": "Ngày mùng 10",
+    "category": "time",
+    "sub": "special_dates",
+    "tip": "Đặc biệt: tooka."
+  },
+  {
+    "kanji": "14日",
+    "hiragana": "じゅうよっか",
+    "romaji": "juuyokka",
+    "hanViet": "THẬP TỨ NHẬT",
+    "meaning": "Ngày 14",
+    "category": "time",
+    "sub": "special_dates",
+    "tip": "10 (juu) + 4 ngày (yokka)."
+  },
+  {
+    "kanji": "20日",
+    "hiragana": "はつか",
+    "romaji": "hatsuka",
+    "hanViet": "NHỊ THẬP NHẬT",
+    "meaning": "Ngày 20",
+    "category": "time",
+    "sub": "special_dates",
+    "tip": "Đặc biệt: hatsuka (không đọc nijunichi)."
+  },
+  {
+    "kanji": "24日",
+    "hiragana": "にじゅうよっか",
+    "romaji": "nijuuyokka",
+    "hanViet": "NHỊ THẬP TỨ NHẬT",
+    "meaning": "Ngày 24",
+    "category": "time",
+    "sub": "special_dates",
+    "tip": "20 (nijyuu) + 4 ngày (yokka)."
+  },
+  {
+    "kanji": "行きます",
+    "hiragana": "いきます",
+    "romaji": "ikimasu",
+    "hanViet": "HÀNH",
+    "meaning": "Đi (đến nơi khác)",
+    "category": "verb",
+    "sub": "core_verbs",
+    "tip": "HÀNH (bước đi). Quá khứ: 行きました (đã đi). Thể Te: 行って."
+  },
+  {
+    "kanji": "来ます",
+    "hiragana": "きます",
+    "romaji": "kimasu",
+    "hanViet": "LAI",
+    "meaning": "Đến (tới chỗ mình)",
+    "category": "verb",
+    "sub": "core_verbs",
+    "tip": "LAI. Động từ nhóm 3! Đến: 来ます (kimasu), Đã đến: 来ました (kimashita)."
+  },
+  {
+    "kanji": "帰ります",
+    "hiragana": "かえります",
+    "romaji": "kaerimasu",
+    "hanViet": "QUY",
+    "meaning": "Về (nhà, nước, phòng)",
+    "category": "verb",
+    "sub": "core_verbs",
+    "tip": "QUY (trở về). Có bộ 辶 (chân bước). Quá khứ: 帰りました."
+  },
+  {
+    "kanji": "食べます",
+    "hiragana": "たべます",
+    "romaji": "tabemasu",
+    "hanViet": "THỰC",
+    "meaning": "Ăn",
+    "category": "verb",
+    "sub": "core_verbs",
+    "tip": "Bộ THỰC (ăn). Đồ ăn = 食べ物 (tabemono). Đã ăn = 食べました."
+  },
+  {
+    "kanji": "飲みます",
+    "hiragana": "のみます",
+    "romaji": "nomimasu",
+    "hanViet": "ẨM",
+    "meaning": "Uống",
+    "category": "verb",
+    "sub": "core_verbs",
+    "tip": "Bộ THỰC + KHUYẾT. Đồ uống = 飲み物 (nomimono). Đã uống = 飲みました."
+  },
+  {
+    "kanji": "会います",
+    "hiragana": "あいます",
+    "romaji": "aimasu",
+    "hanViet": "HỘI",
+    "meaning": "Gặp gỡ",
+    "category": "verb",
+    "sub": "core_verbs",
+    "tip": "Đi với trợ từ に! 友達に会います (Gặp bạn). HỘI = gặp."
+  },
+  {
+    "kanji": "見ます",
+    "hiragana": "みます",
+    "romaji": "mimasu",
+    "hanViet": "KIẾN",
+    "meaning": "Xem, nhìn",
+    "category": "verb",
+    "sub": "core_verbs",
+    "tip": "Bộ MỤC (mắt). テレビを見ます (Xem tivi)."
+  },
+  {
+    "kanji": "聞きます",
+    "hiragana": "ききます",
+    "romaji": "kikimasu",
+    "hanViet": "VĂN",
+    "meaning": "Nghe, hỏi",
+    "category": "verb",
+    "sub": "core_verbs",
+    "tip": "Bộ MÔN (cửa) kẹp tai (NHĨ) bên trong = ghé tai nghe."
+  },
+  {
+    "kanji": "読みます",
+    "hiragana": "よみます",
+    "romaji": "yomimasu",
+    "hanViet": "ĐỘC",
+    "meaning": "Đọc",
+    "category": "verb",
+    "sub": "core_verbs",
+    "tip": "Bộ NGÔN (lời nói) bên trái. 本を読みます (Đọc sách)."
+  },
+  {
+    "kanji": "書きます",
+    "hiragana": "かきます",
+    "romaji": "kakimasu",
+    "hanViet": "THƯ",
+    "meaning": "Viết, vẽ",
+    "category": "verb",
+    "sub": "core_verbs",
+    "tip": "THƯ (viết sách, thư từ). 手紙を書きます (Viết thư)."
+  },
+  {
+    "kanji": "買います",
+    "hiragana": "かいます",
+    "romaji": "kaimasu",
+    "hanViet": "MÃI",
+    "meaning": "Mua",
+    "category": "verb",
+    "sub": "core_verbs",
+    "tip": "Bộ BỐI (vỏ sò/tiền cổ). 買い物 = mua sắm."
+  },
+  {
+    "kanji": "話します",
+    "hiragana": "はなします",
+    "romaji": "hanashimasu",
+    "hanViet": "THOẠI",
+    "meaning": "Nói chuyện",
+    "category": "verb",
+    "sub": "core_verbs",
+    "tip": "Bộ NGÔN (nói) + LƯỠI. 日本語で話します (Nói bằng tiếng Nhật)."
+  },
+  {
+    "kanji": "起きます",
+    "hiragana": "おきます",
+    "romaji": "okimasu",
+    "hanViet": "KHỞI",
+    "meaning": "Thức dậy",
+    "category": "verb",
+    "sub": "core_verbs",
+    "tip": "KHỞI (bắt đầu). 6時に起きます (Dậy lúc 6 giờ)."
+  },
+  {
+    "kanji": "寝ます",
+    "hiragana": "ねます",
+    "romaji": "nemasu",
+    "hanViet": "TẨM",
+    "meaning": "Ngủ",
+    "category": "verb",
+    "sub": "core_verbs",
+    "tip": "TẨM (phòng ngủ). 11時に寝ます (Ngủ lúc 11 giờ)."
+  },
+  {
+    "kanji": "休みます",
+    "hiragana": "やすみます",
+    "romaji": "yasumimasu",
+    "hanViet": "HƯU",
+    "meaning": "Nghỉ ngơi",
+    "category": "verb",
+    "sub": "core_verbs",
+    "tip": "Người (亻) tựa gốc cây (木) = HƯU (nghỉ)."
+  },
+  {
+    "kanji": "働きます",
+    "hiragana": "はたらきます",
+    "romaji": "hatarakimasu",
+    "hanViet": "ĐỘNG",
+    "meaning": "Làm việc",
+    "category": "verb",
+    "sub": "core_verbs",
+    "tip": "Người (亻) cử động (動) = lao động, làm việc."
+  },
+  {
+    "kanji": "作ります",
+    "hiragana": "つくります",
+    "romaji": "tsukurimasu",
+    "hanViet": "TÁC",
+    "meaning": "Làm, chế biến, nấu",
+    "category": "verb",
+    "sub": "core_verbs",
+    "tip": "Người (亻) chế tác. 料理を作ります (Nấu ăn)."
+  },
+  {
+    "kanji": "浴びます",
+    "hiragana": "あびます",
+    "romaji": "abimasu",
+    "hanViet": "DỤC",
+    "meaning": "Tắm (vòi sen)",
+    "category": "verb",
+    "sub": "core_verbs",
+    "tip": "Bộ THỦY (氵). シャワーを浴びます (Tắm vòi sen)."
+  },
+  {
+    "kanji": "洗います",
+    "hiragana": "あらいます",
+    "romaji": "araimasu",
+    "hanViet": "TIỂN",
+    "meaning": "Rửa (tay, mặt, xe)",
+    "category": "verb",
+    "sub": "core_verbs",
+    "tip": "Bộ THỦY (氵). 手を洗います (Rửa tay)."
+  },
+  {
+    "kanji": "待ちます",
+    "hiragana": "まちます",
+    "romaji": "machimasu",
+    "hanViet": "ĐÃI",
+    "meaning": "Chờ, đợi",
+    "category": "verb",
+    "sub": "core_verbs",
+    "tip": "ĐÃI (chờ đợi). ちょっと待ってください (Xin hãy chờ một chút)."
+  },
+  {
+    "kanji": "借ります",
+    "hiragana": "かります",
+    "romaji": "karimasu",
+    "hanViet": "TÁ",
+    "meaning": "Mượn, vay",
+    "category": "verb",
+    "sub": "core_verbs",
+    "tip": "Người (亻) đi mượn. Đi với trợ từ に! 友達に借ります."
+  },
+  {
+    "kanji": "貸します",
+    "hiragana": "かします",
+    "romaji": "kashimasu",
+    "hanViet": "THẢI",
+    "meaning": "Cho mượn, cho vay",
+    "category": "verb",
+    "sub": "core_verbs",
+    "tip": "Có bộ BỐI (tiền/sò). Cho ai mượn đi với に."
+  },
+  {
+    "kanji": "教えます",
+    "hiragana": "おしえます",
+    "romaji": "oshiemasu",
+    "hanViet": "GIÁO",
+    "meaning": "Dạy học, chỉ bảo",
+    "category": "verb",
+    "sub": "core_verbs",
+    "tip": "GIÁO (giáo viên dạy học). 日本語を教えます."
+  },
+  {
+    "kanji": "習います",
+    "hiragana": "ならいます",
+    "romaji": "naraimasu",
+    "hanViet": "TẬP",
+    "meaning": "Học (từ ai đó)",
+    "category": "verb",
+    "sub": "core_verbs",
+    "tip": "Học từ ai: [Người] に 習います."
+  },
+  {
+    "kanji": "撮ります",
+    "hiragana": "とります",
+    "romaji": "torimasu",
+    "hanViet": "TOÁT",
+    "meaning": "Chụp (ảnh)",
+    "category": "verb",
+    "sub": "core_verbs",
+    "tip": "写真 (しゃしん) を撮ります = Chụp ảnh."
+  },
+  {
+    "kanji": "切ります",
+    "hiragana": "きります",
+    "romaji": "kirimasu",
+    "hanViet": "THIẾT",
+    "meaning": "Cắt",
+    "category": "verb",
+    "sub": "core_verbs",
+    "tip": "Bộ ĐAO (dao cắt). ナイフで切ります (Cắt bằng dao)."
+  },
+  {
+    "kanji": "送ります",
+    "hiragana": "おくります",
+    "romaji": "okurimasu",
+    "hanViet": "TỐNG",
+    "meaning": "Gửi (thư, đồ, hàng)",
+    "category": "verb",
+    "sub": "core_verbs",
+    "tip": "TỐNG (tống tiễn, gửi đi). Bộ 辶 (bước đi)."
+  },
+  {
+    "kanji": "勉強します",
+    "hiragana": "べんきょうします",
+    "romaji": "benkyoushimasu",
+    "hanViet": "MIỄN CƯỜNG",
+    "meaning": "Học bài",
+    "category": "verb",
+    "sub": "core_verbs",
+    "tip": "MIỄN CƯỜNG = cố gắng học tập. 日本語を勉強します."
+  },
+  {
+    "kanji": "旅行します",
+    "hiragana": "りょこうします",
+    "romaji": "ryokoushimasu",
+    "hanViet": "LỮ HÀNH",
+    "meaning": "Đi du lịch",
+    "category": "verb",
+    "sub": "core_verbs",
+    "tip": "LỮ (đi xa) + HÀNH (bước đi). Đề FPT ra 100%!"
+  },
+  {
+    "kanji": "散歩します",
+    "hiragana": "さんぽします",
+    "romaji": "sanposhimasu",
+    "hanViet": "TẢN BỘ",
+    "meaning": "Đi dạo",
+    "category": "verb",
+    "sub": "core_verbs",
+    "tip": "TẢN (thong thả) + BỘ (bước chân). 公園を散歩します."
+  },
+  {
+    "kanji": "食事します",
+    "hiragana": "しょくじします",
+    "romaji": "shokujishimasu",
+    "hanViet": "THỰC SỰ",
+    "meaning": "Dùng bữa, ăn cơm",
+    "category": "verb",
+    "sub": "core_verbs",
+    "tip": "THỰC (ăn) + SỰ (việc). レストランで食事します."
+  },
+  {
+    "kanji": "買い物します",
+    "hiragana": "かいものします",
+    "romaji": "kaimonoshimasu",
+    "hanViet": "MÃI VẬT",
+    "meaning": "Đi mua sắm",
+    "category": "verb",
+    "sub": "core_verbs",
+    "tip": "MÃI (mua) + VẬT (đồ vật). スーパーで買い物します."
+  }
+]

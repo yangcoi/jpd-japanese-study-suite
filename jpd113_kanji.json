@@ -1,0 +1,962 @@
+[
+  {
+    "course": "JPD113",
+    "unit": "Tự nhiên & Thứ",
+    "hanViet": "Nhật",
+    "kanji": "日",
+    "hiragana": "ひ",
+    "meaning": "Nhật (Ngày, Mặt trời)"
+  },
+  {
+    "course": "JPD113",
+    "unit": "Tự nhiên & Thứ",
+    "hanViet": "",
+    "kanji": "日本",
+    "hiragana": "にほん",
+    "meaning": "Nhật Bản"
+  },
+  {
+    "course": "JPD113",
+    "unit": "Tự nhiên & Thứ",
+    "hanViet": "",
+    "kanji": "日曜日",
+    "hiragana": "にちようび",
+    "meaning": "Chủ nhật"
+  },
+  {
+    "course": "JPD113",
+    "unit": "Tự nhiên & Thứ",
+    "hanViet": "",
+    "kanji": "１０日",
+    "hiragana": "とおか",
+    "meaning": "Mùng 10"
+  },
+  {
+    "course": "JPD113",
+    "unit": "Tự nhiên & Thứ",
+    "hanViet": "",
+    "kanji": "誕生日",
+    "hiragana": "たんじょうび",
+    "meaning": "Ngày sinh nhật"
+  },
+  {
+    "course": "JPD113",
+    "unit": "Tự nhiên & Thứ",
+    "hanViet": "",
+    "kanji": "休みの日",
+    "hiragana": "やすみのひ",
+    "meaning": "Ngày nghỉ"
+  },
+  {
+    "course": "JPD113",
+    "unit": "Tự nhiên & Thứ",
+    "hanViet": "Nguyệt",
+    "kanji": "月",
+    "hiragana": "つき",
+    "meaning": "Nguyệt (Tháng, Mặt trăng)"
+  },
+  {
+    "course": "JPD113",
+    "unit": "Tự nhiên & Thứ",
+    "hanViet": "",
+    "kanji": "月曜日",
+    "hiragana": "げつようび",
+    "meaning": "Thứ hai"
+  },
+  {
+    "course": "JPD113",
+    "unit": "Tự nhiên & Thứ",
+    "hanViet": "",
+    "kanji": "一月",
+    "hiragana": "いちがつ",
+    "meaning": "Tháng 1"
+  },
+  {
+    "course": "JPD113",
+    "unit": "Tự nhiên & Thứ",
+    "hanViet": "",
+    "kanji": "四月",
+    "hiragana": "しがつ",
+    "meaning": "Tháng 4"
+  },
+  {
+    "course": "JPD113",
+    "unit": "Tự nhiên & Thứ",
+    "hanViet": "Hỏa",
+    "kanji": "火",
+    "hiragana": "ひ",
+    "meaning": "Hỏa (Lửa)"
+  },
+  {
+    "course": "JPD113",
+    "unit": "Tự nhiên & Thứ",
+    "hanViet": "",
+    "kanji": "火曜日",
+    "hiragana": "かようび",
+    "meaning": "Thứ ba"
+  },
+  {
+    "course": "JPD113",
+    "unit": "Tự nhiên & Thứ",
+    "hanViet": "",
+    "kanji": "花火",
+    "hiragana": "はなび",
+    "meaning": "Pháo hoa"
+  },
+  {
+    "course": "JPD113",
+    "unit": "Tự nhiên & Thứ",
+    "hanViet": "Thủy",
+    "kanji": "水",
+    "hiragana": "みず",
+    "meaning": "Thủy (Nước)"
+  },
+  {
+    "course": "JPD113",
+    "unit": "Tự nhiên & Thứ",
+    "hanViet": "",
+    "kanji": "水曜日",
+    "hiragana": "すいようび",
+    "meaning": "Thứ tư"
+  },
+  {
+    "course": "JPD113",
+    "unit": "Tự nhiên & Thứ",
+    "hanViet": "",
+    "kanji": "水道",
+    "hiragana": "すいどう",
+    "meaning": "Nước máy"
+  },
+  {
+    "course": "JPD113",
+    "unit": "Tự nhiên & Thứ",
+    "hanViet": "Mộc",
+    "kanji": "木",
+    "hiragana": "き",
+    "meaning": "Mộc (Cây)"
+  },
+  {
+    "course": "JPD113",
+    "unit": "Tự nhiên & Thứ",
+    "hanViet": "",
+    "kanji": "木曜日",
+    "hiragana": "もくようび",
+    "meaning": "Thứ năm"
+  },
+  {
+    "course": "JPD113",
+    "unit": "Tự nhiên & Thứ",
+    "hanViet": "Kim",
+    "kanji": "金",
+    "hiragana": "かね",
+    "meaning": "Kim (Tiền, Vàng)"
+  },
+  {
+    "course": "JPD113",
+    "unit": "Tự nhiên & Thứ",
+    "hanViet": "",
+    "kanji": "お金",
+    "hiragana": "おかね",
+    "meaning": "Tiền"
+  },
+  {
+    "course": "JPD113",
+    "unit": "Tự nhiên & Thứ",
+    "hanViet": "",
+    "kanji": "金曜日",
+    "hiragana": "きんようび",
+    "meaning": "Thứ sáu"
+  },
+  {
+    "course": "JPD113",
+    "unit": "Tự nhiên & Thứ",
+    "hanViet": "Thổ",
+    "kanji": "土",
+    "hiragana": "つち",
+    "meaning": "Thổ (Đất)"
+  },
+  {
+    "course": "JPD113",
+    "unit": "Tự nhiên & Thứ",
+    "hanViet": "",
+    "kanji": "土曜日",
+    "hiragana": "どようび",
+    "meaning": "Thứ bảy"
+  },
+  {
+    "course": "JPD113",
+    "unit": "Thời gian",
+    "hanViet": "Niên",
+    "kanji": "年",
+    "hiragana": "とし",
+    "meaning": "Niên (Năm)"
+  },
+  {
+    "course": "JPD113",
+    "unit": "Thời gian",
+    "hanViet": "",
+    "kanji": "今年",
+    "hiragana": "ことし",
+    "meaning": "Năm nay"
+  },
+  {
+    "course": "JPD113",
+    "unit": "Thời gian",
+    "hanViet": "",
+    "kanji": "１９９８年",
+    "hiragana": "せんきゅうひゃくきゅうじゅうはちねん",
+    "meaning": "Năm 1998"
+  },
+  {
+    "course": "JPD113",
+    "unit": "Thời gian",
+    "hanViet": "",
+    "kanji": "何年",
+    "hiragana": "なんねん",
+    "meaning": "Năm bao nhiêu"
+  },
+  {
+    "course": "JPD113",
+    "unit": "Thời gian",
+    "hanViet": "Thời",
+    "kanji": "時",
+    "hiragana": "とき",
+    "meaning": "Thời (Giờ, Khi)"
+  },
+  {
+    "course": "JPD113",
+    "unit": "Thời gian",
+    "hanViet": "",
+    "kanji": "何時",
+    "hiragana": "なんじ",
+    "meaning": "Mấy giờ"
+  },
+  {
+    "course": "JPD113",
+    "unit": "Thời gian",
+    "hanViet": "",
+    "kanji": "四時",
+    "hiragana": "よじ",
+    "meaning": "4 giờ"
+  },
+  {
+    "course": "JPD113",
+    "unit": "Thời gian",
+    "hanViet": "",
+    "kanji": "九時",
+    "hiragana": "くじ",
+    "meaning": "9 giờ"
+  },
+  {
+    "course": "JPD113",
+    "unit": "Thời gian",
+    "hanViet": "Gian",
+    "kanji": "間",
+    "hiragana": "あいだ",
+    "meaning": "Gian (Khoảng)"
+  },
+  {
+    "course": "JPD113",
+    "unit": "Thời gian",
+    "hanViet": "",
+    "kanji": "時間",
+    "hiragana": "じかん",
+    "meaning": "Thời gian"
+  },
+  {
+    "course": "JPD113",
+    "unit": "Thời gian",
+    "hanViet": "",
+    "kanji": "三時間",
+    "hiragana": "さんじかん",
+    "meaning": "3 tiếng"
+  },
+  {
+    "course": "JPD113",
+    "unit": "Thời gian",
+    "hanViet": "",
+    "kanji": "何時間",
+    "hiragana": "なんじかん",
+    "meaning": "Mấy tiếng"
+  },
+  {
+    "course": "JPD113",
+    "unit": "Thời gian",
+    "hanViet": "Phân",
+    "kanji": "分",
+    "hiragana": "わ.かる",
+    "meaning": "Phân (Phút, Hiểu)"
+  },
+  {
+    "course": "JPD113",
+    "unit": "Thời gian",
+    "hanViet": "",
+    "kanji": "一分",
+    "hiragana": "いっぷん",
+    "meaning": "1 phút"
+  },
+  {
+    "course": "JPD113",
+    "unit": "Thời gian",
+    "hanViet": "",
+    "kanji": "五分",
+    "hiragana": "ごふん",
+    "meaning": "5 phút"
+  },
+  {
+    "course": "JPD113",
+    "unit": "Thời gian",
+    "hanViet": "",
+    "kanji": "半分",
+    "hiragana": "はんぶん",
+    "meaning": "Một nửa"
+  },
+  {
+    "course": "JPD113",
+    "unit": "Thời gian",
+    "hanViet": "",
+    "kanji": "分かります",
+    "hiragana": "わかります",
+    "meaning": "Hiểu"
+  },
+  {
+    "course": "JPD113",
+    "unit": "Thời gian",
+    "hanViet": "Hà",
+    "kanji": "何",
+    "hiragana": "なに",
+    "meaning": "Hà (Cái gì)"
+  },
+  {
+    "course": "JPD113",
+    "unit": "Thời gian",
+    "hanViet": "",
+    "kanji": "何月",
+    "hiragana": "なんがつ",
+    "meaning": "Tháng mấy"
+  },
+  {
+    "course": "JPD113",
+    "unit": "Thời gian",
+    "hanViet": "",
+    "kanji": "何日",
+    "hiragana": "なんにち",
+    "meaning": "Ngày mấy"
+  },
+  {
+    "course": "JPD113",
+    "unit": "Thời gian",
+    "hanViet": "",
+    "kanji": "何才",
+    "hiragana": "なんさい",
+    "meaning": "Mấy tuổi"
+  },
+  {
+    "course": "JPD113",
+    "unit": "Thời gian",
+    "hanViet": "",
+    "kanji": "何人",
+    "hiragana": "なんにん",
+    "meaning": "Mấy người"
+  },
+  {
+    "course": "JPD113",
+    "unit": "Thời gian",
+    "hanViet": "",
+    "kanji": "何曜日",
+    "hiragana": "なんようび",
+    "meaning": "Thứ mấy"
+  },
+  {
+    "course": "JPD113",
+    "unit": "Thời gian",
+    "hanViet": "",
+    "kanji": "何ですか",
+    "hiragana": "なんですか",
+    "meaning": "Cái gì"
+  },
+  {
+    "course": "JPD113",
+    "unit": "Số đếm",
+    "hanViet": "Nhất",
+    "kanji": "一",
+    "hiragana": "ひと",
+    "meaning": "Nhất (1)"
+  },
+  {
+    "course": "JPD113",
+    "unit": "Số đếm",
+    "hanViet": "",
+    "kanji": "一つ",
+    "hiragana": "ひとつ",
+    "meaning": "1 cái"
+  },
+  {
+    "course": "JPD113",
+    "unit": "Số đếm",
+    "hanViet": "",
+    "kanji": "一日",
+    "hiragana": "ついたち",
+    "meaning": "Mùng 1"
+  },
+  {
+    "course": "JPD113",
+    "unit": "Số đếm",
+    "hanViet": "",
+    "kanji": "一番",
+    "hiragana": "いちばん",
+    "meaning": "Số 1"
+  },
+  {
+    "course": "JPD113",
+    "unit": "Số đếm",
+    "hanViet": "Nhị",
+    "kanji": "二",
+    "hiragana": "ふた",
+    "meaning": "Nhị (2)"
+  },
+  {
+    "course": "JPD113",
+    "unit": "Số đếm",
+    "hanViet": "",
+    "kanji": "二つ",
+    "hiragana": "ふたつ",
+    "meaning": "2 cái"
+  },
+  {
+    "course": "JPD113",
+    "unit": "Số đếm",
+    "hanViet": "",
+    "kanji": "二月",
+    "hiragana": "にがつ",
+    "meaning": "Tháng 2"
+  },
+  {
+    "course": "JPD113",
+    "unit": "Số đếm",
+    "hanViet": "",
+    "kanji": "二人",
+    "hiragana": "ふたり",
+    "meaning": "2 người"
+  },
+  {
+    "course": "JPD113",
+    "unit": "Số đếm",
+    "hanViet": "Tam",
+    "kanji": "三",
+    "hiragana": "み",
+    "meaning": "Tam (3)"
+  },
+  {
+    "course": "JPD113",
+    "unit": "Số đếm",
+    "hanViet": "",
+    "kanji": "三つ",
+    "hiragana": "みっつ",
+    "meaning": "3 cái"
+  },
+  {
+    "course": "JPD113",
+    "unit": "Số đếm",
+    "hanViet": "",
+    "kanji": "三月",
+    "hiragana": "さんがつ",
+    "meaning": "Tháng 3"
+  },
+  {
+    "course": "JPD113",
+    "unit": "Số đếm",
+    "hanViet": "",
+    "kanji": "三人",
+    "hiragana": "さんにん",
+    "meaning": "3 người"
+  },
+  {
+    "course": "JPD113",
+    "unit": "Số đếm",
+    "hanViet": "Tứ",
+    "kanji": "四",
+    "hiragana": "よ",
+    "meaning": "Tứ (4)"
+  },
+  {
+    "course": "JPD113",
+    "unit": "Số đếm",
+    "hanViet": "",
+    "kanji": "四つ",
+    "hiragana": "よっつ",
+    "meaning": "4 cái"
+  },
+  {
+    "course": "JPD113",
+    "unit": "Số đếm",
+    "hanViet": "",
+    "kanji": "四人",
+    "hiragana": "よにん",
+    "meaning": "4 người"
+  },
+  {
+    "course": "JPD113",
+    "unit": "Số đếm",
+    "hanViet": "Ngũ",
+    "kanji": "五",
+    "hiragana": "いつ",
+    "meaning": "Ngũ (5)"
+  },
+  {
+    "course": "JPD113",
+    "unit": "Số đếm",
+    "hanViet": "",
+    "kanji": "五つ",
+    "hiragana": "いつつ",
+    "meaning": "5 cái"
+  },
+  {
+    "course": "JPD113",
+    "unit": "Số đếm",
+    "hanViet": "",
+    "kanji": "五月",
+    "hiragana": "ごがつ",
+    "meaning": "Tháng 5"
+  },
+  {
+    "course": "JPD113",
+    "unit": "Số đếm",
+    "hanViet": "",
+    "kanji": "五日",
+    "hiragana": "いつか",
+    "meaning": "Ngày mùng 5"
+  },
+  {
+    "course": "JPD113",
+    "unit": "Số đếm",
+    "hanViet": "Lục",
+    "kanji": "六",
+    "hiragana": "む",
+    "meaning": "Lục (6)"
+  },
+  {
+    "course": "JPD113",
+    "unit": "Số đếm",
+    "hanViet": "",
+    "kanji": "六つ",
+    "hiragana": "むっつ",
+    "meaning": "6 cái"
+  },
+  {
+    "course": "JPD113",
+    "unit": "Số đếm",
+    "hanViet": "",
+    "kanji": "六月",
+    "hiragana": "ろくがつ",
+    "meaning": "Tháng 6"
+  },
+  {
+    "course": "JPD113",
+    "unit": "Số đếm",
+    "hanViet": "",
+    "kanji": "六日",
+    "hiragana": "むいか",
+    "meaning": "Ngày mùng 6"
+  },
+  {
+    "course": "JPD113",
+    "unit": "Số đếm",
+    "hanViet": "Thất",
+    "kanji": "七",
+    "hiragana": "なな",
+    "meaning": "Thất (7)"
+  },
+  {
+    "course": "JPD113",
+    "unit": "Số đếm",
+    "hanViet": "",
+    "kanji": "七つ",
+    "hiragana": "ななつ",
+    "meaning": "7 cái"
+  },
+  {
+    "course": "JPD113",
+    "unit": "Số đếm",
+    "hanViet": "",
+    "kanji": "七月",
+    "hiragana": "しちがつ",
+    "meaning": "Tháng 7"
+  },
+  {
+    "course": "JPD113",
+    "unit": "Số đếm",
+    "hanViet": "",
+    "kanji": "七日",
+    "hiragana": "なのか",
+    "meaning": "Ngày mùng 7"
+  },
+  {
+    "course": "JPD113",
+    "unit": "Số đếm",
+    "hanViet": "Bát",
+    "kanji": "八",
+    "hiragana": "や",
+    "meaning": "Bát (8)"
+  },
+  {
+    "course": "JPD113",
+    "unit": "Số đếm",
+    "hanViet": "",
+    "kanji": "八つ",
+    "hiragana": "やっつ",
+    "meaning": "8 cái"
+  },
+  {
+    "course": "JPD113",
+    "unit": "Số đếm",
+    "hanViet": "",
+    "kanji": "八月",
+    "hiragana": "はちがつ",
+    "meaning": "Tháng 8"
+  },
+  {
+    "course": "JPD113",
+    "unit": "Số đếm",
+    "hanViet": "",
+    "kanji": "八日",
+    "hiragana": "ようか",
+    "meaning": "Ngày mùng 8"
+  },
+  {
+    "course": "JPD113",
+    "unit": "Số đếm",
+    "hanViet": "Cửu",
+    "kanji": "九",
+    "hiragana": "ここの",
+    "meaning": "Cửu (9)"
+  },
+  {
+    "course": "JPD113",
+    "unit": "Số đếm",
+    "hanViet": "",
+    "kanji": "九つ",
+    "hiragana": "ここのつ",
+    "meaning": "9 cái"
+  },
+  {
+    "course": "JPD113",
+    "unit": "Số đếm",
+    "hanViet": "",
+    "kanji": "九月",
+    "hiragana": "くがつ",
+    "meaning": "Tháng 9"
+  },
+  {
+    "course": "JPD113",
+    "unit": "Số đếm",
+    "hanViet": "",
+    "kanji": "九州",
+    "hiragana": "きゅうしゅう",
+    "meaning": "Vùng Kyushu"
+  },
+  {
+    "course": "JPD113",
+    "unit": "Số đếm",
+    "hanViet": "Thập",
+    "kanji": "十",
+    "hiragana": "とお",
+    "meaning": "Thập (10)"
+  },
+  {
+    "course": "JPD113",
+    "unit": "Số đếm",
+    "hanViet": "",
+    "kanji": "十月",
+    "hiragana": "じゅうがつ",
+    "meaning": "Tháng 10"
+  },
+  {
+    "course": "JPD113",
+    "unit": "Số đếm",
+    "hanViet": "",
+    "kanji": "十分",
+    "hiragana": "じゅっぷん",
+    "meaning": "10 phút"
+  },
+  {
+    "course": "JPD113",
+    "unit": "Số đếm",
+    "hanViet": "Bách",
+    "kanji": "百",
+    "hiragana": "-",
+    "meaning": "Bách (100)"
+  },
+  {
+    "course": "JPD113",
+    "unit": "Số đếm",
+    "hanViet": "",
+    "kanji": "三百",
+    "hiragana": "さんびゃく",
+    "meaning": "300"
+  },
+  {
+    "course": "JPD113",
+    "unit": "Số đếm",
+    "hanViet": "",
+    "kanji": "八百",
+    "hiragana": "はっぴゃく",
+    "meaning": "800"
+  },
+  {
+    "course": "JPD113",
+    "unit": "Số đếm",
+    "hanViet": "Thiên",
+    "kanji": "千",
+    "hiragana": "ち",
+    "meaning": "Thiên (1000)"
+  },
+  {
+    "course": "JPD113",
+    "unit": "Số đếm",
+    "hanViet": "",
+    "kanji": "三千",
+    "hiragana": "さんぜん",
+    "meaning": "3000"
+  },
+  {
+    "course": "JPD113",
+    "unit": "Số đếm",
+    "hanViet": "",
+    "kanji": "千葉",
+    "hiragana": "ちば",
+    "meaning": "Chiba"
+  },
+  {
+    "course": "JPD113",
+    "unit": "Số đếm",
+    "hanViet": "Vạn",
+    "kanji": "万",
+    "hiragana": "-",
+    "meaning": "Vạn (10.000)"
+  },
+  {
+    "course": "JPD113",
+    "unit": "Số đếm",
+    "hanViet": "",
+    "kanji": "一万",
+    "hiragana": "いちまん",
+    "meaning": "1 vạn (10.000)"
+  },
+  {
+    "course": "JPD113",
+    "unit": "Số đếm",
+    "hanViet": "",
+    "kanji": "万国",
+    "hiragana": "ばんこく",
+    "meaning": "Vạn quốc"
+  },
+  {
+    "course": "JPD113",
+    "unit": "Con người",
+    "hanViet": "Nhân",
+    "kanji": "人",
+    "hiragana": "ひと",
+    "meaning": "Nhân (Người)"
+  },
+  {
+    "course": "JPD113",
+    "unit": "Con người",
+    "hanViet": "",
+    "kanji": "日本人",
+    "hiragana": "にほんじん",
+    "meaning": "Người Nhật"
+  },
+  {
+    "course": "JPD113",
+    "unit": "Con người",
+    "hanViet": "Nam",
+    "kanji": "男",
+    "hiragana": "おとこ",
+    "meaning": "Nam (Đàn ông)"
+  },
+  {
+    "course": "JPD113",
+    "unit": "Con người",
+    "hanViet": "",
+    "kanji": "男の子",
+    "hiragana": "おとこのこ",
+    "meaning": "Bé trai"
+  },
+  {
+    "course": "JPD113",
+    "unit": "Con người",
+    "hanViet": "Nữ",
+    "kanji": "女",
+    "hiragana": "おんな",
+    "meaning": "Nữ (Phụ nữ)"
+  },
+  {
+    "course": "JPD113",
+    "unit": "Con người",
+    "hanViet": "",
+    "kanji": "女の子",
+    "hiragana": "おんなのこ",
+    "meaning": "Bé gái"
+  },
+  {
+    "course": "JPD113",
+    "unit": "Con người",
+    "hanViet": "",
+    "kanji": "彼女",
+    "hiragana": "かのじょ",
+    "meaning": "Cô ấy"
+  },
+  {
+    "course": "JPD113",
+    "unit": "Con người",
+    "hanViet": "Tử",
+    "kanji": "子",
+    "hiragana": "こ",
+    "meaning": "Tử (Trẻ con)"
+  },
+  {
+    "course": "JPD113",
+    "unit": "Con người",
+    "hanViet": "",
+    "kanji": "子ども",
+    "hiragana": "こども",
+    "meaning": "Trẻ em"
+  },
+  {
+    "course": "JPD113",
+    "unit": "Con người",
+    "hanViet": "",
+    "kanji": "女子",
+    "hiragana": "じょし",
+    "meaning": "Nữ giới"
+  },
+  {
+    "course": "JPD113",
+    "unit": "Con người",
+    "hanViet": "Tư",
+    "kanji": "私",
+    "hiragana": "わたし",
+    "meaning": "Tư (Tôi)"
+  },
+  {
+    "course": "JPD113",
+    "unit": "Con người",
+    "hanViet": "",
+    "kanji": "私立",
+    "hiragana": "しりつ",
+    "meaning": "Tư lập (Trường tư)"
+  },
+  {
+    "course": "JPD113",
+    "unit": "Trường học",
+    "hanViet": "Bản",
+    "kanji": "本",
+    "hiragana": "もと",
+    "meaning": "Bản (Sách)"
+  },
+  {
+    "course": "JPD113",
+    "unit": "Trường học",
+    "hanViet": "",
+    "kanji": "山本",
+    "hiragana": "やまもと",
+    "meaning": "Yamamoto (Tên)"
+  },
+  {
+    "course": "JPD113",
+    "unit": "Trường học",
+    "hanViet": "Học",
+    "kanji": "学",
+    "hiragana": "まな.ぶ",
+    "meaning": "Học"
+  },
+  {
+    "course": "JPD113",
+    "unit": "Trường học",
+    "hanViet": "",
+    "kanji": "学生",
+    "hiragana": "がくせい",
+    "meaning": "Học sinh"
+  },
+  {
+    "course": "JPD113",
+    "unit": "Trường học",
+    "hanViet": "",
+    "kanji": "大学",
+    "hiragana": "だいがく",
+    "meaning": "Đại học"
+  },
+  {
+    "course": "JPD113",
+    "unit": "Trường học",
+    "hanViet": "",
+    "kanji": "学ぶ",
+    "hiragana": "まなぶ",
+    "meaning": "Học tập"
+  },
+  {
+    "course": "JPD113",
+    "unit": "Trường học",
+    "hanViet": "Hiệu",
+    "kanji": "校",
+    "hiragana": "-",
+    "meaning": "Hiệu (Trường)"
+  },
+  {
+    "course": "JPD113",
+    "unit": "Trường học",
+    "hanViet": "",
+    "kanji": "学校",
+    "hiragana": "がっこう",
+    "meaning": "Trường học"
+  },
+  {
+    "course": "JPD113",
+    "unit": "Trường học",
+    "hanViet": "",
+    "kanji": "高校",
+    "hiragana": "こうこう",
+    "meaning": "Trường cấp 3"
+  },
+  {
+    "course": "JPD113",
+    "unit": "Trường học",
+    "hanViet": "Sinh",
+    "kanji": "生",
+    "hiragana": "い.きる",
+    "meaning": "Sinh"
+  },
+  {
+    "course": "JPD113",
+    "unit": "Trường học",
+    "hanViet": "",
+    "kanji": "先生",
+    "hiragana": "せんせい",
+    "meaning": "Giáo viên"
+  },
+  {
+    "course": "JPD113",
+    "unit": "Trường học",
+    "hanViet": "",
+    "kanji": "生まれる",
+    "hiragana": "うまれる",
+    "meaning": "Được sinh ra"
+  },
+  {
+    "course": "JPD113",
+    "unit": "Trường học",
+    "hanViet": "Tiên",
+    "kanji": "先",
+    "hiragana": "さき",
+    "meaning": "Tiên (Trước)"
+  },
+  {
+    "course": "JPD113",
+    "unit": "Trường học",
+    "hanViet": "",
+    "kanji": "先月",
+    "hiragana": "せんげつ",
+    "meaning": "Tháng trước"
+  }
+]
